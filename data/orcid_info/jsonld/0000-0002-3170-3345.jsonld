@@ -1,0 +1,801 @@
+[
+  {
+    "@id": "https://doi.org/10.1017/s003060531900053x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9c52615b50ad4b0c9039c05da1138ada"
+      },
+      {
+        "@id": "_:Nd7d6c50d9a2841c591d07617068eea97"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Population structure and genetic diversity of Magnolia cubensis subsp. acunae (Magnoliaceae): effects of habitat fragmentation and implications for conservation"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8654042"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9c52615b50ad4b0c9039c05da1138ada",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s003060531900053x"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd7d6c50d9a2841c591d07617068eea97",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8654042"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1038/s41437-018-0151-5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb9b221f2c2514fa59e75fb871e13d03e"
+      },
+      {
+        "@id": "_:Nd77427ca52de49139f4d37c7ec806c27"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Genetic patterns in Neotropical Magnolias (Magnoliaceae) using de novo developed microsatellite markers"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8578761"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb9b221f2c2514fa59e75fb871e13d03e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8578761"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd77427ca52de49139f4d37c7ec806c27",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1038/s41437-018-0151-5"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.11646/phytotaxa.201.3.6",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2845e114a48844b685e63e3a24b21371"
+      },
+      {
+        "@id": "_:N31c5cbf4e3af43a5a3a39d35174fc18f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Bulbostylis albidostricta (Abildgaardieae, Cyperaceae): a new sedge species from Angola"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-5874478"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2845e114a48844b685e63e3a24b21371",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-5874478"
+      }
+    ]
+  },
+  {
+    "@id": "_:N31c5cbf4e3af43a5a3a39d35174fc18f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.11646/phytotaxa.201.3.6"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/s12225-018-9780-3",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc6e4011338ff4c6a92771bac1e8c0c31"
+      },
+      {
+        "@id": "_:N7209351a68ae441d8b40e0d71b62b4c3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Investigating taxon boundaries and extinction risk in endemic Chilean cacti (Copiapoa subsection Cinerei, Cactaceae) using chloroplast DNA sequences, microsatellite data and 3D mapping"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8582077"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc6e4011338ff4c6a92771bac1e8c0c31",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s12225-018-9780-3"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7209351a68ae441d8b40e0d71b62b4c3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8582077"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1016/j.ympev.2021.107359",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbfdfe5dc1afa4ea4ae9ab3f51cc507a3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The evolutionary history of the Caribbean magnolias (Magnoliaceae): Testing species delimitations and biogeographical hypotheses using molecular data"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbfdfe5dc1afa4ea4ae9ab3f51cc507a3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.ympev.2021.107359"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3390/plants11030448",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nab1fa3ceda1544b7be1597e912d0ce06"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Comparison of Magnoliaceae Plastomes: Adding Neotropical Magnolia to the Discussion"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nab1fa3ceda1544b7be1597e912d0ce06",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3390/plants11030448"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/s10592-021-01395-6",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ndc3381e95e3149129d2ee567c0861d63"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Effect of the landscape on functional and spatial connectivity in Magnolia cubensis (Magnoliaceae) in two mountain massifs of Cuba"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndc3381e95e3149129d2ee567c0861d63",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s10592-021-01395-6"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.6511351",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncf5a8564b1c9404ea4264d0376a91605"
+      },
+      {
+        "@id": "_:Nd3fe0c6201004402b0050aa9c8165b21"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "DiSSCo-Flanders WP2 - task 2.1, Detailed inventory of the collections: Report"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncf5a8564b1c9404ea4264d0376a91605",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "da83f75b-1cb2-4f61-9e72-b50fd4f0d5c2"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd3fe0c6201004402b0050aa9c8165b21",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.6511351"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/jbi.14514",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N50278a64862341e9a9c78c2280349727"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Genetic patterns of Magnolia in the Lesser Antilles: Stepwise colonisation leading to highly inbred island ‘populations’"
+      }
+    ]
+  },
+  {
+    "@id": "_:N50278a64862341e9a9c78c2280349727",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/jbi.14514"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-3170-3345",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:Na06f0f69bb2048acadafa0f3f9a03652"
+      },
+      {
+        "@id": "_:Nae3e0b9b9bb54e0e8e99cb4c795ca83f"
+      },
+      {
+        "@id": "_:N9701b37c44674cf59c9fb8cecc99e5f2"
+      },
+      {
+        "@id": "_:N5e753eff4ce34ad2bd7ea023e041cfa5"
+      },
+      {
+        "@id": "_:Nca796efa984148b8b40705c395d87883"
+      },
+      {
+        "@id": "_:Nf7886abac56147368ae7e9a2917154b7"
+      },
+      {
+        "@id": "_:N0d940ba78035483d814db5f4b9097f35"
+      },
+      {
+        "@id": "_:Nbe589fc7ea274defb7377e9e7e6563f3"
+      },
+      {
+        "@id": "_:Nb6eeec2263954fe4a2798de1dbb6d302"
+      },
+      {
+        "@id": "_:Nce3c8e75ca7a41679a9bf46f795080bd"
+      }
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Veltjen"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Emily"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.linkedin.com/in/emily-veltjen-25356a82/"
+      },
+      {
+        "@id": "https://biblio.ugent.be/person/2553D83C-F0EE-11E1-A9DE-61C894A0A6B4"
+      },
+      {
+        "@id": "https://pureportal.inbo.be/portal/en/persons/emily-veltjen(7237bf36-9d48-443a-b72e-16c70964ab89).html"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na06f0f69bb2048acadafa0f3f9a03652",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "BE"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nae3e0b9b9bb54e0e8e99cb4c795ca83f",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CU"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9701b37c44674cf59c9fb8cecc99e5f2",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "DM"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5e753eff4ce34ad2bd7ea023e041cfa5",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "DO"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nca796efa984148b8b40705c395d87883",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "GP"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf7886abac56147368ae7e9a2917154b7",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "HT"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0d940ba78035483d814db5f4b9097f35",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "MQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbe589fc7ea274defb7377e9e7e6563f3",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "PR"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb6eeec2263954fe4a2798de1dbb6d302",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "LC"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nce3c8e75ca7a41679a9bf46f795080bd",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "VC"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1016/j.ympev.2022.107404",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8245c36592d047109d9cf6f0f4bf83ee"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Plastid phylogenomics of the Sansevieria Clade of Dracaena (Asparagaceae) resolves a recent radiation"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8245c36592d047109d9cf6f0f4bf83ee",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.ympev.2022.107404"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/s10592-021-01334-5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne1fe8b6851ba43c0882dd81a7486a0e4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Conservation genetics of relict tropical species of Magnolia (section Macrophylla)"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne1fe8b6851ba43c0882dd81a7486a0e4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s10592-021-01334-5"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3390/plants10040673",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9cc8222b6c594af69299c86a751a4d30"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Disentangling Species Delineation and Guiding Conservation of Endangered Magnolias in Veracruz, Mexico"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9cc8222b6c594af69299c86a751a4d30",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3390/plants10040673"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Biology"
+      },
+      {
+        "@value": "Ghent University Botanical Garden"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ghent University"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/phytokeys.213.82627",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne32b2ba2520a4e65afccf36da910f3db"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "﻿Integrating morphological and genetic limits in the taxonomic delimitation of the Cuban taxa of Magnolia subsect. Talauma (Magnoliaceae)"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne32b2ba2520a4e65afccf36da910f3db",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/phytokeys.213.82627"
+      }
+    ]
+  }
+]

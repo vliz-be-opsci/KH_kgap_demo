@@ -1,0 +1,45 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0003-4847-6289#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-4847-6289>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-4847-6289> ;
+        pav:createdOn         "2017-03-07T15:27:04.616Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2023-11-13T10:58:32.731Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-11-13T10:58:32.731Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-4847-6289> ;
+        foaf:maker            <https://orcid.org/0000-0003-4847-6289> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-4847-6289> .
+
+<https://orcid.org/0000-0003-4847-6289#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-4847-6289" ;
+        foaf:accountName             "0000-0003-4847-6289" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0003-4847-6289>
+        rdf:type           foaf:Person , prov:Person ;
+        rdfs:label         "Özgün Ünver" ;
+        foaf:account       <https://orcid.org/0000-0003-4847-6289#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Ünver" ;
+        foaf:givenName     "Özgün" ;
+        foaf:page          <https://cris.vub.be/en/persons/oezgun-unver(480ece38-1a25-4ed2-8dea-f00ad39d5da1).html> , <https://www.linkedin.com/in/ozgununver/> ;
+        foaf:publications  <https://orcid.org/0000-0003-4847-6289#workspace-works> .

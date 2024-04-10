@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://orcid.org/0009-0000-9611-3824",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Eves Down"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Maria-Rose"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0009-0000-9611-3824"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/05f950310>
+    a schema:Organization ;
+    schema:name 'KU Leuven'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'Catholic University of Leuven'^^xsd:string, 'University of Leuven'^^xsd:string;
+    schema:foundingDate '1425'^^xsd:string ;
+        dct:relation <https://ror.org/01cz3wf89> ;
+        dct:relation <https://ror.org/03w5j8p12> ;
+        dct:relation <https://ror.org/0424bsv16> ;
+        dct:relation <https://ror.org/056t38c37> ;
+        schema:subOrganization <https://ror.org/04sc67422> ;
+        schema:subOrganization <https://ror.org/045c7t348> ;
+        schema:subOrganization <https://ror.org/00eyng893> ;
+        schema:subOrganization <https://ror.org/02bpp8r91> ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'http://www.kuleuven.be/english'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q833670> ;
+    schema:identifier <http://isni.org/isni/0000000106687884> ;
+    schema:identifier <https://api.crossref.org/funders/501100004040> ;
+.

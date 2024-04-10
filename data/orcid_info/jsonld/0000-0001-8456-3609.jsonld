@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0001-8456-3609",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Dhondt"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Charlotte A. L."
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0001-8456-3609"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Flanders Marine Institute"
+      }
+    ]
+  }
+]

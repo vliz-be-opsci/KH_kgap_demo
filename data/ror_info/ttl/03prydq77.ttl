@@ -1,0 +1,18 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/03prydq77>
+    a schema:Organization ;
+    schema:name 'University of Vienna'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1365'^^xsd:string ;
+        dct:relation <https://ror.org/05f0zr486> ;
+        schema:subOrganization <https://ror.org/01cbw5x35> ;
+        schema:subOrganization <https://ror.org/014cpn338> ;
+        schema:subOrganization <https://ror.org/01w64ht88> ;
+    schema:url 'https://www.univie.ac.at/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q165980> ;
+    schema:identifier <http://isni.org/isni/0000000122861424> ;
+    schema:identifier <https://api.crossref.org/funders/501100003065> ;
+.

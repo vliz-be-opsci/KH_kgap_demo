@@ -1,0 +1,35 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0003-3616-2936>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Linde Tuybens" ;
+        foaf:account       <https://orcid.org/0000-0003-3616-2936#orcid-id> ;
+        foaf:familyName    "Tuybens" ;
+        foaf:givenName     "Linde" ;
+        foaf:publications  <https://orcid.org/0000-0003-3616-2936#workspace-works> .
+
+<https://orcid.org/0000-0003-3616-2936#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-3616-2936>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-3616-2936> ;
+        pav:createdOn         "2021-12-01T16:28:36.220Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-25T10:53:31.852Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-25T10:53:31.852Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-3616-2936> ;
+        foaf:maker            <https://orcid.org/0000-0003-3616-2936> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-3616-2936> .
+
+<https://orcid.org/0000-0003-3616-2936#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-3616-2936" ;
+        foaf:accountName             "0000-0003-3616-2936" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .

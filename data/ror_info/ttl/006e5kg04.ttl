@@ -1,0 +1,22 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/006e5kg04>
+    a schema:Organization ;
+    schema:name 'Vrije Universiteit Brussel'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1834'^^xsd:string ;
+        dct:relation <https://ror.org/002kn6n54> ;
+        dct:relation <https://ror.org/05cmp5q80> ;
+        dct:relation <https://ror.org/01t5yh786> ;
+        dct:relation <https://ror.org/038f7y939> ;
+        schema:subOrganization <https://ror.org/040w2dm02> ;
+        schema:subOrganization <https://ror.org/03e84cm85> ;
+        schema:subOrganization <https://ror.org/05y4fay10> ;
+        dct:relation <https://ror.org/016782g02> ;
+    schema:url 'http://www.vub.ac.be/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q612665> ;
+    schema:identifier <http://isni.org/isni/0000000122908069> ;
+    schema:identifier <https://api.crossref.org/funders/501100004418> ;
+.

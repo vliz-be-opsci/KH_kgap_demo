@@ -1,0 +1,37 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-3292-4609>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-3292-4609> ;
+        pav:createdOn         "2020-02-25T12:29:35.342Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-05-24T10:46:27.160Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-05-24T10:46:27.160Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-3292-4609> ;
+        foaf:maker            <https://orcid.org/0000-0002-3292-4609> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-3292-4609> .
+
+<https://orcid.org/0000-0002-3292-4609#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-3292-4609>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Jone Paesmans" ;
+        foaf:account       <https://orcid.org/0000-0002-3292-4609#orcid-id> ;
+        foaf:familyName    "Paesmans" ;
+        foaf:givenName     "Jone" ;
+        foaf:page          <https://cris.vub.be/en/persons/jone-paesmans(b0bc43ca-2a12-437c-889d-9b064051b9fe).html> ;
+        foaf:publications  <https://orcid.org/0000-0002-3292-4609#workspace-works> .
+
+<https://orcid.org/0000-0002-3292-4609#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-3292-4609" ;
+        foaf:accountName             "0000-0002-3292-4609" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .

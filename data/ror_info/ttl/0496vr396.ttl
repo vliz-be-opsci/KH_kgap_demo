@@ -1,0 +1,15 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/0496vr396>
+    a schema:Organization ;
+    schema:name 'Flanders Marine Institute'^^xsd:string ;
+    schema:additionalType 'Nonprofit'^^xsd:string;
+    schema:foundingDate '1999'^^xsd:string ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'https://www.vliz.be'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q2297636> ;
+    schema:identifier <http://isni.org/isni/0000000122309672> ;
+    schema:identifier <https://api.crossref.org/funders/100018447> ;
+.

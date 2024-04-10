@@ -1,0 +1,61 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<{{_.id}}>
+    a schema:Organization ;
+    schema:name {{_.name | ttl("xsd:string") |safe }} ;
+    {%- if _.types %}
+    schema:additionalType {%for type in _.types%}{{type | ttl("xsd:string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
+    {%- endif %}
+    {%- if _.aliases %}
+    schema:alternateName {%for alias in _.aliases%}{{alias | ttl("xsd:string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
+    {%- endif %}
+    {%- if _.email_address %}
+    schema:email {{_.email_address | ttl("xsd:string") |safe}} ;
+    {%- endif %}
+    {%- if _.established %}
+    schema:foundingDate {{_.established | ttl("xsd:string") |safe}} ;
+    {%- endif %}
+    {#- relationships #}
+    {%- if _.relationships %}
+    {%- for org in _.relationships %}
+        {%- if org.type == "Child" %}
+        schema:subOrganization <{{org.id |safe}}> ;
+        {%- elif org.type == "Related" %}
+        dct:relation <{{org.id |safe}}> ;
+        {%- endif %}
+    {%- endfor %}
+    {%- endif %}
+    {%- if _.links %}
+    schema:url {% for link in _.links %}{{link | ttl("xsd:anyURI") |safe}}{% if not loop.last %}, {% endif %}{%- endfor %}; 
+    {%- endif %}
+    {#- external ids #}
+    {%- if _.external_ids.Wikidata %}
+            {%- if _.external_ids.Wikidata.preferred %}
+    schema:identifier <https://www.wikidata.org/wiki/{{_.external_ids.Wikidata.preferred|safe}}> ; 
+            {%- elif _.external_ids.Wikidata.all %}
+                {%- for wiki_id in _.external_ids.Wikidata.all %}
+    schema:identifier <https://www.wikidata.org/wiki/{{wiki_id|safe}}> ; 
+                {%- endfor %}
+            {%- endif %}
+    {%- endif %}
+    {%- if _.external_ids.ISNI %}
+            {%- if _.external_ids.ISNI.preferred %}
+    schema:identifier <http://isni.org/isni/{{_.external_ids.ISNI.preferred|replace(" ", "")|safe}}> ; 
+            {%- elif _.external_ids.ISNI.all %}
+                {%- for isni_id in _.external_ids.ISNI.all%}
+    schema:identifier <http://isni.org/isni/{{isni_id|replace(" ", "")|safe}}> ; 
+                {%- endfor %}
+            {%- endif %}
+    {%- endif %}
+    {%- if _.external_ids.FundRef %}
+            {%- if _.external_ids.FundRef.preferred %}
+    schema:identifier <https://api.crossref.org/funders/{{_.external_ids.FundRef.preferred|safe}}> ; 
+            {%- elif _.external_ids.FundRef.all %}
+                {%- for fundref_id in _.external_ids.FundRef.all%}
+    schema:identifier <https://api.crossref.org/funders/{{fundref_id|safe}}> ; 
+                {%- endfor %}
+            {%- endif %}
+    {%- endif %}
+.

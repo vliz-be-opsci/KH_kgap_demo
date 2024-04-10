@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://orcid.org/0009-0008-2092-491X",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:N40e6fb1a251345a0a30c39163e555f27"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Nasser"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Dunya"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0009-0008-2092-491X"
+      }
+    ]
+  },
+  {
+    "@id": "_:N40e6fb1a251345a0a30c39163e555f27",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Research Affairs"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N68320f0547f84c94ae5940f9f1c8cf31"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Antwerp"
+      }
+    ]
+  },
+  {
+    "@id": "_:N68320f0547f84c94ae5940f9f1c8cf31",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "ROR"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "https://ror.org/008x57b05"
+      }
+    ]
+  }
+]

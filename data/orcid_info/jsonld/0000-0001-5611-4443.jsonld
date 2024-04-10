@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0001-5611-4443",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Schouteden"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Nele"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0001-5611-4443"
+      }
+    ]
+  }
+]

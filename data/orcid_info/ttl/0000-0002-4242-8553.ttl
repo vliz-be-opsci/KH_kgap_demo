@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-4242-8553>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-4242-8553> ;
+        pav:createdOn         "2022-11-25T14:51:34.196Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-03-21T14:33:48.038Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-21T14:33:48.038Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-4242-8553> ;
+        foaf:maker            <https://orcid.org/0000-0002-4242-8553> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-4242-8553> .
+
+<https://orcid.org/0000-0002-4242-8553#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-4242-8553" ;
+        foaf:accountName             "0000-0002-4242-8553" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0002-4242-8553>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Joanna Goley" ;
+        foaf:account       <https://orcid.org/0000-0002-4242-8553#orcid-id> ;
+        foaf:familyName    "Goley" ;
+        foaf:givenName     "Joanna" ;
+        foaf:publications  <https://orcid.org/0000-0002-4242-8553#workspace-works> .
+
+<https://orcid.org/0000-0002-4242-8553#workspace-works>
+        rdf:type  foaf:Document .

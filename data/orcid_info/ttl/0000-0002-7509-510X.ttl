@@ -1,0 +1,37 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-7509-510X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-7509-510X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Marie Robberecht" ;
+        foaf:account       <https://orcid.org/0000-0002-7509-510X#orcid-id> ;
+        foaf:familyName    "Robberecht" ;
+        foaf:givenName     "Marie" ;
+        foaf:mbox          <mailto:marie.robberecht@vliz.be> ;
+        foaf:publications  <https://orcid.org/0000-0002-7509-510X#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-7509-510X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-7509-510X> ;
+        pav:createdOn         "2021-06-09T07:23:17.763Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2022-04-11T13:20:42.524Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2022-04-11T13:20:42.524Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-7509-510X> ;
+        foaf:maker            <https://orcid.org/0000-0002-7509-510X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-7509-510X> .
+
+<https://orcid.org/0000-0002-7509-510X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-7509-510X" ;
+        foaf:accountName             "0000-0002-7509-510X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .

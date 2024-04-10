@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0001-5874-553X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-5874-553X" ;
+        foaf:accountName             "0000-0001-5874-553X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-5874-553X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-5874-553X> ;
+        pav:createdOn         "2019-06-24T07:11:02.600Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-28T07:16:47.670Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-28T07:16:47.670Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-5874-553X> ;
+        foaf:maker            <https://orcid.org/0000-0001-5874-553X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-5874-553X> .
+
+<https://orcid.org/0000-0001-5874-553X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0001-5874-553X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Siham Benramdane" ;
+        foaf:account       <https://orcid.org/0000-0001-5874-553X#orcid-id> ;
+        foaf:familyName    "Benramdane" ;
+        foaf:givenName     "Siham" ;
+        foaf:mbox          <mailto:Siham.Benramdane@uantwerpen.be> ;
+        foaf:publications  <https://orcid.org/0000-0001-5874-553X#workspace-works> .

@@ -1,0 +1,161 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0002-7509-510X",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:Nf537ab41c4e24031a083649c4927ec71"
+      },
+      {
+        "@id": "_:N88dd0717aaee49fdbe7e6496cf95c1d2"
+      },
+      {
+        "@id": "_:Nef1d9ef12f7e4420882f66f6a7cf3e22"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Robberecht"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Marie"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-7509-510X"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf537ab41c4e24031a083649c4927ec71",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "VMDC "
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb7f6fa1589db40ac80f8a15537875e5a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vlaams Instituut voor de Zee"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb7f6fa1589db40ac80f8a15537875e5a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "71343"
+      }
+    ]
+  },
+  {
+    "@id": "_:N88dd0717aaee49fdbe7e6496cf95c1d2",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Research"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N61877baf63a34146af709ca2bb36dc0d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vlaams Instituut voor de Zee"
+      }
+    ]
+  },
+  {
+    "@id": "_:N61877baf63a34146af709ca2bb36dc0d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "71343"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nef1d9ef12f7e4420882f66f6a7cf3e22",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Fishery technique"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nfd5533969ed5496d890fb1dd08dd8160"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Instituut voor Landbouw- Visserij- en Voedingsonderzoek"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfd5533969ed5496d890fb1dd08dd8160",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "74875"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ghent University"
+      }
+    ]
+  }
+]

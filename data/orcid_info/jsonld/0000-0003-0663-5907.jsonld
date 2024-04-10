@@ -1,0 +1,171 @@
+[
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94903",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-0663-5907"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N48b834494e934f78b18f4dc08d4dc36e"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Linked Data Publishing of the World Register of Marine Species (WoRMS) as a Basis for Uniformly Linking-up Resources to Accepted Taxon Names"
+      }
+    ]
+  },
+  {
+    "@id": "_:N48b834494e934f78b18f4dc08d4dc36e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94903"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94630",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-0663-5907"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7d733a1ddd0b47c1a6e0a126c00a0dfb"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Contemporary Data Management for Biodiversity Observation Networks leading to Linked Open Data Publishing through Distributed Techniques applying RO-Crate and GitHub Actions"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7d733a1ddd0b47c1a6e0a126c00a0dfb",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94630"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0003-0663-5907",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:Ndf627783427e419b8068bb22d0466eb0"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "_:N9320e597ab7c4bacb68ec7010869ac66"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Van Maldeghem"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Laurian"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0003-0663-5907"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9320e597ab7c4bacb68ec7010869ac66",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd4b95a85c8834334945dbb4f57b7fb6c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Universiteit Gent"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd4b95a85c8834334945dbb4f57b7fb6c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "26656"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndf627783427e419b8068bb22d0466eb0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc921bc22df6e4571a02e306135c60b8b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vlaams Instituut voor de Zee"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc921bc22df6e4571a02e306135c60b8b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "71343"
+      }
+    ]
+  }
+]

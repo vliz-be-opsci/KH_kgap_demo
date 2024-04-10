@@ -1,0 +1,15 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/01621q256>
+    a schema:Organization ;
+    schema:name 'Coastal Carolina University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'Coastal'^^xsd:string;
+    schema:foundingDate '1954'^^xsd:string ;
+    schema:url 'http://www.coastal.edu/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q1104405> ;
+    schema:identifier <http://isni.org/isni/0000000087389661> ;
+    schema:identifier <https://api.crossref.org/funders/100008515> ;
+.

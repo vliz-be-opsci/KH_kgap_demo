@@ -1,0 +1,638 @@
+[
+  {
+    "@id": "https://doi.org/10.1038/nsmb.3297",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N686ba56258734bb79cc455900194d18f"
+      },
+      {
+        "@id": "_:Ned115982bd46418ab288a167272ecad9"
+      },
+      {
+        "@id": "_:N293e9c495fec44948b91dbfe1b58e14f"
+      },
+      {
+        "@id": "_:N25b656402234496e867a20c049e6d204"
+      },
+      {
+        "@id": "_:N9bddde23fd3544c58007647065a263b0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Skywalker-TBC1D24 has a lipid-binding pocket mutated in epilepsy and required for synaptic function"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/27669036"
+      }
+    ]
+  },
+  {
+    "@id": "_:N686ba56258734bb79cc455900194d18f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "b980d96d-6265-4a49-83de-6922717cf1bb"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ned115982bd46418ab288a167272ecad9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "27669036"
+      }
+    ]
+  },
+  {
+    "@id": "_:N293e9c495fec44948b91dbfe1b58e14f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000386992700006"
+      }
+    ]
+  },
+  {
+    "@id": "_:N25b656402234496e867a20c049e6d204",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-84988689939"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9bddde23fd3544c58007647065a263b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1038/nsmb.3297"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6cf57f26d22343aab7c60e201e955825",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ndf9fb8a1ae964456a0422f4345c44f8b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ontrafeling van de structuur en functie van de synaptische eiwitten TBC1D24 en Synaptojanin1 en hun rol in neurologische aandoeningen"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndf9fb8a1ae964456a0422f4345c44f8b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "74341289-a5da-4934-a6c8-96a8c1259d64"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/brain/awz175",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8cd2910c63a84ade8908f4d05c5eb499"
+      },
+      {
+        "@id": "_:Nbf8d743edf6e4fd49c604cb48b176745"
+      },
+      {
+        "@id": "_:N450092378ad945ef80b87474f10d8d91"
+      },
+      {
+        "@id": "_:N83f45e25fbf5488cb1d8c8aa325273ed"
+      },
+      {
+        "@id": "_:Ndb86faca627f40ecb09ea2faab7b8d75"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TBC1D24-TLDc-related epilepsy exercise-induced dystonia"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/31257402"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8cd2910c63a84ade8908f4d05c5eb499",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000493084400024"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbf8d743edf6e4fd49c604cb48b176745",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "03d83c08-3c24-4226-a2e8-19e04f7ff7c5"
+      }
+    ]
+  },
+  {
+    "@id": "_:N450092378ad945ef80b87474f10d8d91",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/brain/awz175"
+      }
+    ]
+  },
+  {
+    "@id": "_:N83f45e25fbf5488cb1d8c8aa325273ed",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "31257402"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndb86faca627f40ecb09ea2faab7b8d75",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85070661110"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-3292-4609",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.8767.e"
+      },
+      {
+        "@id": "_:N3e5e01b43d894614b6d75f8a017b554e"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Paesmans"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Jone"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://cris.vub.be/en/persons/jone-paesmans(b0bc43ca-2a12-437c-889d-9b064051b9fe).html"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3e5e01b43d894614b6d75f8a017b554e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Structural Biology Brussels"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N72540196ff1f4abc9fa4a684df8c5b64"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vrije Universiteit Brussel"
+      }
+    ]
+  },
+  {
+    "@id": "_:N72540196ff1f4abc9fa4a684df8c5b64",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "70493"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.7554/elife.64922",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N0fa708d2905c4513a9a7453725cf6608"
+      },
+      {
+        "@id": "_:N53357b077f12482ab7962157431d497e"
+      },
+      {
+        "@id": "_:N1fa38741d5a248b78df320adca8e6487"
+      },
+      {
+        "@id": "_:N2fccaa265b5243db99aa0268c47b5742"
+      },
+      {
+        "@id": "_:Ne9112ea2bf80439396bb498dd6b38915"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A structure of substrate-bound Synaptojanin1 provides new insights in its mechanism and the effect of disease mutations"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/33349335"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0fa708d2905c4513a9a7453725cf6608",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000606733400001"
+      }
+    ]
+  },
+  {
+    "@id": "_:N53357b077f12482ab7962157431d497e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85099316566"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1fa38741d5a248b78df320adca8e6487",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.7554/elife.64922"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2fccaa265b5243db99aa0268c47b5742",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "33349335"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne9112ea2bf80439396bb498dd6b38915",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "6dc94b21-f95c-4c20-9029-a30cef68f963"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_demo/grid.8767.e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "RiDM"
+      },
+      {
+        "@value": "Structural Biology Brussels"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vrije Universiteit Brussel"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1042/bcj20190843",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N116e2b11c1f64f1f9c4cf2f6309e0783"
+      },
+      {
+        "@id": "_:N255814b59b754d31ae0bf4bdd05affb2"
+      },
+      {
+        "@id": "_:Nc5aeef06d1b44abcadbab46bd8021dd2"
+      },
+      {
+        "@id": "_:N753faa51116a44729e3dc74eac37cbde"
+      },
+      {
+        "@id": "_:N5a7800b2128b4f5fbb7c3d26b8f0ef7b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Allosteric modulation of the GTPase activity of a bacterial LRRK2 homolog by conformation-specific Nanobodies"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/32167135"
+      }
+    ]
+  },
+  {
+    "@id": "_:N116e2b11c1f64f1f9c4cf2f6309e0783",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85085646064"
+      }
+    ]
+  },
+  {
+    "@id": "_:N255814b59b754d31ae0bf4bdd05affb2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "5cd8082b-6e20-43e8-950b-d5ac9a4a255a"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc5aeef06d1b44abcadbab46bd8021dd2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "32167135"
+      }
+    ]
+  },
+  {
+    "@id": "_:N753faa51116a44729e3dc74eac37cbde",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1042/bcj20190843"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5a7800b2128b4f5fbb7c3d26b8f0ef7b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000528299600001"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf77f4d99caeb404bae59068cbea9fab8",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N5af72f3a18d7433f910da2e0fa565dcb"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TBC1D24-skywalker has a lipid-binding pocket mutated in epilepsy and required for synaptic function."
+      }
+    ]
+  },
+  {
+    "@id": "_:N5af72f3a18d7433f910da2e0fa565dcb",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "3deceab7-08f3-45e4-92a1-7df5d42e35a1"
+      }
+    ]
+  }
+]

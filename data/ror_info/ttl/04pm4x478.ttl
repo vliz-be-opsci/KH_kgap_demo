@@ -1,0 +1,13 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/04pm4x478>
+    a schema:Organization ;
+    schema:name 'Istanbul Bilgi University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1996'^^xsd:string ;
+    schema:url 'http://www.bilgi.edu.tr/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q344262> ;
+    schema:identifier <http://isni.org/isni/0000000106717131> ;
+.

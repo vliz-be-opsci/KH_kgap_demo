@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0009-0008-2092-491X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0009-0008-2092-491X" ;
+        foaf:accountName             "0009-0008-2092-491X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0009-0008-2092-491X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Dunya Nasser" ;
+        foaf:account       <https://orcid.org/0009-0008-2092-491X#orcid-id> ;
+        foaf:familyName    "Nasser" ;
+        foaf:givenName     "Dunya" ;
+        foaf:publications  <https://orcid.org/0009-0008-2092-491X#workspace-works> .
+
+<https://orcid.org/0009-0008-2092-491X#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0009-0008-2092-491X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0009-0008-2092-491X> ;
+        pav:createdOn         "2023-11-29T14:55:22.882Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-12-04T08:39:05.723Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-12-04T08:39:05.723Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0009-0008-2092-491X> ;
+        foaf:maker            <https://orcid.org/0009-0008-2092-491X> ;
+        foaf:primaryTopic     <https://orcid.org/0009-0008-2092-491X> .

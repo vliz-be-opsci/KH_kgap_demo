@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0003-4379-7382>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Jolien Berckmans" ;
+        foaf:account       <https://orcid.org/0000-0003-4379-7382#orcid-id> ;
+        foaf:familyName    "Berckmans" ;
+        foaf:givenName     "Jolien" ;
+        foaf:publications  <https://orcid.org/0000-0003-4379-7382#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-4379-7382>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-4379-7382> ;
+        pav:createdOn         "2020-01-09T18:19:16.244Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-04-09T07:52:52.027Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T07:52:52.027Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-4379-7382> ;
+        foaf:maker            <https://orcid.org/0000-0003-4379-7382> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-4379-7382> .
+
+<https://orcid.org/0000-0003-4379-7382#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-4379-7382" ;
+        foaf:accountName             "0000-0003-4379-7382" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0003-4379-7382#workspace-works>
+        rdf:type  foaf:Document .

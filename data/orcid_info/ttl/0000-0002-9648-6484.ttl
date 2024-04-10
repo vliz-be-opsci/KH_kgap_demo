@@ -1,0 +1,47 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-9648-6484>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-9648-6484> ;
+        pav:createdOn         "2019-10-13T09:26:03.221Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-01-25T12:52:21.677Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-01-25T12:52:21.677Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-9648-6484> ;
+        foaf:maker            <https://orcid.org/0000-0002-9648-6484> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-9648-6484> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0002-9648-6484>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Marc Portier" ;
+        foaf:account       <https://orcid.org/0000-0002-9648-6484#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Portier" ;
+        foaf:givenName     "Marc" ;
+        foaf:mbox          <mailto:marc.portier@vliz.be> ;
+        foaf:page          <https://github.com/marc-portier> , <https://twitter.com/mportier> , <https://www.linkedin.com/in/marcportier/> , <https://oceanexpert.org/expert/43716> , <http://purl.org/np/RAUPyY2DISDVAcR2SVZBUz6_RFUqaCphxWmy1REVFeoWo> ;
+        foaf:publications  <https://orcid.org/0000-0002-9648-6484#workspace-works> .
+
+<https://orcid.org/0000-0002-9648-6484#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-9648-6484#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-9648-6484" ;
+        foaf:accountName             "0000-0002-9648-6484" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .

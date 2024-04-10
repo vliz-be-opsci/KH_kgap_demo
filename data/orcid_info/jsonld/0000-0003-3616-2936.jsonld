@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0003-3616-2936",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Tuybens"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Linde"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0003-3616-2936"
+      }
+    ]
+  }
+]

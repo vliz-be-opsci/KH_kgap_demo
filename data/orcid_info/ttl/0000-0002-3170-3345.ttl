@@ -1,0 +1,45 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-3170-3345#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-3170-3345" ;
+        foaf:accountName             "0000-0002-3170-3345" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0002-3170-3345#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-3170-3345>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Emily Veltjen" ;
+        foaf:account       <https://orcid.org/0000-0002-3170-3345#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Veltjen" ;
+        foaf:givenName     "Emily" ;
+        foaf:page          <https://pureportal.inbo.be/portal/en/persons/emily-veltjen(7237bf36-9d48-443a-b72e-16c70964ab89).html> , <https://biblio.ugent.be/person/2553D83C-F0EE-11E1-A9DE-61C894A0A6B4> , <https://www.linkedin.com/in/emily-veltjen-25356a82/> ;
+        foaf:publications  <https://orcid.org/0000-0002-3170-3345#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-3170-3345>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-3170-3345> ;
+        pav:createdOn         "2017-01-20T10:18:37.936Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-04-09T03:20:12.758Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T03:20:12.758Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-3170-3345> ;
+        foaf:maker            <https://orcid.org/0000-0002-3170-3345> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-3170-3345> .

@@ -1,0 +1,8031 @@
+[
+  {
+    "@id": "https://doi.org/10.1007/s10509-009-0126-3",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncaa78911fb1344bd8b01094c31ecfb4c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mapping the roots of the galactic outflow in NGC1569"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncaa78911fb1344bd8b01094c31ecfb4c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s10509-009-0126-3"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/3-540-34270-2_37",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N75ed2d2527dd4781ac3103a586355e3a"
+      },
+      {
+        "@id": "_:N62f4d22ab1b8426cbb9ca10f23de8ce2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Extragalactic PNe Observed with 3D Spectroscopy"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2006pnbm.conf..244E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N75ed2d2527dd4781ac3103a586355e3a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/3-540-34270-2_37"
+      }
+    ]
+  },
+  {
+    "@id": "_:N62f4d22ab1b8426cbb9ca10f23de8ce2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2006pnbm.conf..244E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8014452",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd0645da3641446a59f819388edf77ae9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ENVRI-FAIR D9.10: Marine subdomain white paper for sustainable data management"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd0645da3641446a59f819388edf77ae9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8014452"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/s10686-016-9502-5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N12d73522de8149cfabb33f134d604744"
+      },
+      {
+        "@id": "_:N3a7047940e8e404693de41071f774a29"
+      },
+      {
+        "@id": "_:N29f6f989ce3b4099ac92003990632d69"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Footprint Database and Web Services of the Herschel Space Observatory"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2016ExA....42..139D"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1606.03957"
+      }
+    ]
+  },
+  {
+    "@id": "_:N12d73522de8149cfabb33f134d604744",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2016ExA....42..139D"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3a7047940e8e404693de41071f774a29",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1606.03957"
+      }
+    ]
+  },
+  {
+    "@id": "_:N29f6f989ce3b4099ac92003990632d69",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s10686-016-9502-5"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na280010b35814d44af3ded10a0b8756e",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc2d07a35cc324d3f92fefb19c0b26248"
+      },
+      {
+        "@id": "_:N6c8142b1448244a8999fe13c313caee1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Imaging Planetary Nebulae with Hershel-PACS and SPIRE"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011apn5.confE..23H"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1009.5258"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc2d07a35cc324d3f92fefb19c0b26248",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011apn5.confE..23H"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6c8142b1448244a8999fe13c313caee1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1009.5258"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc5717c9948e8486b8dc94af0a9e70509",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb3ca353a3f094c31b44e73d25dc5db59"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel-SPIRE FTS Spectroscopy of Evolved Stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011ASPC..445..607W"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb3ca353a3f094c31b44e73d25dc5db59",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011ASPC..445..607W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9d414345116442528720dd525d2068cd",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne73ea1f3e13b46bc89b420c1f563a440"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Herschel PN Surevey, Herplans: Spectroscopy"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2014apn6.confE..20E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne73ea1f3e13b46bc89b420c1f563a440",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2014apn6.confE..20E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361:20079280",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3a2e63174ed746218e1da8db4c58d1f9"
+      },
+      {
+        "@id": "_:N697a3c8737304e6fbc42f2f9c833df51"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VLT/FORS1 spectrophotometry of the first planetary nebula discovered in the Phoenix dwarf galaxy"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/0811.0170"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3a2e63174ed746218e1da8db4c58d1f9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361:20079280"
+      }
+    ]
+  },
+  {
+    "@id": "_:N697a3c8737304e6fbc42f2f9c833df51",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0811.0170"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1086/345542",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8648c22a7aee464c8e89e20f16a49e08"
+      },
+      {
+        "@id": "_:N90b4fbeb51de4e66b85b92f22fe636c6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Emission Lines of [Cl II] in the Optical Spectra of Gaseous Nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003ApJ...584..385K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8648c22a7aee464c8e89e20f16a49e08",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003ApJ...584..385K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N90b4fbeb51de4e66b85b92f22fe636c6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1086/345542"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.5093125",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9f2dad02e4cd43f1ab6dfe2e9c70c609"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Towards a Common Standard for Data and Specimen Provenance in Life Sciences"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9f2dad02e4cd43f1ab6dfe2e9c70c609",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.5093125"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/eas/1364050",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2eeb2344632041b99619d7a2d0069787"
+      },
+      {
+        "@id": "_:Ndecd055330a84c4aa07196be575da74c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The exotic eclipsing nucleus of the ring planetary nebula SuWt 2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2013EAS....64..361E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2eeb2344632041b99619d7a2d0069787",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/eas/1364050"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndecd055330a84c4aa07196be575da74c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2013EAS....64..361E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8068648",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb580b5826dc9468b89687e5a863d0ac5"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sustainability of FAIR Life Science Resources and Projects: Lessons Learned from EOSC-Life Research Infrastructures"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb580b5826dc9468b89687e5a863d0ac5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8068648"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2b2adf72bb894331acab07f11955f1f7",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1d08797448724cd8b5cc3c3cdf557817"
+      },
+      {
+        "@id": "_:N531ad09d0f7d4e6c99e602a4134262e3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel observations of PNe in the MESS key program"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1110.4524"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011arXiv1110.4524V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1d08797448724cd8b5cc3c3cdf557817",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1110.4524"
+      }
+    ]
+  },
+  {
+    "@id": "_:N531ad09d0f7d4e6c99e602a4134262e3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011arXiv1110.4524V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.13039/100009878",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Physics"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Wales, College Cardiff"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s1743921312011386",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3a163a97707b4f0c96a0e961046c0210"
+      },
+      {
+        "@id": "_:Na9754d243b2e45158622a8e2427f07fe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel observations of NGC 7027"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012IAUS..283..352E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3a163a97707b4f0c96a0e961046c0210",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012IAUS..283..352E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na9754d243b2e45158622a8e2427f07fe",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s1743921312011386"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb400afeb45094e8ab15e9950c43e1f81",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N33a5b438fe6b4f318741506506cb5187"
+      },
+      {
+        "@id": "_:N3865e4595b9d4e3d98fd1e799cf62748"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The integral field spectroscopy (IFS) wiki"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/0905.3054"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2009arXiv0905.3054W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N33a5b438fe6b4f318741506506cb5187",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0905.3054"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3865e4595b9d4e3d98fd1e799cf62748",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2009arXiv0905.3054W"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf6c0d2ca3fe74cb5a57390be69d3d9c5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N46d5207e65ef4261b5bfd710efc7b5d2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "An Investigation of the BVI Reddening Distance Method"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/1995AnIPS..11...46E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N46d5207e65ef4261b5bfd710efc7b5d2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1995AnIPS..11...46E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6dc03811936142a8a271437c2b437fd9",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4d20d748bd7e42f59f9f8c2c4d0df3a2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Bizarre Central Star of SuWt2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003IAUS..209..234E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4d20d748bd7e42f59f9f8c2c4d0df3a2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003IAUS..209..234E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201015829",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N0b92bd27c2824e5b932f1049456ded76"
+      },
+      {
+        "@id": "_:Nd28bf66b82924a6796d3ed6dc2482642"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "MESS (Mass-loss of Evolved StarS), a Herschel key program"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1012.2701"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0b92bd27c2824e5b932f1049456ded76",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201015829"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd28bf66b82924a6796d3ed6dc2482642",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1012.2701"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1023/a:1012718214651",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8f2fa89e8a2e482683f55594e4513e19"
+      },
+      {
+        "@id": "_:N256a444ac3d34432b5df35b518dcd216"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "PNe Abundances: Galactic Bulge versus the Disc"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001ApSSS.277..199E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8f2fa89e8a2e482683f55594e4513e19",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001ApSSS.277..199E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N256a444ac3d34432b5df35b518dcd216",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1023/a:1012718214651"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb089567c82f3439faebbd89fbd4e175f",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N375b25b7415c422fa8b961d4b3ac8545"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The behaviour of the Fe II emission lines of the symbiotic mira RR Tel during an obscuration event"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2004sf2a.conf..289F"
+      }
+    ]
+  },
+  {
+    "@id": "_:N375b25b7415c422fa8b961d4b3ac8545",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2004sf2a.conf..289F"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2005.08928.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N6202e0d22f0a489fb890f437ee648813"
+      },
+      {
+        "@id": "_:N53b9dc56c77d4f589040e4f56bc953f3"
+      },
+      {
+        "@id": "_:N0caa9a6453714412985dc9a60e5e8f53"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A study of the Type II-P supernova 2003gd in M74"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/astro-ph/0501341"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005MNRAS.359..906H"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6202e0d22f0a489fb890f437ee648813",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:astro-ph/0501341"
+      }
+    ]
+  },
+  {
+    "@id": "_:N53b9dc56c77d4f589040e4f56bc953f3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005MNRAS.359..906H"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0caa9a6453714412985dc9a60e5e8f53",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2005.08928.x"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014626",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N244eb669324e429cb0bdb0a4d6d84944"
+      },
+      {
+        "@id": "_:N4031f2f1dec0492581619fb521a1662a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The β Pictoris disk imaged by Herschel PACS and SPIRE"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.3915"
+      }
+    ]
+  },
+  {
+    "@id": "_:N244eb669324e429cb0bdb0a4d6d84944",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.3915"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4031f2f1dec0492581619fb521a1662a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014626"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361:20054190",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N0f8d1f03e663407997e127cd76e41f7c"
+      },
+      {
+        "@id": "_:N2b8f3263ce004b45afbe6219c9540258"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The effect of dust obscuration in RR Telescopii on optical and IR long-term photometry and Fe II emission lines"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/astro-ph/0603155"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0f8d1f03e663407997e127cd76e41f7c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:astro-ph/0603155"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2b8f3263ce004b45afbe6219c9540258",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361:20054190"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/mnras/288.1.l7",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7e471f38b7894714958c713ed63ed7a2"
+      },
+      {
+        "@id": "_:N2ffb20d731b9412d80b83743a910d35f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Compact, Variable Radio Nebula Around P Cygni"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/1997MNRAS.288L...7S"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7e471f38b7894714958c713ed63ed7a2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/mnras/288.1.l7"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2ffb20d731b9412d80b83743a910d35f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1997MNRAS.288L...7S"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1088/0004-6256/140/5/1414",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N27f20ec5395a47369345d80c929f4c4f"
+      },
+      {
+        "@id": "_:N70cb380cff1a4488a76e11f4e2d0ef93"
+      },
+      {
+        "@id": "_:Na8d5381f4a294bebbff6e47b2bb0b07f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Exotic Eclipsing Nucleus of the Ring Planetary Nebula SuWt 2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2010AJ....140.1414E"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1009.1919"
+      }
+    ]
+  },
+  {
+    "@id": "_:N27f20ec5395a47369345d80c929f4c4f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2010AJ....140.1414E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N70cb380cff1a4488a76e11f4e2d0ef93",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1088/0004-6256/140/5/1414"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na8d5381f4a294bebbff6e47b2bb0b07f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1009.1919"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s1743921318006385",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf05f7b20c0c54bffb2eb4ff5bdb565ec"
+      },
+      {
+        "@id": "_:N7eafba23a1c0465296771f452736e17c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Planetary Nebula Survey Plus (HerPlaNS+)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2019IAUS..343..518U"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf05f7b20c0c54bffb2eb4ff5bdb565ec",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2019IAUS..343..518U"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7eafba23a1c0465296771f452736e17c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s1743921318006385"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc080412b73064ffd86f324d22d7b49b9",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nff5b1b5f64cd4584bc6e1268b41f96f7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Herschel view of nebulae around evolved massive stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012hell.conf...24V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nff5b1b5f64cd4584bc6e1268b41f96f7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012hell.conf...24V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014562",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N00ff19aa72b94ad582cf5fa96fcca44d"
+      },
+      {
+        "@id": "_:Nc6a69bbab95144c6bf3df5ded050d960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Silicon in the dust formation zone of IRC +10216"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.4675"
+      }
+    ]
+  },
+  {
+    "@id": "_:N00ff19aa72b94ad582cf5fa96fcca44d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014562"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc6a69bbab95144c6bf3df5ded050d960",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.4675"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7771820",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3e77779aaf8b46378884b3a3b1efbf4e"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data - use case"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3e77779aaf8b46378884b3a3b1efbf4e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7771820"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf657b9beda9848e39971a757703b9dc7",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N72634c5a7e674d1aa0051f72f3782930"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Post-AGB binaries in an evolutionary perspective: a HERMES monitoring programme"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2010MmSAI..81.1022V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N72634c5a7e674d1aa0051f72f3782930",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2010MmSAI..81.1022V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s1743921312010666",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N96f358f4094d47c7a60ebca7f09b2884"
+      },
+      {
+        "@id": "_:Ne27db2b3a74a4475a77c1eb8fc1e0c1d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel observations of planetary nebulae in the MESS key program"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012IAUS..283...41V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N96f358f4094d47c7a60ebca7f09b2884",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012IAUS..283...41V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne27db2b3a74a4475a77c1eb8fc1e0c1d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s1743921312010666"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/arphapreprints.e106475",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N225a6caea803492cab17565c9411af30"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Climate Change Impact on Biodiversity and Ecosystems in Europe: Assessing the impact of Non-Indigenous Invasive Species (NIS) in European&nbsp;ecosystems"
+      }
+    ]
+  },
+  {
+    "@id": "_:N225a6caea803492cab17565c9411af30",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/arphapreprints.e106475"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfc8eb67bf2ad40c38debdcc390d16674",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncfe4d0c17623465a8f13a15fc7ccb9fe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Observations of V838 Mon"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2014apn6.confE.118E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncfe4d0c17623465a8f13a15fc7ccb9fe",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2014apn6.confE.118E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncec4d90752d34f52ab34e36e6e9bf2d4",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N59e05fef320e467cbc8b05c7b554115d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Classifying the stellar environment around V838 Monocerotis"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2008RMxAC..34..135R"
+      }
+    ]
+  },
+  {
+    "@id": "_:N59e05fef320e467cbc8b05c7b554115d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2008RMxAC..34..135R"
+      }
+    ]
+  },
+  {
+    "@id": "_:N22703fcc395f4a5eb0a0ea30aa781b98",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbfb1e7355fef4332b68a1cd563cc1815"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Variability and Physical Structure of the P Cygni Nebula"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/1996ASPC...93...23S"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbfb1e7355fef4332b68a1cd563cc1815",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1996ASPC...93...23S"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014641",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb540c9e472d04733b7341b7fb22de0f4"
+      },
+      {
+        "@id": "_:N5c326cb757de413e9608149704d84931"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "PACS and SPIRE spectroscopy of the red supergiant VY CMa"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.2952"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb540c9e472d04733b7341b7fb22de0f4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.2952"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5c326cb757de413e9608149704d84931",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014641"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8402858",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N725b9dfe5b0e462d93ba8d053f742a16"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "From web access to knowledge access: Overcoming digital divides in marine research"
+      }
+    ]
+  },
+  {
+    "@id": "_:N725b9dfe5b0e462d93ba8d053f742a16",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8402858"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7a0910f57d7e403eb6b4fb4549c0f7cf",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N91b681bce87f47739b5f1b7e4311929e"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Testing Common-Envelope Binary Evolution with Measurements of the <SUP>12</SUP>C/<SUP>13</SUP>C Isotopic Ratios"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001ASPC..229..251C"
+      }
+    ]
+  },
+  {
+    "@id": "_:N91b681bce87f47739b5f1b7e4311929e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001ASPC..229..251C"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nec488944f4004df4977413318586fba1",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb298f55a7eae41b4bcf0b52baa4fabec"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Effect of Dust Obscuration on the Emission Lines of RR Tel"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2004IAUS..219..888K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb298f55a7eae41b4bcf0b52baa4fabec",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2004IAUS..219..888K"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8247376",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3d7ccf2112d7459fb2745f494a4d7ad0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Preprint: \"Be Sustainable Recommendations\" for FAIR Resources in Life Sciences research: EOSC-Life's Lessons"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3d7ccf2112d7459fb2745f494a4d7ad0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8247376"
+      }
+    ]
+  },
+  {
+    "@id": "_:N423f421789314297a6aff83899a63a1e",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N15d642c45d70407aadfa468892c7abc4"
+      },
+      {
+        "@id": "_:Nff2c2d3ac918441690c2e48e7257cb3d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "3D Spectroscopy of Herbig-Haro objects"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/astro-ph/0512617"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005astro.ph.12617L"
+      }
+    ]
+  },
+  {
+    "@id": "_:N15d642c45d70407aadfa468892c7abc4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:astro-ph/0512617"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nff2c2d3ac918441690c2e48e7257cb3d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005astro.ph.12617L"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7920623",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N70cfd150a6424dfab7a1f339a9d71e08"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "FAIR-EASE_D4.1_Landscaping exercise_The -meta-data, software and cloud needs for the data lake"
+      }
+    ]
+  },
+  {
+    "@id": "_:N70cfd150a6424dfab7a1f339a9d71e08",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7920623"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/200911789",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbb6d980bc45d45a89dfcaf78f78c4ed2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Structure and spectra of irradiated secondaries in close binaries. A model calculation of the pre-cataclysmic variable UU Sagittae"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbb6d980bc45d45a89dfcaf78f78c4ed2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/200911789"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8402865",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N567947b1363747328251b455b19f5af0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Research objects FAIRness assessment for Earth and Environmental science applications"
+      }
+    ]
+  },
+  {
+    "@id": "_:N567947b1363747328251b455b19f5af0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8402865"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0eef2fa587074b2baf06bd934ec42252",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N207d8d55b95a419bbe36b59337e8fac0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Binarity among C-enriched and Related Stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2015ASPC..497..169V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N207d8d55b95a419bbe36b59337e8fac0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2015ASPC..497..169V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7588904",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Naf809d4334d24a91af1c3f3f3e6a36c3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "FAIR-EASE_D5.1_Report on key requirements from Use Cases/Pilots"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naf809d4334d24a91af1c3f3f3e6a36c3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7588904"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3847/1538-4365/aa8175",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N17de8d3852684e63812943032919bfff"
+      },
+      {
+        "@id": "_:N3005536454754561abe294feab5e633b"
+      },
+      {
+        "@id": "_:N668517ddd466454b86bc28845d01e0ac"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Herschel Planetary Nebula Survey (HerPlaNS): A Comprehensive Dusty Photoionization Model of NGC6781"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2017ApJS..231...22O"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1707.06565"
+      }
+    ]
+  },
+  {
+    "@id": "_:N17de8d3852684e63812943032919bfff",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2017ApJS..231...22O"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3005536454754561abe294feab5e633b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1707.06565"
+      }
+    ]
+  },
+  {
+    "@id": "_:N668517ddd466454b86bc28845d01e0ac",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3847/1538-4365/aa8175"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2fb62bb80ed24ef5b4d112a915412448",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncd9efabb5fc84bd99e7b6d0df09de183"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VizieR Online Data Catalog: uvby light curves of EF Aqr (Vos+, 2012)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012yCat..35400064V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncd9efabb5fc84bd99e7b6d0df09de183",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012yCat..35400064V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014535",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N060947647b454c5d803d5f6ef55deac3"
+      },
+      {
+        "@id": "_:Nede78818d77047ce95098a3e449744b7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Photodetector Array Camera and Spectrometer (PACS) on the Herschel Space Observatory"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.1487"
+      }
+    ]
+  },
+  {
+    "@id": "_:N060947647b454c5d803d5f6ef55deac3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014535"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nede78818d77047ce95098a3e449744b7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.1487"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3d439a7df2264549bcc1dd9cc6794838",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N32c0e64f018647e3bdd4b579d512ed9a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A 3-D view of V838 Monocerotis"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007apn4.confE..84E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N32c0e64f018647e3bdd4b579d512ed9a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007apn4.confE..84E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201423395",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbad8efb5c6734570a8ed0a9643a45ed5"
+      },
+      {
+        "@id": "_:Nb3af392ab9c140da9a0d73b35ab351dc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Herschel Planetary Nebula Survey (HerPlaNS). I. Data overview and analysis demonstration with NGC 6781"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1403.2494"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbad8efb5c6734570a8ed0a9643a45ed5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201423395"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb3af392ab9c140da9a0d73b35ab351dc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1403.2494"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7771821",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N59f456d05e1a494abb499ab7ce6768f0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data - use case"
+      }
+    ]
+  },
+  {
+    "@id": "_:N59f456d05e1a494abb499ab7ce6768f0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7771821"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2007.12252.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncaafb7f3e09c4d76be6b07689c901a41"
+      },
+      {
+        "@id": "_:Ne6b4c88e99314134b2d1dcaf8fea75fe"
+      },
+      {
+        "@id": "_:N5bdfa39b370740769a5e89189a33b290"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gemini GMOS/integral field unit spectroscopy of NGC 1569 - II. Mapping the roots of the galactic outflow"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/0708.2682"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007MNRAS.381..913W"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncaafb7f3e09c4d76be6b07689c901a41",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2007.12252.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne6b4c88e99314134b2d1dcaf8fea75fe",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0708.2682"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5bdfa39b370740769a5e89189a33b290",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007MNRAS.381..913W"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.10018906",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nad1fea6e566f4f04a70663fa4ebdb710"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sustainability of FAIR Life Science Resources and Projects: the \"BeSure\" Recommendations from EOSC-Life Research Infrastructures"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nad1fea6e566f4f04a70663fa4ebdb710",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10018906"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nda684961447146cdbfc6eb90cb2da132",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1f5f1e8e47a549b1a149ee8cd30ac426"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mapping the Roots of the Galactic Wind in NGC 1569 with the Gemini GMOS IFU"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2008ASPC..390..398W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1f5f1e8e47a549b1a149ee8cd30ac426",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2008ASPC..390..398W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N17e1f87fd6824e678b89933d542f0b38",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N10cc69a27f734d92b7c9fabd139d6a32"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "They're hot, hot, hot"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003whdw.conf..287E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N10cc69a27f734d92b7c9fabd139d6a32",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003whdw.conf..287E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1063/1.2146220",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nba81e25f0b3b4bea9a11e85a02c318df"
+      },
+      {
+        "@id": "_:Nb27022a920824a55939456d316645ade"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spatially Resolved Spectroscopy: Abell 30"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005AIPC..804...24E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nba81e25f0b3b4bea9a11e85a02c318df",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005AIPC..804...24E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb27022a920824a55939456d316645ade",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1063/1.2146220"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nac1296fcce654394ab49ed1c2daa4dfa",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1bb16e7f82b147aba8a9e28710d1e264"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "2(+1?) Binary Central Stars: A Spectroscopic Study"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003IAUS..209..233E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1bb16e7f82b147aba8a9e28710d1e264",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003IAUS..209..233E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1046/j.1365-8711.1998.01388.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbe0f60b4b6d946da8697431dd530fac1"
+      },
+      {
+        "@id": "_:N1806ce019ec4458a967654e5817ca5df"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A large radio nebula around P Cygni"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/1998MNRAS.296..669S"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbe0f60b4b6d946da8697431dd530fac1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1046/j.1365-8711.1998.01388.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1806ce019ec4458a967654e5817ca5df",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1998MNRAS.296..669S"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8014451",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N16cd72798c20429f828519e7ed093c10"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ENVRI-FAIR D9.10: Marine subdomain white paper for sustainable data management"
+      }
+    ]
+  },
+  {
+    "@id": "_:N16cd72798c20429f828519e7ed093c10",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8014451"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8403128",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nbad63b4373da43128135b1f837c446d3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Navigating data lakes for Earth and marine science: FAIR Data management and Service Interoperability in practice"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbad63b4373da43128135b1f837c446d3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8403128"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4d0db8a7f1f645019b2acb37564fe835",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N421d336db04c4e94a120eeb26eb3714d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Planetary Nebula Dust Haloes Revealed by Herschel"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2013lcdu.confE..50U"
+      }
+    ]
+  },
+  {
+    "@id": "_:N421d336db04c4e94a120eeb26eb3714d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2013lcdu.confE..50U"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb352550b779c4532806f0df48bb1a4fc",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N34d21b50a7724ab395444a6ec6f96434"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A HERSCHEL study of PNe"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011apn5.confP...1E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N34d21b50a7724ab395444a6ec6f96434",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011apn5.confP...1E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s1743921312012197",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na3f173da4c8742d08d416c08571e5c1c"
+      },
+      {
+        "@id": "_:N9ef580d670be4c77a8ac95fb7c5a2386"
+      },
+      {
+        "@id": "_:N35a25dce9f174627930cf10dc7606f4c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Herschel study of Planetary Nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1109.4219"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012IAUS..283..514V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na3f173da4c8742d08d416c08571e5c1c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1109.4219"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9ef580d670be4c77a8ac95fb7c5a2386",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s1743921312012197"
+      }
+    ]
+  },
+  {
+    "@id": "_:N35a25dce9f174627930cf10dc7606f4c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012IAUS..283..514V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncc662ff84fc94a4db5749d4aca5b7c00",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na26c6fe7e38740a78725a8f454a4a4e2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VizieR Online Data Catalog: RR Tel JHKL photometry 1975-2002 (Kotnik-Karuza+, 2006)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2006yCat..34520503K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na26c6fe7e38740a78725a8f454a4a4e2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2006yCat..34520503K"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.10018907",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf41461955ca44134914cb778af2238fc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sustainability of FAIR Life Science Resources and Projects: the \"BeSure\" Recommendations from EOSC-Life Research Infrastructures"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf41461955ca44134914cb778af2238fc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10018907"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8402864",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3b8a16f3a0d04448952ea205fb0fe2c0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Research objects FAIRness assessment for Earth and Environmental science applications"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3b8a16f3a0d04448952ea205fb0fe2c0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8402864"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2012.20818.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N59e63bb368e84415b6c2f2cfe44e5901"
+      },
+      {
+        "@id": "_:N54515af1c64b4097b470d09ff7de1501"
+      },
+      {
+        "@id": "_:N6c43087d8aaa4777897156fceea1ad99"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mass ratio from Doppler beaming and Rømer delay versus ellipsoidal modulation in the Kepler data of KOI-74"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012MNRAS.422.2600B"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1202.5553"
+      }
+    ]
+  },
+  {
+    "@id": "_:N59e63bb368e84415b6c2f2cfe44e5901",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012MNRAS.422.2600B"
+      }
+    ]
+  },
+  {
+    "@id": "_:N54515af1c64b4097b470d09ff7de1501",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1202.5553"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6c43087d8aaa4777897156fceea1ad99",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2012.20818.x"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201423650",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Naba03e4920df4205a8a7153f0caebe2e"
+      },
+      {
+        "@id": "_:N2d20377d4d2147deac13637b8600da06"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Binary central stars of planetary nebulae with long orbits: the radial velocity orbit of BD+33°2642 (PN G052.7+50.7) and the orbital motion of HD 112313 (PN LoTr5)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1403.2605"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naba03e4920df4205a8a7153f0caebe2e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1403.2605"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2d20377d4d2147deac13637b8600da06",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201423650"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014633",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N122d536bc2884bc8a93a801601baddb3"
+      },
+      {
+        "@id": "_:N4ee8c59e4f1d46b7ab727a08b5667cdc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The detached dust shells of AQ Andromedae, U Antliae, and TT Cygni"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.2689"
+      }
+    ]
+  },
+  {
+    "@id": "_:N122d536bc2884bc8a93a801601baddb3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014633"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4ee8c59e4f1d46b7ab727a08b5667cdc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.2689"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1046/j.1365-8711.2002.05466.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N057ce3d6e7e442679dc5a96a5da39205"
+      },
+      {
+        "@id": "_:Nd6f2d4d89ee84e01a026135dcba11a8b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Further variability of the compact radio nebula of P Cygni"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2002MNRAS.333..715E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N057ce3d6e7e442679dc5a96a5da39205",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2002MNRAS.333..715E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd6f2d4d89ee84e01a026135dcba11a8b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1046/j.1365-8711.2002.05466.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na0df4fbfed7d4f34adcf26f6c4a54c0a",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncad147f201e64387bfca6c175b8503ba"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Chemistry of the Galactic Bulge"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/1998IAUS..191P.602E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncad147f201e64387bfca6c175b8503ba",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1998IAUS..191P.602E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/pasj/61.2.147",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc457e3dea31949f08f5128037d4dc04e"
+      },
+      {
+        "@id": "_:N9518af17905f4fceae5f21b1cc790521"
+      },
+      {
+        "@id": "_:N4223002c97af4b9b8628c6c5f80f2adb"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Variation of Fluxes of RR Tel Emission Lines Measured in 2000 with Respect to 1996"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/0811.4557"
+      },
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2009PASJ...61..147K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc457e3dea31949f08f5128037d4dc04e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/pasj/61.2.147"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9518af17905f4fceae5f21b1cc790521",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0811.4557"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4223002c97af4b9b8628c6c5f80f2adb",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2009PASJ...61..147K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na8d13cf65d5842b59079157303e023bd",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Marine Biodiversity Observation Network for Genetic Monitoring of Hard-Bottom Communities (ARMS-MBON)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8081127",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf8d8807a0e2e41ba9cd039142a4df090"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ENVRI-FAIR D7.8: Test and validation at EOSC level"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf8d8807a0e2e41ba9cd039142a4df090",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8081127"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nda9b89cee269491fb7b2d736cf1889f0",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N93250dbe659f4b4cafaeac78e9b56612"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Irradiation in the Binary Central Stars of Planetary Nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001AGM....18.P129E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N93250dbe659f4b4cafaeac78e9b56612",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001AGM....18.P129E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8e74cb5e5056481e9a7add58611052a9",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncb8f66ad7a73476bbf1505b6b0ba26c9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Nebula around the Luminous Blue Variable WRAY 15-751 as seen by Herschel"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2013msao.confE.188V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncb8f66ad7a73476bbf1505b6b0ba26c9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2013msao.confE.188V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201730700",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne68ae5ce751e458c874522d3229ecbcc"
+      },
+      {
+        "@id": "_:N513bfa739d6e428482ff8bbd44e7990d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The long-period binary central stars of the planetary nebulae NGC 1514 and LoTr 5"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1703.05096"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne68ae5ce751e458c874522d3229ecbcc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1703.05096"
+      }
+    ]
+  },
+  {
+    "@id": "_:N513bfa739d6e428482ff8bbd44e7990d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201730700"
+      }
+    ]
+  },
+  {
+    "@id": "_:N04d0c250e09e4e9bbc8186a3ff8f1ee4",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9fb679ecc58546b6baa578fd6b746155"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Radio observations of P Cygni"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001ASPC..233..241E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9fb679ecc58546b6baa578fd6b746155",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001ASPC..233..241E"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Data Centre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Flanders Marine Institute"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2005.08898.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N30086a9dd2ad4b34bc4a479eac16dde5"
+      },
+      {
+        "@id": "_:Ne62910b06de148f39d4023eee3e7fa1c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A study of two post-common envelope binary systems"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005MNRAS.359..315E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N30086a9dd2ad4b34bc4a479eac16dde5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005MNRAS.359..315E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne62910b06de148f39d4023eee3e7fa1c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2005.08898.x"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8059830",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na59c8d35957d45cb8db05b4a1c831c4c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Preprint: \"Be Sustainable\", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na59c8d35957d45cb8db05b4a1c831c4c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8059830"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201118581",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N05a197cd61764b8dbdab7c8ae0d53a70"
+      },
+      {
+        "@id": "_:N9d4d8519dceb4cafaac2cc5c259a16a1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel images of Fomalhaut. An extrasolar Kuiper belt at the height of its dynamical activity"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1204.5037"
+      }
+    ]
+  },
+  {
+    "@id": "_:N05a197cd61764b8dbdab7c8ae0d53a70",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201118581"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9d4d8519dceb4cafaac2cc5c259a16a1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1204.5037"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8059831",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc20692650f3e4c44bca9a7b1cdd878bd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sustainability of FAIR Life Science Resources and Projects: Lessons Learned from EOSC-Life Research Infrastructures"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc20692650f3e4c44bca9a7b1cdd878bd",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8059831"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8338931",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9e26c13b3b884c66869de95caccbf683"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Preprint: \"Be Sustainable\", Recommendations for FAIR Resources in Life Sciences research: EOSC-Life's Lessons"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9e26c13b3b884c66869de95caccbf683",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8338931"
+      }
+    ]
+  },
+  {
+    "@id": "_:N80bb1553d9034596b620d623cd3d7358",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N69cc3a83166e4a879307de3dd16493fc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VizieR Online Data Catalog: NGC 1514 and LoTr 5 radial velocity curves (Jones+, 2017)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2017yCat..36009009J"
+      }
+    ]
+  },
+  {
+    "@id": "_:N69cc3a83166e4a879307de3dd16493fc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2017yCat..36009009J"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014553",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7339a261cb3f48b6a990804b83659d2b"
+      },
+      {
+        "@id": "_:Ncb8f8731f7af432eaa31637886815fce"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Detection of anhydrous hydrochloric acid, HCl, in IRC +10216 with the Herschel SPIRE and PACS spectrometers . Detection of HCl in IRC +10216"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.4220"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7339a261cb3f48b6a990804b83659d2b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.4220"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncb8f8731f7af432eaa31637886815fce",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014553"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc32d31c26b6b462fb9d52401e7ae11a5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nfb4334383d8e44299c311d39b0c2bd38"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Astronomy in Denver: Spatial distributions of dust properties via far-IR broadband map with HerPlaNS"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2018AAS...23212601A"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfb4334383d8e44299c311d39b0c2bd38",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2018AAS...23212601A"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2007.12346.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2840086883a04db388a85a9c5b038dca"
+      },
+      {
+        "@id": "_:N252a73a6fbf34c67a9ddf60bf4e23ec1"
+      },
+      {
+        "@id": "_:Ne01ae40f8da540b8831a4f65d8327d52"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gemini GMOS/IFU spectroscopy of NGC 1569 - I. Mapping the properties of a young star cluster and its environment"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007MNRAS.381..894W"
+      },
+      {
+        "@id": "https://arxiv.org/abs/0708.2379"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2840086883a04db388a85a9c5b038dca",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007MNRAS.381..894W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N252a73a6fbf34c67a9ddf60bf4e23ec1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2007.12346.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne01ae40f8da540b8831a4f65d8327d52",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0708.2379"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361:20054578",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne806d220e6cb4c9990d3b8fea3c7eb6e"
+      },
+      {
+        "@id": "_:Ne38827c8d0bc42d598fd84f18965fa09"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A jet-cloud interaction in the 3C 196 environment"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/astro-ph/0603591"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne806d220e6cb4c9990d3b8fea3c7eb6e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361:20054578"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne38827c8d0bc42d598fd84f18965fa09",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:astro-ph/0603591"
+      }
+    ]
+  },
+  {
+    "@id": "_:N29c3e257df0648df84de7282ccb657ff",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N28f8035ae3b14a5389382a6a876fd182"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Observations of Planetary Nebulae in the MESS Program"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2014apn6.confE.109V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N28f8035ae3b14a5389382a6a876fd182",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2014apn6.confE.109V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5196b3b0751442d282fff0689f8f22e2",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7e70a407ac1e48739df5dc5e693718bf"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Bizarre Eclipsing Nucleus of the Planetary Nebula SuWt 2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2008AAS...212.1308B"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7e70a407ac1e48739df5dc5e693718bf",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2008AAS...212.1308B"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1046/j.1365-8711.2003.06505.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nad83466357f842d386f76143bb686f26"
+      },
+      {
+        "@id": "_:N00a625625c3049f08063d1fc9b96c389"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The planetary nebula K 1-2 and its binary central star VW Pyx"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003MNRAS.341.1349E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nad83466357f842d386f76143bb686f26",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003MNRAS.341.1349E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N00a625625c3049f08063d1fc9b96c389",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1046/j.1365-8711.2003.06505.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7fad8a07a21d4cb5a08133608eec8f4a",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N15ab0838382247e79d4cff211fba0014"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Results from the Herschel Key Program MESS"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011ASPC..445..567G"
+      }
+    ]
+  },
+  {
+    "@id": "_:N15ab0838382247e79d4cff211fba0014",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011ASPC..445..567G"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1046/j.1365-8711.2002.05988.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na1bdc1868f934b2286e27e303d6e4606"
+      },
+      {
+        "@id": "_:N8e9725d23a854427b17c23dd77497590"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The OIV and SIV intercombination lines in the ultraviolet spectra of astrophysical sources"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2002MNRAS.337..901K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na1bdc1868f934b2286e27e303d6e4606",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2002MNRAS.337..901K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8e9725d23a854427b17c23dd77497590",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1046/j.1365-8711.2002.05988.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3a821678d5b543648e05a6cee75ed899",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na524c47e560b44ca9af54c19d7530ab9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "New Results Concerning the Fe II Lines of RR Tel"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003ASPC..303..136K"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na524c47e560b44ca9af54c19d7530ab9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003ASPC..303..136K"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7588903",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd852ee2ec0c54a749e6a0a9eb22a81c4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "FAIR-EASE_D5.1_Report on key requirements from Use Cases/Pilots"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd852ee2ec0c54a749e6a0a9eb22a81c4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7588903"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1002/lrh2.10365",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne9a8c41fb69c4962957b413435622955"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Toward a common standard for data and specimen provenance in life sciences"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne9a8c41fb69c4962957b413435622955",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1002/lrh2.10365"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014658",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9578ff5d82294d88bac568c17af8577a"
+      },
+      {
+        "@id": "_:N006796e7f69942a996fddda48d58c8b9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel PACS and SPIRE imaging of CW Leonis"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.1433"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9578ff5d82294d88bac568c17af8577a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014658"
+      }
+    ]
+  },
+  {
+    "@id": "_:N006796e7f69942a996fddda48d58c8b9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.1433"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1038/nature09344",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nfc95b2d65efc401893697b88f3651778"
+      },
+      {
+        "@id": "_:N80c33054cfb74c1f9bc32d26365ccee5"
+      },
+      {
+        "@id": "_:N462a2cdf4a9343fca76d386511d62c5d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Warm water vapour in the sooty outflow from a luminous carbon star"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2010Natur.467...64D"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1104.2316"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfc95b2d65efc401893697b88f3651778",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2010Natur.467...64D"
+      }
+    ]
+  },
+  {
+    "@id": "_:N80c33054cfb74c1f9bc32d26365ccee5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1104.2316"
+      }
+    ]
+  },
+  {
+    "@id": "_:N462a2cdf4a9343fca76d386511d62c5d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1038/nature09344"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/978-3-540-73491-8_27",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Na1f38ef36e7143e7b6c741c909560724"
+      },
+      {
+        "@id": "_:N31693ded49684096aec4aecfb98d0778"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Studying the Roots of the Supergalactic Wind in NGC 1569 with Gemini GMOS/IFUV"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007spts.conf..159W"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na1f38ef36e7143e7b6c741c909560724",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/978-3-540-73491-8_27"
+      }
+    ]
+  },
+  {
+    "@id": "_:N31693ded49684096aec4aecfb98d0778",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007spts.conf..159W"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201118242",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N98710b05e0d14f79b08c9681071574e2"
+      },
+      {
+        "@id": "_:N91c6cee0e2324a7d99ea1d7c34c421e8"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Spitzer spectroscopic survey of S-type stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1202.2290"
+      }
+    ]
+  },
+  {
+    "@id": "_:N98710b05e0d14f79b08c9681071574e2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201118242"
+      }
+    ]
+  },
+  {
+    "@id": "_:N91c6cee0e2324a7d99ea1d7c34c421e8",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1202.2290"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/978-3-540-73491-8_56",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2ecad52428224faeafb56427f8952ff7"
+      },
+      {
+        "@id": "_:N86560b8f7dfe44d5beefa12c530ddb99"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "3D Spectroscopy of Herbig-Haro Objects"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007spts.conf..343L"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2ecad52428224faeafb56427f8952ff7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007spts.conf..343L"
+      }
+    ]
+  },
+  {
+    "@id": "_:N86560b8f7dfe44d5beefa12c530ddb99",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/978-3-540-73491-8_56"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94630",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N98a0cb4e3e894f66925207ddde4d7f33"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Contemporary Data Management for Biodiversity Observation Networks leading to Linked Open Data Publishing through Distributed Techniques applying RO-Crate and GitHub Actions"
+      }
+    ]
+  },
+  {
+    "@id": "_:N98a0cb4e3e894f66925207ddde4d7f33",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94630"
+      }
+    ]
+  },
+  {
+    "@id": "_:N968d1ab0d22c4ac78e87a40af23d66d7",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9fe415118e4d4b6bbbc04df9ccc64a02"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "V471 Tauri and SuWt 2: The Exotic Descendants of Triple Systems?"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2002ASPC..279..239B"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9fe415118e4d4b6bbbc04df9ccc64a02",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2002ASPC..279..239B"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014590",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9061e5732acf4256b1d72aa07216a181"
+      },
+      {
+        "@id": "_:Nc03ab81e1778421380aa23c96259aa88"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel images of NGC 6720: H<SUB>2</SUB> formation on dust grains"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.1502"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9061e5732acf4256b1d72aa07216a181",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014590"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc03ab81e1778421380aa23c96259aa88",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.1502"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.4.58938",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N183daff8e66746d68fdef97eaca0d73c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Genomics Observatory Use-Case: The challenge to standardise image and sequence data to Darwin Core format"
+      }
+    ]
+  },
+  {
+    "@id": "_:N183daff8e66746d68fdef97eaca0d73c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.4.58938"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0b6d54a83f2b4e17aa6d3a28bc10c561",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2a51ed7ada3f4925b682cd43257bff75"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "GT1_kexter_1: V838 Mon: aftermath of a stellar merger"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2010hers.prop..601E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2a51ed7ada3f4925b682cd43257bff75",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2010hers.prop..601E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3390/galaxies6030073",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4f910a2d439542c3bcefa784254104b0"
+      },
+      {
+        "@id": "_:Na7f9a1207d5a48b28b964f689bd1210f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spectroscopy of Planetary Nebulae with Herschel: A Beginners Guide"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2018Galax...6...73E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4f910a2d439542c3bcefa784254104b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2018Galax...6...73E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na7f9a1207d5a48b28b964f689bd1210f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3390/galaxies6030073"
+      }
+    ]
+  },
+  {
+    "@id": "_:N15a173ffaa5d434a918b87e94e68c290",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2a850fc9626441eeaf688f81febdfd42"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Observations of Blazars PKS 1510-089 and AO 0235+164"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2013HEAD...1330008N"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2a850fc9626441eeaf688f81febdfd42",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2013HEAD...1330008N"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc248a7f01f6547479f2db875a54704b5",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nda72de0e75df40068683aedbb1ee23df"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel PACS and SPIRE Imaging of CW Leonis"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011ASPC..445..337L"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nda72de0e75df40068683aedbb1ee23df",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011ASPC..445..337L"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2abb2b4bbfb946b5a99a277b2dcacab6",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N79e6ea216d694cdea3c9f8a493f95cdc"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VizieR Online Data Catalog: BD+33 2642 and HD 112313 radial velocities (Van Winckel+, 2014)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2014yCat..35639010V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N79e6ea216d694cdea3c9f8a493f95cdc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2014yCat..35639010V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb95ca57c5c7a4c8d8e97ec0b377b3b7c",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1f4ee7592d74459caeaebc5d41668411"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "New results about dust in the envelope of the symbiotic nova RR Tel"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2004ASPC..318..363K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1f4ee7592d74459caeaebc5d41668411",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2004ASPC..318..363K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N69c382f12e894f599b135d33fb5b2baf",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nec0c21115bfc443aa556cadd01448753"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Eclipsing Nucleus of the Ring Planetary Nebula SuWt 2"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001AAS...19913607B"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nec0c21115bfc443aa556cadd01448753",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001AAS...19913607B"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/gigascience/giad078",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nadb52cf13b8a4d5ca93b827b2763ce26"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nadb52cf13b8a4d5ca93b827b2763ce26",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/gigascience/giad078"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201221023",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf39c861a35994c9d8b7f9459cfd228a0"
+      },
+      {
+        "@id": "_:Nf8aa15d3a93e4b268ff8157fd79d7b9d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Herschel study of NGC 650"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1308.2477"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf39c861a35994c9d8b7f9459cfd228a0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201221023"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf8aa15d3a93e4b268ff8157fd79d7b9d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1308.2477"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1063/1.2130289",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N902f5ac7d0ba44088eb6a0decb7ac624"
+      },
+      {
+        "@id": "_:N87ead83b014a400aaefe1dfa20da27f0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Fe II emission lines of RR Tel during an obscuration event"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005AIPC..797..577K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N902f5ac7d0ba44088eb6a0decb7ac624",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005AIPC..797..577K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N87ead83b014a400aaefe1dfa20da27f0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1063/1.2130289"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/978-3-540-73491-8_51",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1e6302ff67a044128faf3bcf5a28baed"
+      },
+      {
+        "@id": "_:N00415680a074410eb7e6cac7391c46d0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spatially Resolved Spectroscopy of Abell 30"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2007spts.conf..315E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1e6302ff67a044128faf3bcf5a28baed",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/978-3-540-73491-8_51"
+      }
+    ]
+  },
+  {
+    "@id": "_:N00415680a074410eb7e6cac7391c46d0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2007spts.conf..315E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf5aaa1761385443fbfdef1912d3f7e3e",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8e0ed0e30e5940828b5c4725d7467952"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The 3-D Circumstellar Environment Of V838 Mon"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2008AAS...212.1109E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8e0ed0e30e5940828b5c4725d7467952",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2008AAS...212.1109E"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1063/1.2130285",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7157c128a18b4ed2985b1401c94bf604"
+      },
+      {
+        "@id": "_:N3901608775f84cc4abc2a9dfaea27a2c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "What happens when a hot star shines on a cool one?"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2005AIPC..797..561E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7157c128a18b4ed2985b1401c94bf604",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2005AIPC..797..561E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3901608775f84cc4abc2a9dfaea27a2c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1063/1.2130285"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201628235",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb6c5cb14d00a47ba8113ed577d03c980"
+      },
+      {
+        "@id": "_:Nb7d115e0f02843c398f6092d81b092ac"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "On the properties of dust and gas in the environs of V838 Monocerotis"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1608.08842"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb6c5cb14d00a47ba8113ed577d03c980",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201628235"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb7d115e0f02843c398f6092d81b092ac",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1608.08842"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5524/102443",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb387dce50e0f4527a68380290902fd26"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supporting data for \"metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data\""
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb387dce50e0f4527a68380290902fd26",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5524/102443"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0e0dd066efc3412ca176d88375ae9c77",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4a57a989e9c04ab0a9016897dde6e0af"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "HERMES survey of binarity in evolved stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011apn5.confE.246G"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4a57a989e9c04ab0a9016897dde6e0af",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011apn5.confE.246G"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf0a6610388f54ed3a6366e10ace51d45",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N479d0e72f13a406c97d255d00e35d3cb"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Studying the Roots of the Galactic Wind in NGC 1569: IFU Observations of Cluster NGC 1569-10"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2008ASPC..388..423W"
+      }
+    ]
+  },
+  {
+    "@id": "_:N479d0e72f13a406c97d255d00e35d3cb",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2008ASPC..388..423W"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201219723",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb8c6297dec19471385b39418bf65f232"
+      },
+      {
+        "@id": "_:N7b7fc46eb2874a1da66d52169a17207b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The orbits of subdwarf B + main-sequence binaries. I. The sdB+G0 system PG 1104+243"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1210.1969"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb8c6297dec19471385b39418bf65f232",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201219723"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7b7fc46eb2874a1da66d52169a17207b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1210.1969"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2004.07600.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nce59a88044a740c88521d3324137354d"
+      },
+      {
+        "@id": "_:N42a333dbcf1c4ab68df92cf00f298e89"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The abundance distributions of Galactic bulge and disc planetary nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2004MNRAS.349.1291E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nce59a88044a740c88521d3324137354d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2004.07600.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N42a333dbcf1c4ab68df92cf00f298e89",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2004MNRAS.349.1291E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2903ba2878414cf3a352bacdc2decf8f",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4ef74e02b44f44668c2812c748f6ab8b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel spectroscopy of planetary nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011IAUS..280P.367V"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4ef74e02b44f44668c2812c748f6ab8b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011IAUS..280P.367V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/j.1365-2966.2009.15172.x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf053598c445a48e9828442ce1ccdc12b"
+      },
+      {
+        "@id": "_:N289f879d7e984334a2aeaae96fed2f4a"
+      },
+      {
+        "@id": "_:N8568dfdb73a3455489c8e634a7c73d20"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A VLT VIMOS study of the anomalous BCD Mrk996: mapping the ionized gas kinematics and abundances"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2009MNRAS.398....2J"
+      },
+      {
+        "@id": "https://arxiv.org/abs/0903.2280"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf053598c445a48e9828442ce1ccdc12b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/j.1365-2966.2009.15172.x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N289f879d7e984334a2aeaae96fed2f4a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2009MNRAS.398....2J"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8568dfdb73a3455489c8e634a7c73d20",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:0903.2280"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.15252/embj.2023115008",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9747030642984bbcbbea1e0ccafea5a9"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "“Be sustainable”: EOSC‐Life recommendations for implementation of FAIR principles in life science data handling"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9747030642984bbcbbea1e0ccafea5a9",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.15252/embj.2023115008"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-5911-1536",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f"
+      },
+      {
+        "@id": "_:Nf87305c934b6415696d809589c6b835c"
+      },
+      {
+        "@id": "_:N1144472b0f924ff6956d8ce7c9e88cb4"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "https://doi.org/10.13039/100009878"
+      },
+      {
+        "@id": "_:N7e508e05f8e745f5bdf68cc9bf45b367"
+      },
+      {
+        "@id": "_:N07e8c93b375a4dfb82186a90685de452"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Exter"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Katrina"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://purl.org/np/RABO9OcjZiwck-K2wil-dbWpH7uNADR3S-bL-k8oQa_ls"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7e508e05f8e745f5bdf68cc9bf45b367",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Astrophysics"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N51ce387e79ca4ae387868e4265b1e7c7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Saint Andrews"
+      }
+    ]
+  },
+  {
+    "@id": "_:N51ce387e79ca4ae387868e4265b1e7c7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "7486"
+      }
+    ]
+  },
+  {
+    "@id": "_:N07e8c93b375a4dfb82186a90685de452",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Jodrell Bank"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N19ee8ad80c274798aaf8a9a49ad0feb6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Manchester"
+      }
+    ]
+  },
+  {
+    "@id": "_:N19ee8ad80c274798aaf8a9a49ad0feb6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "5292"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf87305c934b6415696d809589c6b835c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Herschel Science Centre"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Naefc72d003ee4c279c6287d6789f85fe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "European Space Astronomy Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naefc72d003ee4c279c6287d6789f85fe",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "69269"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1144472b0f924ff6956d8ce7c9e88cb4",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Institute for Astronomy"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7de900915bbf48fbb742c70e757a0cfd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "KU Leuven"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7de900915bbf48fbb742c70e757a0cfd",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "26657"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc68b318aa04c46959180ef7870e02aad",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8590a2769b8446fba35afe6c95973150"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Planetary Nebula Survey (HerPlaNS)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2014apn6.confE.106U"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8590a2769b8446fba35afe6c95973150",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2014apn6.confE.106U"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201118606",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9035fbd29abc4c07baa73639808064d2"
+      },
+      {
+        "@id": "_:Naafd1c550f53443e8f446b90a4cfff9c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Absolute dimensions of solar-type eclipsing binaries. EF Aquarii: a G0 test for stellar evolution models"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1202.4851"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9035fbd29abc4c07baa73639808064d2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201118606"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naafd1c550f53443e8f446b90a4cfff9c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1202.4851"
+      }
+    ]
+  },
+  {
+    "@id": "_:N01d41248ebac4b29ad3dcb1c69216d0b",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7a79a7ebda3f4601ab7cdd9f1572266b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Irradiation in Binary Central Stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2001AGM....18.P103E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7a79a7ebda3f4601ab7cdd9f1572266b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2001AGM....18.P103E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N190f627b787e43c69cf8bc58cc03127a",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N5353b0d47ae24cd6a26b384bd3f1959f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Planetary Nebula Survey (HerPlaNS): First Detection of OH<SUP>+</SUP> in Planetary Nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2015AAS...22510805A"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5353b0d47ae24cd6a26b384bd3f1959f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2015AAS...22510805A"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3695ea5911ce48df9462a1f3e299e0ab",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd397be39b31643f0bc47ebc101027ac3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Minor Planet Observations [950 La Palma]"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2003MPC..49587...5H"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd397be39b31643f0bc47ebc101027ac3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2003MPC..49587...5H"
+      }
+    ]
+  },
+  {
+    "@id": "_:N398a35deb9694b27bc5d78598c353534",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb73988a245424d839fefdd15e77a2396"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Spectral Cube Visualisation and Explorer Tool from the Herschel Interactive Processing Environment (HIPE)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2015ASPC..495..129D"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb73988a245424d839fefdd15e77a2396",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2015ASPC..495..129D"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201219051",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2062fac76771418cb2797c61da0f3ed6"
+      },
+      {
+        "@id": "_:N8e55401e5c284750b14e8dbe8d79b6dd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A VLT VIMOS IFU study of the ionisation nebula surrounding the supersoft X-ray source CAL 83"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1206.2559"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2062fac76771418cb2797c61da0f3ed6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1206.2559"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8e55401e5c284750b14e8dbe8d79b6dd",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201219051"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb4119a57e7b246e6bfe3a69501819dbc",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N5e8fd66cd06b4101906c193a723c90ad"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Herschel PACS Pipeline Extensions: Making Tasks and Scripts Suitable for Interactive and Automatic Processing"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012ASPC..461..631D"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5e8fd66cd06b4101906c193a723c90ad",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012ASPC..461..631D"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201014589",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8be72c084b914f23ae9485cf21f47859"
+      },
+      {
+        "@id": "_:Nd00d287a19104083a64c3b39555d6aae"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel-SPIRE FTS spectroscopy of the carbon-rich objects AFGL 2688, AFGL 618, and NGC 7027"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1005.3279"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8be72c084b914f23ae9485cf21f47859",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201014589"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd00d287a19104083a64c3b39555d6aae",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1005.3279"
+      }
+    ]
+  },
+  {
+    "@id": "_:N01165a9b669c470b81fd06a5fa02384c",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nfc217d86253145689409dc6ed976812e"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "VizieR Online Data Catalog: KOI-74 radial velocities and fluxes (Bloemen+, 2012)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2013yCat..74222600B"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfc217d86253145689409dc6ed976812e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2013yCat..74222600B"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201321853",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nffff8da442e5474b8d957434e8373294"
+      },
+      {
+        "@id": "_:Nfed8c3ada5c94822a12d684f42db3ef1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel imaging and spectroscopy of the nebula around the luminous blue variable star WRAY 15-751"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1307.0759"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nffff8da442e5474b8d957434e8373294",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1307.0759"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfed8c3ada5c94822a12d684f42db3ef1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201321853"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1eb78ce258a141e7a8829582f9dddd5d",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N21f329bcb9a842f68d9a8d6e04395db4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "OT2_kexter_2: V838 Mon: aftermath of a stellar merger"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011hers.prop.2064E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N21f329bcb9a842f68d9a8d6e04395db4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011hers.prop.2064E"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfa5b610d2bdb4da5893033decbe560ed",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb5b2e7671bf542259bea578a182f12f4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel-PACS observations of Nebulae Ejected by Massive Stars"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2011BSRSL..80..435V"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb5b2e7671bf542259bea578a182f12f4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2011BSRSL..80..435V"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201424189",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9014a07f32a143f7be188fa84da27c9c"
+      },
+      {
+        "@id": "_:N239870a971054372bc4c690bcbd3a396"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel imaging of the dust in the Helix nebula (NGC 7293)"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1411.4429"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9014a07f32a143f7be188fa84da27c9c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201424189"
+      }
+    ]
+  },
+  {
+    "@id": "_:N239870a971054372bc4c690bcbd3a396",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1411.4429"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5194/egusphere-egu23-15298",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N02ecabcf8c9841e691c1cb89ddc58073"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accelerating the research on Biodiversity and Ecosystems: Best Practice on Climate Change vs Non-Indigenous Invasive Species (NIS)"
+      }
+    ]
+  },
+  {
+    "@id": "_:N02ecabcf8c9841e691c1cb89ddc58073",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5194/egusphere-egu23-15298"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/eas/1571067",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N84d24300a4da452880d1de01f35040d5"
+      },
+      {
+        "@id": "_:N6010e2975639423899d18e4c68657bfe"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Integral Field Spectroscopy with Herschel PACS"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2015EAS....71..297E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N84d24300a4da452880d1de01f35040d5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2015EAS....71..297E"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6010e2975639423899d18e4c68657bfe",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/eas/1571067"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1088/0004-637x/760/1/69",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd1c123f426b644c48c64ead6e0b793e8"
+      },
+      {
+        "@id": "_:N4bf55673601a4e05a15b1c6e2acb7718"
+      },
+      {
+        "@id": "_:N37547705863f4a5e863f60ecb86aa027"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel PACS and SPIRE Observations of Blazar PKS 1510-089: A Case for Two Blazar Zones"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2012ApJ...760...69N"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1210.4552"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd1c123f426b644c48c64ead6e0b793e8",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2012ApJ...760...69N"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4bf55673601a4e05a15b1c6e2acb7718",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1088/0004-637x/760/1/69"
+      }
+    ]
+  },
+  {
+    "@id": "_:N37547705863f4a5e863f60ecb86aa027",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1210.4552"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/201322940",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N0fbf8567e39e49448073815bc9ceb65a"
+      },
+      {
+        "@id": "_:N3c5b028a4ed248ac8af1d8137c1d0f42"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Planetary Nebula Survey (HerPlaNS). First detection of OH<SUP>+</SUP> in planetary nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://arxiv.org/abs/1404.2431"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0fbf8567e39e49448073815bc9ceb65a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/201322940"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3c5b028a4ed248ac8af1d8137c1d0f42",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1404.2431"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1073/pnas.062032299",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2cfaef6827b84197b9caa295ab7a1e45"
+      },
+      {
+        "@id": "_:N059bceb01b5f4f5c8e8c824678fb8512"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Emission lines of [K V] in the optical spectra of gaseous nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2002PNAS...99.4152K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2cfaef6827b84197b9caa295ab7a1e45",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2002PNAS...99.4152K"
+      }
+    ]
+  },
+  {
+    "@id": "_:N059bceb01b5f4f5c8e8c824678fb8512",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1073/pnas.062032299"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/3-540-34270-2_36",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N976878ea9b2d45a8be389f1ed64b4ae1"
+      },
+      {
+        "@id": "_:Nd5156bcc36d24cc3ab0db19ce0a5aac8"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Crowded Field 3D Spectrophotometry of Extragalactic Planetary Nebulae"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2006pnbm.conf..239R"
+      }
+    ]
+  },
+  {
+    "@id": "_:N976878ea9b2d45a8be389f1ed64b4ae1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/3-540-34270-2_36"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd5156bcc36d24cc3ab0db19ce0a5aac8",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2006pnbm.conf..239R"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.5093124",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc19212cfad9f4cf9b2d42978abdad649"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Towards a Common Standard for Data and Specimen Provenance in Life Sciences"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc19212cfad9f4cf9b2d42978abdad649",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.5093124"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8403127",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N6d3238a838554751a3c504178a47cdd7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Navigating data lakes for Earth and marine science: FAIR Data management and Service Interoperability in practice"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6d3238a838554751a3c504178a47cdd7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8403127"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/mnras/sty966",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N775d3a324a024dab92c60ecf1b382db0"
+      },
+      {
+        "@id": "_:N6bbb9dc49c2149e19a8a67e19500199e"
+      },
+      {
+        "@id": "_:N5975dd8b916f450ead80e81c4fd6f151"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Herschel Planetary Nebula Survey (HerPlaNS). hydrogen recombination laser lines in Mz 3"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://adsabs.harvard.edu/abs/2018MNRAS.477.4499A"
+      },
+      {
+        "@id": "https://arxiv.org/abs/1805.06496"
+      }
+    ]
+  },
+  {
+    "@id": "_:N775d3a324a024dab92c60ecf1b382db0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "bibcode"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2018MNRAS.477.4499A"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6bbb9dc49c2149e19a8a67e19500199e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "arxiv"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "arXiv:1805.06496"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5975dd8b916f450ead80e81c4fd6f151",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/mnras/sty966"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8081128",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ncb439ca8176b482bb6db5256355c6838"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ENVRI-FAIR D7.8: Test and validation at EOSC level"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncb439ca8176b482bb6db5256355c6838",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8081128"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8402859",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-5911-1536"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1018130906624e309ee5e1708f1deb54"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "From web access to knowledge access: Overcoming digital divides in marine research"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1018130906624e309ee5e1708f1deb54",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8402859"
+      }
+    ]
+  }
+]

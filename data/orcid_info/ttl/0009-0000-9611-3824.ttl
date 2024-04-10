@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0009-0000-9611-3824#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0009-0000-9611-3824" ;
+        foaf:accountName             "0009-0000-9611-3824" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0009-0000-9611-3824#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0009-0000-9611-3824>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0009-0000-9611-3824> ;
+        pav:createdOn         "2023-11-23T11:04:39.416Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-04-09T03:47:19.607Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T03:47:19.607Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0009-0000-9611-3824> ;
+        foaf:maker            <https://orcid.org/0009-0000-9611-3824> ;
+        foaf:primaryTopic     <https://orcid.org/0009-0000-9611-3824> .
+
+<https://orcid.org/0009-0000-9611-3824>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Maria-Rose Eves Down" ;
+        foaf:account       <https://orcid.org/0009-0000-9611-3824#orcid-id> ;
+        foaf:familyName    "Eves Down" ;
+        foaf:givenName     "Maria-Rose" ;
+        foaf:mbox          <mailto:mariarose.evesdown@inbo.be> ;
+        foaf:publications  <https://orcid.org/0009-0000-9611-3824#workspace-works> .

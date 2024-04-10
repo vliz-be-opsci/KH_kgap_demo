@@ -1,0 +1,36 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-7415-9178>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-7415-9178> ;
+        pav:createdOn         "2019-06-28T08:12:25.025Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-22T10:49:20.017Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-22T10:49:20.017Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-7415-9178> ;
+        foaf:maker            <https://orcid.org/0000-0001-7415-9178> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-7415-9178> .
+
+<https://orcid.org/0000-0001-7415-9178#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-7415-9178" ;
+        foaf:accountName             "0000-0001-7415-9178" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-7415-9178>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Elien Dewitte" ;
+        foaf:account       <https://orcid.org/0000-0001-7415-9178#orcid-id> ;
+        foaf:familyName    "Dewitte" ;
+        foaf:givenName     "Elien" ;
+        foaf:page          <https://pureportal.ilvo.be/en/persons/9707e2b9-a0b4-441e-a89d-7a95d6d0039c> , <https://marineinfo.org/imis?module=person&persid=19141> ;
+        foaf:publications  <https://orcid.org/0000-0001-7415-9178#workspace-works> .
+
+<https://orcid.org/0000-0001-7415-9178#workspace-works>
+        rdf:type  foaf:Document .

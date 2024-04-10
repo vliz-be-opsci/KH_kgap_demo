@@ -1,0 +1,145 @@
+[
+  {
+    "@id": "https://doi.org/10.1016/j.ecoser.2022.101444",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-9313-4985"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nf2f7841b4d1f480bab5e311f8d8a9098"
+      },
+      {
+        "@id": "_:N0f7ef94edb4246ed9a3335598d8e05ba"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "How to reduce agri-environmental impacts on ecosystem services : the role of nudging techniques to increase purchase of plant-based meat substitutes"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-01gq7m73vvhzzet1vavkfb0k7q"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf2f7841b4d1f480bab5e311f8d8a9098",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.ecoser.2022.101444"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0f7ef94edb4246ed9a3335598d8e05ba",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-01gq7m73vvhzzet1vavkfb0k7q"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-9313-4985",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Choueiki"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Ziad"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-9313-4985"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3390/foods10092147",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-9313-4985"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd33224e3d0a1427688418d3c45c193fc"
+      },
+      {
+        "@id": "_:N5aee85ae8e6d4493b8e9e84e426fa461"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Animals Like Us: Leveraging the Negativity Bias in Anthropomorphism to Reduce Beef Consumption"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8730927"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd33224e3d0a1427688418d3c45c193fc",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8730927"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5aee85ae8e6d4493b8e9e84e426fa461",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3390/foods10092147"
+      }
+    ]
+  }
+]

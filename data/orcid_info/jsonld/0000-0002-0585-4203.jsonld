@@ -1,0 +1,319 @@
+[
+  {
+    "@id": "https://doi.org/10.21105/joss.05567",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N45c80229d207435f9bebf97e2baf565b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "COOLEST: COde-independent Organized LEns STandard"
+      }
+    ]
+  },
+  {
+    "@id": "_:N45c80229d207435f9bebf97e2baf565b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.21105/joss.05567"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s1743921323003642",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nefd3fa6f8d744a19ac53ce71572de644"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Large data set of lensed quasars: higher accuracy on H0? The angular structures viewpoint"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nefd3fa6f8d744a19ac53ce71572de644",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s1743921323003642"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/202244324",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N5c0155fd743f48ee91e7456bde907ecd"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TDCOSMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5c0155fd743f48ee91e7456bde907ecd",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/202244324"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/202346308",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N692786a1c89e41aebcb5355677c744a6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The ellipticity parameterization for an NFW profile: An overlooked angular structure in strong lens modeling"
+      }
+    ]
+  },
+  {
+    "@id": "_:N692786a1c89e41aebcb5355677c744a6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/202346308"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-0585-4203",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:N3dab11841bbe41c6b8e7f9d1d0aececa"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Van de Vyvere"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Lyne"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3dab11841bbe41c6b8e7f9d1d0aececa",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne83f13cdd3e7458abeafad7b0535d27b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Liège"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne83f13cdd3e7458abeafad7b0535d27b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "ROR"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "https://ror.org/00afp2z80"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/202038942",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd814cba07f994e258f59ea41b5d416f4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The impact of mass map truncation on strong lensing simulations"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd814cba07f994e258f59ea41b5d416f4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/202038942"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/202141551",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd996dde7d15d4216bd9570c518bd331c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TDCOSMO"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd996dde7d15d4216bd9570c518bd331c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/202141551"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1051/0004-6361/202243382",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-0585-4203"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nab51ee3fd0c54db8a2726c389462fc0a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Consequences of the lack of azimuthal freedom in the modeling of lensing galaxies"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nab51ee3fd0c54db8a2726c389462fc0a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1051/0004-6361/202243382"
+      }
+    ]
+  }
+]

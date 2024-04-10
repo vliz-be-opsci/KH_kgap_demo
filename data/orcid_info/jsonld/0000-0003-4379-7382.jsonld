@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0003-4379-7382",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Berckmans"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Jolien"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0003-4379-7382"
+      }
+    ]
+  }
+]

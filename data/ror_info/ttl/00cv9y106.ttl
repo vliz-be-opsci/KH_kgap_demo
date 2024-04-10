@@ -1,0 +1,24 @@
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/00cv9y106>
+    a schema:Organization ;
+    schema:name 'Ghent University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'UGent'^^xsd:string;
+    schema:foundingDate '1817'^^xsd:string ;
+        dct:relation <https://ror.org/00xmkp704> ;
+        dct:relation <https://ror.org/056t38c37> ;
+        schema:subOrganization <https://ror.org/041bygf77> ;
+        schema:subOrganization <https://ror.org/05bm1gr16> ;
+        schema:subOrganization <https://ror.org/04q4ydz28> ;
+        schema:subOrganization <https://ror.org/04hbttm44> ;
+        schema:subOrganization <https://ror.org/01qnqmc89> ;
+        schema:subOrganization <https://ror.org/05y4fay10> ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'https://www.ugent.be/en'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q1137665> ;
+    schema:identifier <http://isni.org/isni/0000000120697798> ;
+    schema:identifier <https://api.crossref.org/funders/501100004385> ;
+.

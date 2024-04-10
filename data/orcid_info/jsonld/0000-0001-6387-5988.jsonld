@@ -1,0 +1,155 @@
+[
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94630",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6387-5988"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nff1c26bc541b4b2b95623edab15f277b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Contemporary Data Management for Biodiversity Observation Networks leading to Linked Open Data Publishing through Distributed Techniques applying RO-Crate and GitHub Actions"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nff1c26bc541b4b2b95623edab15f277b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94630"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0001-6387-5988",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:Nfd24078845d641b58935a4c2f3350693"
+      }
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:N6f518f5dd64c4714a9b29f7618b4e53f"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Decruw"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Cedric"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0001-6387-5988"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfd24078845d641b58935a4c2f3350693",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "BE"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6f518f5dd64c4714a9b29f7618b4e53f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Data Center"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1a1c2a11dc644806898acc7f9bd6fa27"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vlaams Instituut voor de Zee"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1a1c2a11dc644806898acc7f9bd6fa27",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "71343"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94603",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6387-5988"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4e8bb07ad33f4b49ba8f3698b5753e57"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "An Algorithmic Approach to Reducing Taxonomic Detail from Actual Datasets to their Metadata Representation to Increase Findabilty"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4e8bb07ad33f4b49ba8f3698b5753e57",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94603"
+      }
+    ]
+  }
+]

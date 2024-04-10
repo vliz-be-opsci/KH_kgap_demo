@@ -1,0 +1,103 @@
+[
+  {
+    "@id": "https://orcid.org/0000-0002-9648-6484",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:Nc14ced16dcab45e99d924f119fa76c84"
+      }
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:N59df1ba7edb2440f8926b7d8fca4f42d"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "mpo"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Portier"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Marc"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-9648-6484"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.linkedin.com/in/marcportier/"
+      },
+      {
+        "@id": "https://twitter.com/mportier"
+      },
+      {
+        "@id": "http://purl.org/np/RAUPyY2DISDVAcR2SVZBUz6_RFUqaCphxWmy1REVFeoWo"
+      },
+      {
+        "@id": "https://oceanexpert.org/expert/43716"
+      },
+      {
+        "@id": "https://github.com/marc-portier"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc14ced16dcab45e99d924f119fa76c84",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "BE"
+      }
+    ]
+  },
+  {
+    "@id": "_:N59df1ba7edb2440f8926b7d8fca4f42d",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "VMDC, Flemish Marine Data Centre"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd513e3c2bcd74952b1b5e25481a2f2e7"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vlaams Instituut voor de Zee"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd513e3c2bcd74952b1b5e25481a2f2e7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "71343"
+      }
+    ]
+  }
+]

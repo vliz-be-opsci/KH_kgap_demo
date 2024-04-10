@@ -1,0 +1,45 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0001-9506-766X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-9506-766X" ;
+        foaf:accountName             "0000-0001-9506-766X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-9506-766X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0001-9506-766X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Paula Oset García" ;
+        foaf:account       <https://orcid.org/0000-0001-9506-766X#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Oset García" ;
+        foaf:givenName     "Paula" ;
+        foaf:publications  <https://orcid.org/0000-0001-9506-766X#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-9506-766X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-9506-766X> ;
+        pav:createdOn         "2019-07-04T10:10:33.420Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-04-09T10:39:42.195Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T10:39:42.195Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-9506-766X> ;
+        foaf:maker            <https://orcid.org/0000-0001-9506-766X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-9506-766X> .
