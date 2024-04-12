@@ -1,8 +1,8 @@
 # K-GAP DEMO for FRDN KnowledgHub community day 
 
-### Running this project - steps:
+### Running this project
 
-Steps:  
+Steps  
 1. Clone github repository
 ```
 git clone git@github.com:vliz-be-opsci/KH_kgap_demo.git
@@ -11,7 +11,7 @@ git clone git@github.com:vliz-be-opsci/KH_kgap_demo.git
 
 ```
 .$ cp dotenv-example .env             # make sure you have an .env file
-.$ docker-compose build  # use docker to build the services 
+.$ docker compose build  # use docker to build the services 
 ```
 3. Start up services
 ```
