@@ -5,15 +5,14 @@ version: "3.7"
 services: 
   yasgui:
     image: redpencil/yasgui:latest
+    container_name: test_kgap_yasgui
     environment:
       DEFAULT_SPARQL_ENDPOINT: "http://localhost:7200/repositories/${GDB_REPO:-kgap}" # that should be in the setup script | same exposed port as graphdb
     ports:
       - "8080:80"
   graphdb:
-    build:
-      context: ./graphdb
     image: ${REG_NS:-kgap}/kgap_graphdb:${BUILD_TAG:-latest}
-    container_name: test_kgap_graphdb
+    container_name: ${PROJECT:-noname}_kgap_graphdb
     env_file:
       - ./.env
     #environment: 
@@ -26,10 +25,8 @@ services:
       # todo later - consider mounted volumes for persistence of data ?
 
   jupyter:
-    build:
-      context: ./jupyter
     image: ${REG_NS:-kgap}/kgap_jupyter:${BUILD_TAG:-latest}
-    container_name: test_kgap_jupyter
+    container_name: ${PROJECT:-noname}_kgap_jupyter
     ports:
       - "8889:8888"
     links:
@@ -47,10 +44,8 @@ services:
         condition: service_healthy
 
   sembench:
-    build:
-      context: ./sembench
     image: ${REG_NS:-kgap}/kgap_sembench:${BUILD_TAG:-latest}
-    container_name: test_kgap_sembench
+    container_name: ${PROJECT:-noname}_kgap_sembench
     volumes:
       - "./data:/data"
     env_file:

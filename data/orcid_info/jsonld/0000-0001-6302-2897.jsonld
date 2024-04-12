@@ -1,12 +1,123 @@
 [
   {
+    "@id": "https://doi.org/10.5281/zenodo.10634664",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6302-2897"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N761ac9ebd2374f639748011ce395c67c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dataset Metadata in the Flemish Research Landscape."
+      }
+    ]
+  },
+  {
+    "@id": "_:N761ac9ebd2374f639748011ce395c67c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10634664"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.17605/osf.io/gdq93",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6302-2897"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nebd3623b00554c48bc16e6c021f96e52"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course)"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nebd3623b00554c48bc16e6c021f96e52",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.17605/osf.io/gdq93"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.10634663",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6302-2897"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N30d0a0b52ff841d09fa550ef9db73668"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dataset Metadata in the Flemish Research Landscape."
+      }
+    ]
+  },
+  {
+    "@id": "_:N30d0a0b52ff841d09fa550ef9db73668",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.10634663"
+      }
+    ]
+  },
+  {
     "@id": "https://orcid.org/0000-0001-6302-2897",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:N9a42899f89da4417b36dc3c84734d8e8"
+        "@id": "_:N216c272b999c4833b8913d7144b16782"
       }
     ],
     "http://schema.org/familyName": [
@@ -26,7 +137,7 @@
     ]
   },
   {
-    "@id": "_:N9a42899f89da4417b36dc3c84734d8e8",
+    "@id": "_:N216c272b999c4833b8913d7144b16782",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -37,7 +148,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N41d5bcbc14514282893f9370f560c659"
+        "@id": "_:N04806839c97c4b9c8014873d439f0c67"
       }
     ],
     "http://schema.org/name": [
@@ -47,7 +158,7 @@
     ]
   },
   {
-    "@id": "_:N41d5bcbc14514282893f9370f560c659",
+    "@id": "_:N04806839c97c4b9c8014873d439f0c67",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -59,117 +170,6 @@
     "http://schema.org/value": [
       {
         "@value": "https://ror.org/00cv9y106"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.17605/osf.io/gdq93",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-6302-2897"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N3698e9a1528645a09b17e5707aab7084"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3698e9a1528645a09b17e5707aab7084",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.17605/osf.io/gdq93"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.10634664",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-6302-2897"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N62dc89f8b6bd448784ba81536b3d8a77"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dataset Metadata in the Flemish Research Landscape."
-      }
-    ]
-  },
-  {
-    "@id": "_:N62dc89f8b6bd448784ba81536b3d8a77",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.10634664"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.10634663",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-6302-2897"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nbeeb994fb3044038ae9b82465aa50663"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dataset Metadata in the Flemish Research Landscape."
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbeeb994fb3044038ae9b82465aa50663",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.10634663"
       }
     ]
   }

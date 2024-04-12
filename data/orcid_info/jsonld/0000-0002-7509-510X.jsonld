@@ -1,23 +1,34 @@
 [
   {
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ghent University"
+      }
+    ]
+  },
+  {
     "@id": "https://orcid.org/0000-0002-7509-510X",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:Nf537ab41c4e24031a083649c4927ec71"
+        "@id": "_:Ne07b2f092558480eade3a2d02793e9d8"
       },
       {
-        "@id": "_:N88dd0717aaee49fdbe7e6496cf95c1d2"
+        "@id": "_:N08a1135285584c5aabd63e851672f7db"
       },
       {
-        "@id": "_:Nef1d9ef12f7e4420882f66f6a7cf3e22"
+        "@id": "_:Ne0d868432c304becb0069a14403f1750"
       }
     ],
     "http://schema.org/alumniOf": [
       {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0"
       }
     ],
     "http://schema.org/familyName": [
@@ -37,7 +48,7 @@
     ]
   },
   {
-    "@id": "_:Nf537ab41c4e24031a083649c4927ec71",
+    "@id": "_:Ne07b2f092558480eade3a2d02793e9d8",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -48,7 +59,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nb7f6fa1589db40ac80f8a15537875e5a"
+        "@id": "_:N1f839f34203747239875ff8a44573241"
       }
     ],
     "http://schema.org/name": [
@@ -58,7 +69,7 @@
     ]
   },
   {
-    "@id": "_:Nb7f6fa1589db40ac80f8a15537875e5a",
+    "@id": "_:N1f839f34203747239875ff8a44573241",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -74,7 +85,7 @@
     ]
   },
   {
-    "@id": "_:N88dd0717aaee49fdbe7e6496cf95c1d2",
+    "@id": "_:N08a1135285584c5aabd63e851672f7db",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -85,7 +96,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N61877baf63a34146af709ca2bb36dc0d"
+        "@id": "_:Nb51704a7fac0477d93d8fb9c6330df71"
       }
     ],
     "http://schema.org/name": [
@@ -95,7 +106,7 @@
     ]
   },
   {
-    "@id": "_:N61877baf63a34146af709ca2bb36dc0d",
+    "@id": "_:Nb51704a7fac0477d93d8fb9c6330df71",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -111,7 +122,7 @@
     ]
   },
   {
-    "@id": "_:Nef1d9ef12f7e4420882f66f6a7cf3e22",
+    "@id": "_:Ne0d868432c304becb0069a14403f1750",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -122,7 +133,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nfd5533969ed5496d890fb1dd08dd8160"
+        "@id": "_:Ndf2d014101c9476a9c11a154b04b660d"
       }
     ],
     "http://schema.org/name": [
@@ -132,7 +143,7 @@
     ]
   },
   {
-    "@id": "_:Nfd5533969ed5496d890fb1dd08dd8160",
+    "@id": "_:Ndf2d014101c9476a9c11a154b04b660d",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -144,17 +155,6 @@
     "http://schema.org/value": [
       {
         "@value": "74875"
-      }
-    ]
-  },
-  {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ghent University"
       }
     ]
   }

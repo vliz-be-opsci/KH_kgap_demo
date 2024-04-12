@@ -1,123 +1,20 @@
 [
   {
-    "@id": "https://doi.org/10.1017/s003060531900053x",
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0",
     "@type": [
-      "http://schema.org/CreativeWork"
+      "http://schema.org/Organization"
     ],
-    "http://schema.org/creator": [
+    "http://schema.org/alternateName": [
       {
-        "@id": "https://orcid.org/0000-0002-3170-3345"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N9c52615b50ad4b0c9039c05da1138ada"
+        "@value": "Biology"
       },
       {
-        "@id": "_:Nd7d6c50d9a2841c591d07617068eea97"
+        "@value": "Ghent University Botanical Garden"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Population structure and genetic diversity of Magnolia cubensis subsp. acunae (Magnoliaceae): effects of habitat fragmentation and implications for conservation"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://hdl.handle.net/1854/lu-8654042"
-      }
-    ]
-  },
-  {
-    "@id": "_:N9c52615b50ad4b0c9039c05da1138ada",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1017/s003060531900053x"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd7d6c50d9a2841c591d07617068eea97",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "handle"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "1854/lu-8654042"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1038/s41437-018-0151-5",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3170-3345"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nb9b221f2c2514fa59e75fb871e13d03e"
-      },
-      {
-        "@id": "_:Nd77427ca52de49139f4d37c7ec806c27"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Genetic patterns in Neotropical Magnolias (Magnoliaceae) using de novo developed microsatellite markers"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://hdl.handle.net/1854/lu-8578761"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nb9b221f2c2514fa59e75fb871e13d03e",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "handle"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "1854/lu-8578761"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd77427ca52de49139f4d37c7ec806c27",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1038/s41437-018-0151-5"
+        "@value": "Ghent University"
       }
     ]
   },
@@ -133,10 +30,10 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N2845e114a48844b685e63e3a24b21371"
+        "@id": "_:Nf7292565d3ea4ca583d8fb555e047cc5"
       },
       {
-        "@id": "_:N31c5cbf4e3af43a5a3a39d35174fc18f"
+        "@id": "_:Nbec01e5a56b043f68a329c3927999bdb"
       }
     ],
     "http://schema.org/name": [
@@ -151,7 +48,7 @@
     ]
   },
   {
-    "@id": "_:N2845e114a48844b685e63e3a24b21371",
+    "@id": "_:Nf7292565d3ea4ca583d8fb555e047cc5",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -167,7 +64,7 @@
     ]
   },
   {
-    "@id": "_:N31c5cbf4e3af43a5a3a39d35174fc18f",
+    "@id": "_:Nbec01e5a56b043f68a329c3927999bdb",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -183,141 +80,6 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.1007/s12225-018-9780-3",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3170-3345"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nc6e4011338ff4c6a92771bac1e8c0c31"
-      },
-      {
-        "@id": "_:N7209351a68ae441d8b40e0d71b62b4c3"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Investigating taxon boundaries and extinction risk in endemic Chilean cacti (Copiapoa subsection Cinerei, Cactaceae) using chloroplast DNA sequences, microsatellite data and 3D mapping"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://hdl.handle.net/1854/lu-8582077"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc6e4011338ff4c6a92771bac1e8c0c31",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1007/s12225-018-9780-3"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7209351a68ae441d8b40e0d71b62b4c3",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "handle"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "1854/lu-8582077"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1016/j.ympev.2021.107359",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3170-3345"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nbfdfe5dc1afa4ea4ae9ab3f51cc507a3"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The evolutionary history of the Caribbean magnolias (Magnoliaceae): Testing species delimitations and biogeographical hypotheses using molecular data"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbfdfe5dc1afa4ea4ae9ab3f51cc507a3",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1016/j.ympev.2021.107359"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.3390/plants11030448",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3170-3345"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nab1fa3ceda1544b7be1597e912d0ce06"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Comparison of Magnoliaceae Plastomes: Adding Neotropical Magnolia to the Discussion"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nab1fa3ceda1544b7be1597e912d0ce06",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3390/plants11030448"
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.1007/s10592-021-01395-6",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -329,7 +91,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ndc3381e95e3149129d2ee567c0861d63"
+        "@id": "_:N6ffe22d8e5f74f0cb4baf70611de9aab"
       }
     ],
     "http://schema.org/name": [
@@ -339,7 +101,7 @@
     ]
   },
   {
-    "@id": "_:Ndc3381e95e3149129d2ee567c0861d63",
+    "@id": "_:N6ffe22d8e5f74f0cb4baf70611de9aab",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -355,7 +117,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.5281/zenodo.6511351",
+    "@id": "https://doi.org/10.1038/s41437-018-0151-5",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -366,36 +128,41 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ncf5a8564b1c9404ea4264d0376a91605"
+        "@id": "_:Ncdeacb5c16d84e45b210a269338b7abf"
       },
       {
-        "@id": "_:Nd3fe0c6201004402b0050aa9c8165b21"
+        "@id": "_:Na25c5dab0a5340b2875959ebc1d4ca29"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "DiSSCo-Flanders WP2 - task 2.1, Detailed inventory of the collections: Report"
+        "@value": "Genetic patterns in Neotropical Magnolias (Magnoliaceae) using de novo developed microsatellite markers"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8578761"
       }
     ]
   },
   {
-    "@id": "_:Ncf5a8564b1c9404ea4264d0376a91605",
+    "@id": "_:Ncdeacb5c16d84e45b210a269338b7abf",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
     "http://schema.org/propertyID": [
       {
-        "@value": "source-work-id"
+        "@value": "handle"
       }
     ],
     "http://schema.org/value": [
       {
-        "@value": "da83f75b-1cb2-4f61-9e72-b50fd4f0d5c2"
+        "@value": "1854/lu-8578761"
       }
     ]
   },
   {
-    "@id": "_:Nd3fe0c6201004402b0050aa9c8165b21",
+    "@id": "_:Na25c5dab0a5340b2875959ebc1d4ca29",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -406,12 +173,12 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.5281/zenodo.6511351"
+        "@value": "10.1038/s41437-018-0151-5"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.1111/jbi.14514",
+    "@id": "https://doi.org/10.3390/plants11030448",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -422,17 +189,17 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N50278a64862341e9a9c78c2280349727"
+        "@id": "_:Nce82a84fc3064294a18d897ca213a670"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Genetic patterns of Magnolia in the Lesser Antilles: Stepwise colonisation leading to highly inbred island ‘populations’"
+        "@value": "Comparison of Magnoliaceae Plastomes: Adding Neotropical Magnolia to the Discussion"
       }
     ]
   },
   {
-    "@id": "_:N50278a64862341e9a9c78c2280349727",
+    "@id": "_:Nce82a84fc3064294a18d897ca213a670",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -443,7 +210,44 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.1111/jbi.14514"
+        "@value": "10.3390/plants11030448"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1016/j.ympev.2021.107359",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N42dfaf0a342f48579c15f8be2866f6d3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The evolutionary history of the Caribbean magnolias (Magnoliaceae): Testing species delimitations and biogeographical hypotheses using molecular data"
+      }
+    ]
+  },
+  {
+    "@id": "_:N42dfaf0a342f48579c15f8be2866f6d3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.ympev.2021.107359"
       }
     ]
   },
@@ -454,44 +258,44 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:Na06f0f69bb2048acadafa0f3f9a03652"
+        "@id": "_:Nae1954a345ac4536940b588f605207a3"
       },
       {
-        "@id": "_:Nae3e0b9b9bb54e0e8e99cb4c795ca83f"
+        "@id": "_:N8b85bda1e2f64cfd96be27d2bbb3f7ed"
       },
       {
-        "@id": "_:N9701b37c44674cf59c9fb8cecc99e5f2"
+        "@id": "_:N7c7ef4ebb65049a38219621d6ee9bfff"
       },
       {
-        "@id": "_:N5e753eff4ce34ad2bd7ea023e041cfa5"
+        "@id": "_:Nddec424ab25847f582a4d57ac107a66f"
       },
       {
-        "@id": "_:Nca796efa984148b8b40705c395d87883"
+        "@id": "_:Nc3c39f19d3bc4b7dbb729d80f4fd79a9"
       },
       {
-        "@id": "_:Nf7886abac56147368ae7e9a2917154b7"
+        "@id": "_:Neefbe0ac48e042708b1dc328804f9a6f"
       },
       {
-        "@id": "_:N0d940ba78035483d814db5f4b9097f35"
+        "@id": "_:Na6e88258653a44ba8a119e3305f0262b"
       },
       {
-        "@id": "_:Nbe589fc7ea274defb7377e9e7e6563f3"
+        "@id": "_:N76b036a1f20344f4b737d0fdfb53a05f"
       },
       {
-        "@id": "_:Nb6eeec2263954fe4a2798de1dbb6d302"
+        "@id": "_:Nc5d5b90777654078af64d36237107434"
       },
       {
-        "@id": "_:Nce3c8e75ca7a41679a9bf46f795080bd"
+        "@id": "_:N4fe4adbb76bd49ebb2dd09856b4dbfbe"
       }
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0"
       }
     ],
     "http://schema.org/alumniOf": [
       {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0"
       }
     ],
     "http://schema.org/familyName": [
@@ -522,7 +326,7 @@
     ]
   },
   {
-    "@id": "_:Na06f0f69bb2048acadafa0f3f9a03652",
+    "@id": "_:Nae1954a345ac4536940b588f605207a3",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -533,7 +337,7 @@
     ]
   },
   {
-    "@id": "_:Nae3e0b9b9bb54e0e8e99cb4c795ca83f",
+    "@id": "_:N8b85bda1e2f64cfd96be27d2bbb3f7ed",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -544,7 +348,7 @@
     ]
   },
   {
-    "@id": "_:N9701b37c44674cf59c9fb8cecc99e5f2",
+    "@id": "_:N7c7ef4ebb65049a38219621d6ee9bfff",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -555,7 +359,7 @@
     ]
   },
   {
-    "@id": "_:N5e753eff4ce34ad2bd7ea023e041cfa5",
+    "@id": "_:Nddec424ab25847f582a4d57ac107a66f",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -566,7 +370,7 @@
     ]
   },
   {
-    "@id": "_:Nca796efa984148b8b40705c395d87883",
+    "@id": "_:Nc3c39f19d3bc4b7dbb729d80f4fd79a9",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -577,7 +381,7 @@
     ]
   },
   {
-    "@id": "_:Nf7886abac56147368ae7e9a2917154b7",
+    "@id": "_:Neefbe0ac48e042708b1dc328804f9a6f",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -588,7 +392,7 @@
     ]
   },
   {
-    "@id": "_:N0d940ba78035483d814db5f4b9097f35",
+    "@id": "_:Na6e88258653a44ba8a119e3305f0262b",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -599,7 +403,7 @@
     ]
   },
   {
-    "@id": "_:Nbe589fc7ea274defb7377e9e7e6563f3",
+    "@id": "_:N76b036a1f20344f4b737d0fdfb53a05f",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -610,7 +414,7 @@
     ]
   },
   {
-    "@id": "_:Nb6eeec2263954fe4a2798de1dbb6d302",
+    "@id": "_:Nc5d5b90777654078af64d36237107434",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -621,7 +425,7 @@
     ]
   },
   {
-    "@id": "_:Nce3c8e75ca7a41679a9bf46f795080bd",
+    "@id": "_:N4fe4adbb76bd49ebb2dd09856b4dbfbe",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -643,7 +447,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N8245c36592d047109d9cf6f0f4bf83ee"
+        "@id": "_:N99be28adbefa4fb78625a6960d118dfd"
       }
     ],
     "http://schema.org/name": [
@@ -653,7 +457,7 @@
     ]
   },
   {
-    "@id": "_:N8245c36592d047109d9cf6f0f4bf83ee",
+    "@id": "_:N99be28adbefa4fb78625a6960d118dfd",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -669,6 +473,202 @@
     ]
   },
   {
+    "@id": "https://doi.org/10.1007/s12225-018-9780-3",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb13a368e46144825a958b46d0012e315"
+      },
+      {
+        "@id": "_:N3fd597972cc24f2ea132fe23a6fd0938"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Investigating taxon boundaries and extinction risk in endemic Chilean cacti (Copiapoa subsection Cinerei, Cactaceae) using chloroplast DNA sequences, microsatellite data and 3D mapping"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8582077"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb13a368e46144825a958b46d0012e315",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s12225-018-9780-3"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3fd597972cc24f2ea132fe23a6fd0938",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8582077"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1017/s003060531900053x",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne08457d87b2148e5b16b1765dea98988"
+      },
+      {
+        "@id": "_:N4c7eb497ec32448485126e7222f42a2f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Population structure and genetic diversity of Magnolia cubensis subsp. acunae (Magnoliaceae): effects of habitat fragmentation and implications for conservation"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://hdl.handle.net/1854/lu-8654042"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne08457d87b2148e5b16b1765dea98988",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1017/s003060531900053x"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4c7eb497ec32448485126e7222f42a2f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "handle"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "1854/lu-8654042"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1111/jbi.14514",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nc6c4f333765e445a8218d4d57912ba41"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Genetic patterns of Magnolia in the Lesser Antilles: Stepwise colonisation leading to highly inbred island ‘populations’"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc6c4f333765e445a8218d4d57912ba41",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1111/jbi.14514"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/phytokeys.213.82627",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3170-3345"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N5c9cf76ac2cc4631a629e68356b4088a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "﻿Integrating morphological and genetic limits in the taxonomic delimitation of the Cuban taxa of Magnolia subsect. Talauma (Magnoliaceae)"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5c9cf76ac2cc4631a629e68356b4088a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/phytokeys.213.82627"
+      }
+    ]
+  },
+  {
     "@id": "https://doi.org/10.1007/s10592-021-01334-5",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -680,7 +680,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ne1fe8b6851ba43c0882dd81a7486a0e4"
+        "@id": "_:N5d401b4d5cff4f6b8204918034c02911"
       }
     ],
     "http://schema.org/name": [
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "@id": "_:Ne1fe8b6851ba43c0882dd81a7486a0e4",
+    "@id": "_:N5d401b4d5cff4f6b8204918034c02911",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -717,7 +717,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N9cc8222b6c594af69299c86a751a4d30"
+        "@id": "_:N7e7ad7e4bd224a4c92bbf164e71d0f8a"
       }
     ],
     "http://schema.org/name": [
@@ -727,7 +727,7 @@
     ]
   },
   {
-    "@id": "_:N9cc8222b6c594af69299c86a751a4d30",
+    "@id": "_:N7e7ad7e4bd224a4c92bbf164e71d0f8a",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -743,26 +743,7 @@
     ]
   },
   {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Biology"
-      },
-      {
-        "@value": "Ghent University Botanical Garden"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ghent University"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.3897/phytokeys.213.82627",
+    "@id": "https://doi.org/10.5281/zenodo.6511351",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -773,17 +754,36 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ne32b2ba2520a4e65afccf36da910f3db"
+        "@id": "_:N7706a7c7974b48a2afa8cce7009ca395"
+      },
+      {
+        "@id": "_:N013b7a6efee44651b18f6a85f52f2c58"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "﻿Integrating morphological and genetic limits in the taxonomic delimitation of the Cuban taxa of Magnolia subsect. Talauma (Magnoliaceae)"
+        "@value": "DiSSCo-Flanders WP2 - task 2.1, Detailed inventory of the collections: Report"
       }
     ]
   },
   {
-    "@id": "_:Ne32b2ba2520a4e65afccf36da910f3db",
+    "@id": "_:N7706a7c7974b48a2afa8cce7009ca395",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "da83f75b-1cb2-4f61-9e72-b50fd4f0d5c2"
+      }
+    ]
+  },
+  {
+    "@id": "_:N013b7a6efee44651b18f6a85f52f2c58",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -794,7 +794,7 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.3897/phytokeys.213.82627"
+        "@value": "10.5281/zenodo.6511351"
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://doi.org/10.33182/ml.v16i3.601",
+    "@id": "https://doi.org/10.5281/zenodo.7258306",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -11,20 +11,36 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N093edff0bcec4a0499284bd979058887"
+        "@id": "_:Nfec40b8f4d344841b120bd06a8888ded"
       },
       {
-        "@id": "_:Nc9bab18c575e44f9bc71a19a59085c68"
+        "@id": "_:N4617119b380148768e936b4f1bb11e76"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Interactive acculturation of Turkish-Belgian parents and children in Flanders: A case study of Beringen"
+        "@value": "Understanding Data Repositories: A Beginners' Guide for Researchers  Data Stewards"
       }
     ]
   },
   {
-    "@id": "_:N093edff0bcec4a0499284bd979058887",
+    "@id": "_:Nfec40b8f4d344841b120bd06a8888ded",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "88404c13-c237-4c22-bf2e-e53164919d76"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4617119b380148768e936b4f1bb11e76",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -35,79 +51,7 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.33182/ml.v16i3.601"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc9bab18c575e44f9bc71a19a59085c68",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85069631628"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1186/s40723-018-0044-3",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0003-4847-6289"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nf72aa9907f4846a5bb882f440ea4481e"
-      },
-      {
-        "@id": "_:N5beb5028f5ff4ce8b3f87f3a6346ab9d"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Perceived accessibility of childcare in Europe: a cross-country multilevel study"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nf72aa9907f4846a5bb882f440ea4481e",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85062711243"
-      }
-    ]
-  },
-  {
-    "@id": "_:N5beb5028f5ff4ce8b3f87f3a6346ab9d",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1186/s40723-018-0044-3"
+        "@value": "10.5281/zenodo.7258306"
       }
     ]
   },
@@ -118,35 +62,35 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:N3d26b7b84869402e89305f7cd28485da"
+        "@id": "_:N83733ca7490142b79462ed1d09e8b899"
       }
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:N902b9d03439e459daa2388603325a771"
+        "@id": "_:Nb34abdfda91c432b8f0117111c270f83"
       },
       {
-        "@id": "_:Nce4371ffcbf540e9b0a0901f34f1875b"
+        "@id": "_:N4ea8bf0d00fb49959ea006a2c5d482df"
       },
       {
-        "@id": "_:Nfaa0778f383048bc80e9615b31f5c954"
+        "@id": "_:Ne28a6a2ba0a944dd8f0821eb7b373107"
       }
     ],
     "http://schema.org/alumniOf": [
       {
-        "@id": "_:Nb533289de4fa42bb8b0545d1c6c31ff1"
+        "@id": "_:N74c9bb63bc904ecc877c8004084b1e8c"
       },
       {
-        "@id": "_:N568f5958e76b4dd2a08c5ea2441a934d"
+        "@id": "_:N1a1ebd6baf574a8c9c8693a567943e04"
       },
       {
-        "@id": "_:N1bcf9e14668444d89e31e11eb66c5d16"
+        "@id": "_:Nd7b28ca993594886bd321b50ed054330"
       },
       {
-        "@id": "_:Nab88931941f5449c8bfddd21cd1f6e35"
+        "@id": "_:N5e78eaf9d92e458bb304a864195ce196"
       },
       {
-        "@id": "_:N8f24c57ef3b141a3a5aeeae70be26573"
+        "@id": "_:N0682e8bfead14171b439ecdcffa96007"
       }
     ],
     "http://schema.org/familyName": [
@@ -161,10 +105,10 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N014467ebad4042f58b7b349aaf586556"
+        "@id": "_:N8276a76441df41f0950528a9eb20fb22"
       },
       {
-        "@id": "_:N98cfa966533a4dd2b06c67e309640813"
+        "@id": "_:N494102af76984e9dba7e2a4ae799886d"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -182,7 +126,7 @@
     ]
   },
   {
-    "@id": "_:N3d26b7b84869402e89305f7cd28485da",
+    "@id": "_:N83733ca7490142b79462ed1d09e8b899",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -193,7 +137,7 @@
     ]
   },
   {
-    "@id": "_:Nb533289de4fa42bb8b0545d1c6c31ff1",
+    "@id": "_:N74c9bb63bc904ecc877c8004084b1e8c",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -204,7 +148,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N7e8e19015a2a4a8bbd84f228a53f024e"
+        "@id": "_:Nd9b5fb0b07794baabd9cc410bcf8b6c6"
       }
     ],
     "http://schema.org/name": [
@@ -214,7 +158,7 @@
     ]
   },
   {
-    "@id": "_:N7e8e19015a2a4a8bbd84f228a53f024e",
+    "@id": "_:Nd9b5fb0b07794baabd9cc410bcf8b6c6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -230,7 +174,7 @@
     ]
   },
   {
-    "@id": "_:N568f5958e76b4dd2a08c5ea2441a934d",
+    "@id": "_:N1a1ebd6baf574a8c9c8693a567943e04",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -241,7 +185,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N1b41f93e863e49f2b9db6008a51ec0af"
+        "@id": "_:Ncdc3f6fe19d14ff4adb8b870d220f3c6"
       }
     ],
     "http://schema.org/name": [
@@ -251,7 +195,7 @@
     ]
   },
   {
-    "@id": "_:N1b41f93e863e49f2b9db6008a51ec0af",
+    "@id": "_:Ncdc3f6fe19d14ff4adb8b870d220f3c6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -267,7 +211,7 @@
     ]
   },
   {
-    "@id": "_:N1bcf9e14668444d89e31e11eb66c5d16",
+    "@id": "_:Nd7b28ca993594886bd321b50ed054330",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -278,7 +222,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N5ac944342d2c498399e855de377770e6"
+        "@id": "_:N38cc57433f54418abf7907e3e4aa3391"
       }
     ],
     "http://schema.org/name": [
@@ -288,7 +232,7 @@
     ]
   },
   {
-    "@id": "_:N5ac944342d2c498399e855de377770e6",
+    "@id": "_:N38cc57433f54418abf7907e3e4aa3391",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -304,7 +248,7 @@
     ]
   },
   {
-    "@id": "_:Nab88931941f5449c8bfddd21cd1f6e35",
+    "@id": "_:N5e78eaf9d92e458bb304a864195ce196",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -315,7 +259,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nbf120c3d3fff458590a0583f4ae1f38b"
+        "@id": "_:Nc66435cfd1724a95822821a9ce34b992"
       }
     ],
     "http://schema.org/name": [
@@ -325,7 +269,7 @@
     ]
   },
   {
-    "@id": "_:Nbf120c3d3fff458590a0583f4ae1f38b",
+    "@id": "_:Nc66435cfd1724a95822821a9ce34b992",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -341,7 +285,7 @@
     ]
   },
   {
-    "@id": "_:N8f24c57ef3b141a3a5aeeae70be26573",
+    "@id": "_:N0682e8bfead14171b439ecdcffa96007",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -352,7 +296,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N25741a7686294f67aefa79a7bb683b8e"
+        "@id": "_:N2d41c291afe54fb7865d1bc0570f825e"
       }
     ],
     "http://schema.org/name": [
@@ -362,7 +306,7 @@
     ]
   },
   {
-    "@id": "_:N25741a7686294f67aefa79a7bb683b8e",
+    "@id": "_:N2d41c291afe54fb7865d1bc0570f825e",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -378,7 +322,7 @@
     ]
   },
   {
-    "@id": "_:N902b9d03439e459daa2388603325a771",
+    "@id": "_:Nb34abdfda91c432b8f0117111c270f83",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -389,7 +333,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N7137ef7a773c421abe67bf68845228c5"
+        "@id": "_:N9b4639a3ee8f4435be8cb5312e672cc6"
       }
     ],
     "http://schema.org/name": [
@@ -399,7 +343,7 @@
     ]
   },
   {
-    "@id": "_:N7137ef7a773c421abe67bf68845228c5",
+    "@id": "_:N9b4639a3ee8f4435be8cb5312e672cc6",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -415,7 +359,7 @@
     ]
   },
   {
-    "@id": "_:Nce4371ffcbf540e9b0a0901f34f1875b",
+    "@id": "_:N4ea8bf0d00fb49959ea006a2c5d482df",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -426,7 +370,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Na10c45a75dce4554ad980720b037ed2a"
+        "@id": "_:Naf549c7b5ccf46a08a49af19c5092e2b"
       }
     ],
     "http://schema.org/name": [
@@ -436,7 +380,7 @@
     ]
   },
   {
-    "@id": "_:Na10c45a75dce4554ad980720b037ed2a",
+    "@id": "_:Naf549c7b5ccf46a08a49af19c5092e2b",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -452,7 +396,7 @@
     ]
   },
   {
-    "@id": "_:Nfaa0778f383048bc80e9615b31f5c954",
+    "@id": "_:Ne28a6a2ba0a944dd8f0821eb7b373107",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -463,7 +407,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N1f20fa32e8c24de1b9ad392794d7c03d"
+        "@id": "_:N102886d2dc8343479772b4501f22c63b"
       }
     ],
     "http://schema.org/name": [
@@ -473,7 +417,7 @@
     ]
   },
   {
-    "@id": "_:N1f20fa32e8c24de1b9ad392794d7c03d",
+    "@id": "_:N102886d2dc8343479772b4501f22c63b",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -489,7 +433,7 @@
     ]
   },
   {
-    "@id": "_:N014467ebad4042f58b7b349aaf586556",
+    "@id": "_:N8276a76441df41f0950528a9eb20fb22",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -505,7 +449,7 @@
     ]
   },
   {
-    "@id": "_:N98cfa966533a4dd2b06c67e309640813",
+    "@id": "_:N494102af76984e9dba7e2a4ae799886d",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -521,7 +465,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.5281/zenodo.7258306",
+    "@id": "https://doi.org/10.1186/s40723-018-0044-3",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -532,36 +476,36 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nc1f26da39dc44708b1593d632f06cc50"
+        "@id": "_:Neaecc8bd102f4a06a99206a40b86a561"
       },
       {
-        "@id": "_:Ne118423cfe4543f09ffc8e01793b75ef"
+        "@id": "_:Nb743d4e994c542e887a7cd0dcbc59d68"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Understanding Data Repositories: A Beginners' Guide for Researchers  Data Stewards"
+        "@value": "Perceived accessibility of childcare in Europe: a cross-country multilevel study"
       }
     ]
   },
   {
-    "@id": "_:Nc1f26da39dc44708b1593d632f06cc50",
+    "@id": "_:Neaecc8bd102f4a06a99206a40b86a561",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
     "http://schema.org/propertyID": [
       {
-        "@value": "source-work-id"
+        "@value": "eid"
       }
     ],
     "http://schema.org/value": [
       {
-        "@value": "88404c13-c237-4c22-bf2e-e53164919d76"
+        "@value": "2-s2.0-85062711243"
       }
     ]
   },
   {
-    "@id": "_:Ne118423cfe4543f09ffc8e01793b75ef",
+    "@id": "_:Nb743d4e994c542e887a7cd0dcbc59d68",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -572,44 +516,7 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.5281/zenodo.7258306"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ncc6035dfe1c8440889bbbc4fad8bd732",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0003-4847-6289"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nd020757aa30b43a082b1b3192a323329"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Feasibility study for a child guarantee – country report Belgium"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd020757aa30b43a082b1b3192a323329",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2c299dc1-9af0-4564-bb1a-2e91de93c272"
+        "@value": "10.1186/s40723-018-0044-3"
       }
     ]
   },
@@ -625,10 +532,10 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N7cb1dc360ca94d9f84081f33a491f67c"
+        "@id": "_:Na011b05d5b154dc8ad21464a58b6dfb3"
       },
       {
-        "@id": "_:Na66ee9bb2e84420e8f24631a9441c4b9"
+        "@id": "_:N8003b97241a4407d8fe317d47ee334e8"
       }
     ],
     "http://schema.org/name": [
@@ -638,7 +545,7 @@
     ]
   },
   {
-    "@id": "_:N7cb1dc360ca94d9f84081f33a491f67c",
+    "@id": "_:Na011b05d5b154dc8ad21464a58b6dfb3",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -654,7 +561,7 @@
     ]
   },
   {
-    "@id": "_:Na66ee9bb2e84420e8f24631a9441c4b9",
+    "@id": "_:N8003b97241a4407d8fe317d47ee334e8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -681,10 +588,10 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N09812c19229b4fb29b586d3fde1baf87"
+        "@id": "_:N22bc1c568995428c9ddc4e4b4d5cf93e"
       },
       {
-        "@id": "_:Nbb1feff8c65e438a84e40565e4b91476"
+        "@id": "_:N758ac420585c439c82ee36872852190f"
       }
     ],
     "http://schema.org/name": [
@@ -694,7 +601,7 @@
     ]
   },
   {
-    "@id": "_:N09812c19229b4fb29b586d3fde1baf87",
+    "@id": "_:N22bc1c568995428c9ddc4e4b4d5cf93e",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -710,7 +617,7 @@
     ]
   },
   {
-    "@id": "_:Nbb1feff8c65e438a84e40565e4b91476",
+    "@id": "_:N758ac420585c439c82ee36872852190f",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -722,6 +629,99 @@
     "http://schema.org/value": [
       {
         "@value": "10.1016/j.childyouth.2020.105798"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.33182/ml.v16i3.601",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-4847-6289"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nab08f457bb01416bb9b10ebb8a5aa8bb"
+      },
+      {
+        "@id": "_:Na587c4b248a34357a88854720eb9a8ef"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Interactive acculturation of Turkish-Belgian parents and children in Flanders: A case study of Beringen"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nab08f457bb01416bb9b10ebb8a5aa8bb",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.33182/ml.v16i3.601"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na587c4b248a34357a88854720eb9a8ef",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85069631628"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1d1104a97d52412ca79c366a58876dfc",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-4847-6289"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7a830de1ca4b4aaf87a19d787960b4af"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Feasibility study for a child guarantee – country report Belgium"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7a830de1ca4b4aaf87a19d787960b4af",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2c299dc1-9af0-4564-bb1a-2e91de93c272"
       }
     ]
   }

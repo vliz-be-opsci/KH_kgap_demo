@@ -1,79 +1,18 @@
 [
   {
-    "@id": "https://doi.org/10.1038/sdata.2018.126",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7415-9178"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N4bd60103f4004259a4b868fdf9ea4c02"
-      },
-      {
-        "@id": "_:Nc3a2bdd5df5948c1958229848a47d3eb"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Marine phytoplankton community composition data from the Belgian part of the North Sea, 1968-2010"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=Publons&SrcAuth=Publons_CEL&KeyUT=WOS:000437104200001&DestLinkType=FullRecord&DestApp=WOS_CPL"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4bd60103f4004259a4b868fdf9ea4c02",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1038/sdata.2018.126"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc3a2bdd5df5948c1958229848a47d3eb",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "wos:000437104200001"
-      }
-    ]
-  },
-  {
     "@id": "https://orcid.org/0000-0001-7415-9178",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:N91b5397effc2495fa4f25d1c7d4eb13c"
+        "@id": "_:N83ea81dac8bc43b086e496c90a1e017e"
       },
       {
-        "@id": "_:Nb19b0bbbdfeb432a900a4b4538db76e4"
+        "@id": "_:Nadc8c64c8ace4b03a9b16c9a6b6aa698"
       },
       {
-        "@id": "_:Nca6de0eac5b44c07bbf500129631a8a9"
+        "@id": "_:N01e1b347644246a58bc3ff370a33d21b"
       }
     ],
     "http://schema.org/familyName": [
@@ -101,13 +40,13 @@
     ]
   },
   {
-    "@id": "_:N91b5397effc2495fa4f25d1c7d4eb13c",
+    "@id": "_:N83ea81dac8bc43b086e496c90a1e017e",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N8b8f7490f7524aac99ae9689ab4800e5"
+        "@id": "_:N3de0125b34704942a281d2a21e7c66b2"
       }
     ],
     "http://schema.org/name": [
@@ -117,7 +56,7 @@
     ]
   },
   {
-    "@id": "_:N8b8f7490f7524aac99ae9689ab4800e5",
+    "@id": "_:N3de0125b34704942a281d2a21e7c66b2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -133,7 +72,7 @@
     ]
   },
   {
-    "@id": "_:Nb19b0bbbdfeb432a900a4b4538db76e4",
+    "@id": "_:Nadc8c64c8ace4b03a9b16c9a6b6aa698",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -144,7 +83,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N20ae6d76a1d545939d14e7f7fef53df9"
+        "@id": "_:N8ca6507887a44feeb23c0486724c832c"
       }
     ],
     "http://schema.org/name": [
@@ -154,7 +93,7 @@
     ]
   },
   {
-    "@id": "_:N20ae6d76a1d545939d14e7f7fef53df9",
+    "@id": "_:N8ca6507887a44feeb23c0486724c832c",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -170,7 +109,7 @@
     ]
   },
   {
-    "@id": "_:Nca6de0eac5b44c07bbf500129631a8a9",
+    "@id": "_:N01e1b347644246a58bc3ff370a33d21b",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -181,7 +120,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ncf319c12c94f4ae28b089d6412689661"
+        "@id": "_:N2ca291a303534ccabf070b9c88132958"
       }
     ],
     "http://schema.org/name": [
@@ -191,7 +130,7 @@
     ]
   },
   {
-    "@id": "_:Ncf319c12c94f4ae28b089d6412689661",
+    "@id": "_:N2ca291a303534ccabf070b9c88132958",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -203,6 +142,67 @@
     "http://schema.org/value": [
       {
         "@value": "71343"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1038/sdata.2018.126",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7415-9178"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne94279d985764001b55472e81efdcb44"
+      },
+      {
+        "@id": "_:N4b9fcffc8d244c879a62a409ae5b4b0a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Marine phytoplankton community composition data from the Belgian part of the North Sea, 1968-2010"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=Publons&SrcAuth=Publons_CEL&KeyUT=WOS:000437104200001&DestLinkType=FullRecord&DestApp=WOS_CPL"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne94279d985764001b55472e81efdcb44",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1038/sdata.2018.126"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4b9fcffc8d244c879a62a409ae5b4b0a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "wos:000437104200001"
       }
     ]
   }

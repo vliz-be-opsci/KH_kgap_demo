@@ -1,49 +1,12 @@
 [
   {
-    "@id": "https://doi.org/10.3389/fpsyg.2014.00539",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-5185-8232"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nbcc65ff2d7b14b81961076e1fcb7b4eb"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Conscious and unconscious context-specific cognitive control"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbcc65ff2d7b14b81961076e1fcb7b4eb",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3389/fpsyg.2014.00539"
-      }
-    ]
-  },
-  {
     "@id": "https://orcid.org/0000-0001-5185-8232",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:N5537892266f84a0aa589ac0a5dfbbf20"
+        "@id": "_:N85925b5ba75c4018b432bb19e4a14611"
       }
     ],
     "http://schema.org/familyName": [
@@ -63,13 +26,13 @@
     ]
   },
   {
-    "@id": "_:N5537892266f84a0aa589ac0a5dfbbf20",
+    "@id": "_:N85925b5ba75c4018b432bb19e4a14611",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Na90cce6b286a4e18b6ff3a05e5f5e3ea"
+        "@id": "_:Nefdce3b74de545c985aeb8fe6c837d5d"
       }
     ],
     "http://schema.org/name": [
@@ -79,7 +42,7 @@
     ]
   },
   {
-    "@id": "_:Na90cce6b286a4e18b6ff3a05e5f5e3ea",
+    "@id": "_:Nefdce3b74de545c985aeb8fe6c837d5d",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -95,6 +58,43 @@
     ]
   },
   {
+    "@id": "https://doi.org/10.3389/fpsyg.2014.00539",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-5185-8232"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N6ecd71b5b65e4e869756d432566d1909"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Conscious and unconscious context-specific cognitive control"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6ecd71b5b65e4e869756d432566d1909",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3389/fpsyg.2014.00539"
+      }
+    ]
+  },
+  {
     "@id": "https://doi.org/10.1080/08838151.2015.1127240",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -106,7 +106,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N158149ce4ef64ce2906873716e2d511f"
+        "@id": "_:Nd3ae12de123640f69cb506336c2f9cff"
       }
     ],
     "http://schema.org/name": [
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:N158149ce4ef64ce2906873716e2d511f",
+    "@id": "_:Nd3ae12de123640f69cb506336c2f9cff",
     "@type": [
       "http://schema.org/PropertyValue"
     ],

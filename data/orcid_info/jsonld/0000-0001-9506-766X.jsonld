@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://doi.org/10.14284/319",
+    "@id": "https://doi.org/10.5281/zenodo.5513883",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -11,25 +11,17 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nad96a42aad2a4c339c63426649578b2e"
-      },
-      {
-        "@id": "_:N7cc6fed6470c474b85f2e59af00e5335"
+        "@id": "_:N8faad8e8cad04519a4a74fd57dea2a84"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 10. Available online at http://www.marineregions.org/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://doi.org/10.14284/382"
+        "@value": "EOSC-Pillar D5.4 FAIR-oriented research data management Support Training and Assessment Activity Report"
       }
     ]
   },
   {
-    "@id": "_:Nad96a42aad2a4c339c63426649578b2e",
+    "@id": "_:N8faad8e8cad04519a4a74fd57dea2a84",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -40,12 +32,44 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.14284/319"
+        "@value": "10.5281/zenodo.5513883"
       }
     ]
   },
   {
-    "@id": "_:N7cc6fed6470c474b85f2e59af00e5335",
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ghent University"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7777568",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb591e34451894c73a7f18745208175e0"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ROB-GNSS/GNSS-DCAT-AP"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb591e34451894c73a7f18745208175e0",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -56,7 +80,60 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "10.14284/382"
+        "@value": "10.5281/zenodo.7777568"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.498444.1",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Wales Coastal Monitoring Centre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gwynedd Council"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.14284/387",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nd925f0ed1a2d41d0801cca9b1ba57bed"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maritime Boundaries Geodatabase: Territorial Seas (12NM)"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd925f0ed1a2d41d0801cca9b1ba57bed",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/387"
       }
     ]
   },
@@ -72,7 +149,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N21e50c3b43d74d7aa880d3a8eb515769"
+        "@id": "_:Naade162642254e37bc341ab28b968d44"
       }
     ],
     "http://schema.org/name": [
@@ -82,7 +159,7 @@
     ]
   },
   {
-    "@id": "_:N21e50c3b43d74d7aa880d3a8eb515769",
+    "@id": "_:Naade162642254e37bc341ab28b968d44",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -98,7 +175,277 @@
     ]
   },
   {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.6312.6",
+    "@id": "https://doi.org/10.5281/zenodo.5548387",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N9797ed29706d4983831817c6b1673330"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "RDM Training & Support catalogue landscape"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9797ed29706d4983831817c6b1673330",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.5548387"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.14284/384",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N922f4e68f9644b8baea6b5bac7b8bd10"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maritime Boundaries Geodatabase: Contiguous Zones (24NM)"
+      }
+    ]
+  },
+  {
+    "@id": "_:N922f4e68f9644b8baea6b5bac7b8bd10",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/384"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1016/j.marpol.2020.103958",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N3570dc3a5d9b482ea102fa728ff3ea0d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Supporting the essential - Recommendations for the development of accessible and interoperable marine biological data products"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3570dc3a5d9b482ea102fa728ff3ea0d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.marpol.2020.103958"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7777569",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N8d5fd72ffeb4429bb6cddb3631f4ad3a"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ROB-GNSS/GNSS-DCAT-AP"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8d5fd72ffeb4429bb6cddb3631f4ad3a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7777569"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.8130849",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N216b73b8e6224e45b3504b54734f6657"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "\"Unlocking the Power of Linked Open Data: Exploring Opportunities and Challenges in an Interactive Quiz\""
+      }
+    ]
+  },
+  {
+    "@id": "_:N216b73b8e6224e45b3504b54734f6657",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.8130849"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.7759.c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Cádiz"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.17605/osf.io/gdq93",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N896a62fc30c54f0c9bd46e27c6ae184b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course)"
+      }
+    ]
+  },
+  {
+    "@id": "_:N896a62fc30c54f0c9bd46e27c6ae184b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.17605/osf.io/gdq93"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.5564866",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nafd6981552a44441aa20a69e919e1466"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "OSF workshop resources RDM training and support catalogues (21 September 2021)"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nafd6981552a44441aa20a69e919e1466",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.5564866"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.6312.6",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -125,7 +472,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Ne325bc8c694a481da287e245dfa33225"
+        "@id": "_:Ndc7fd511702e4b689ccf014a4a2471c8"
       }
     ],
     "http://schema.org/name": [
@@ -135,7 +482,7 @@
     ]
   },
   {
-    "@id": "_:Ne325bc8c694a481da287e245dfa33225",
+    "@id": "_:Ndc7fd511702e4b689ccf014a4a2471c8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -151,335 +498,6 @@
     ]
   },
   {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.7759.c",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "University of Cádiz"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.14284/383",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nfbdf890ec7a54925803bc0c5f0b43dae"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Maritime Boundaries Geodatabase: Archipelagic Waters"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nfbdf890ec7a54925803bc0c5f0b43dae",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.14284/383"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.7777568",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nfcd3ddd982984c989f1a38994f953601"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "ROB-GNSS/GNSS-DCAT-AP"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nfcd3ddd982984c989f1a38994f953601",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.7777568"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.17605/osf.io/gdq93",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N0a9318b66ba04e7287be639ff1d631f9"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Research Data Management: practical course (UGent Doctoral Schools - Transferable skills course)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0a9318b66ba04e7287be639ff1d631f9",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.17605/osf.io/gdq93"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.14284/385",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N1553df583164450799c2fb12d9e9e252"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Maritime Boundaries Geodatabase: Internal Waters"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1553df583164450799c2fb12d9e9e252",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.14284/385"
-      }
-    ]
-  },
-  {
-    "@id": "https://orcid.org/0000-0001-9506-766X",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:Nff7bf6bc567f4dda8954ac474797839e"
-      }
-    ],
-    "http://schema.org/affiliation": [
-      {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0"
-      },
-      {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f"
-      },
-      {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.498444.1"
-      }
-    ],
-    "http://schema.org/alumniOf": [
-      {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.6312.6"
-      },
-      {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.7759.c"
-      },
-      {
-        "@id": "_:Nee7f61059508444493ce51893c6145f3"
-      }
-    ],
-    "http://schema.org/familyName": [
-      {
-        "@value": "Oset García"
-      }
-    ],
-    "http://schema.org/givenName": [
-      {
-        "@value": "Paula"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N2fddcd326fef41a5aac0d7ec60e616ef"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nff7bf6bc567f4dda8954ac474797839e",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "BE"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nee7f61059508444493ce51893c6145f3",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Geography"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nb8f1e8bf8ee94580ae5ca28e60fa97c1"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "University of Manchester"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nb8f1e8bf8ee94580ae5ca28e60fa97c1",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "RINGGOLD"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "5292"
-      }
-    ]
-  },
-  {
-    "@id": "_:N2fddcd326fef41a5aac0d7ec60e616ef",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "Loop profile"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "750742"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.5513883",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N1c5311a40da64fffa19bc4a61091fba0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "EOSC-Pillar D5.4 FAIR-oriented research data management Support Training and Assessment Activity Report"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1c5311a40da64fffa19bc4a61091fba0",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.5513883"
-      }
-    ]
-  },
-  {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.498444.1",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Wales Coastal Monitoring Centre"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Gwynedd Council"
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.5281/zenodo.5564865",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -491,7 +509,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nf73f59bb7ec2443c8aa4b6067f49e56a"
+        "@id": "_:N87e00e2183ca4ef2a197774e839af0c8"
       }
     ],
     "http://schema.org/name": [
@@ -501,7 +519,7 @@
     ]
   },
   {
-    "@id": "_:Nf73f59bb7ec2443c8aa4b6067f49e56a",
+    "@id": "_:N87e00e2183ca4ef2a197774e839af0c8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -517,420 +535,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.5281/zenodo.7520144",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nfe67f81a52314ad4a7659ac00e0d45d5"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Quality assurance criteria for learning resources"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nfe67f81a52314ad4a7659ac00e0d45d5",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.7520144"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.7777569",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nb0706e03dea94a2b97b1547ca9c88a22"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "ROB-GNSS/GNSS-DCAT-AP"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nb0706e03dea94a2b97b1547ca9c88a22",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.7777569"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1016/j.marpol.2020.103958",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N2f5918b18df0411992c2ee80c912317c"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Supporting the essential - Recommendations for the development of accessible and interoperable marine biological data products"
-      }
-    ]
-  },
-  {
-    "@id": "_:N2f5918b18df0411992c2ee80c912317c",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1016/j.marpol.2020.103958"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.14284/384",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N181ea13fd3a843e792296a7543d6469c"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Maritime Boundaries Geodatabase: Contiguous Zones (24NM)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N181ea13fd3a843e792296a7543d6469c",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.14284/384"
-      }
-    ]
-  },
-  {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Data Centre"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Flanders Marine Institute"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.5513882",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Ndfff97e897fc43ddaac264e668c7c4cb"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "EOSC-Pillar D5.9 - FAIR-oriented research data management: Support, Training and Assessment Activity Report update"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ndfff97e897fc43ddaac264e668c7c4cb",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.5513882"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.5548387",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N90346436fdc04a618440797515fc6e97"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "RDM Training & Support catalogue landscape"
-      }
-    ]
-  },
-  {
-    "@id": "_:N90346436fdc04a618440797515fc6e97",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.5548387"
-      }
-    ]
-  },
-  {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.5342.0",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ghent University"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.5564866",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N0d4229c038714036b0f631120cb4f7b5"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "OSF workshop resources RDM training and support catalogues (21 September 2021)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0d4229c038714036b0f631120cb4f7b5",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.5564866"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0188a82e981d43ddb1bdd07665557ce7",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The European Ocean Biogeographic Information System (EurOBIS) and its relation with international data systems"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1007/978-3-031-16802-4_22",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Na974d4c949bb41a49aaa95544e667f56"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Developing the EOSC-Pillar RDM Training and Support Catalogue"
-      }
-    ]
-  },
-  {
-    "@id": "_:Na974d4c949bb41a49aaa95544e667f56",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1007/978-3-031-16802-4_22"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.14284/387",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N61d97c47dfb741f49425e9ff4beb871b"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Maritime Boundaries Geodatabase: Territorial Seas (12NM)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N61d97c47dfb741f49425e9ff4beb871b",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.14284/387"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.5281/zenodo.8130849",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-9506-766X"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N5717e187d0814555a1c10d9f7b0c6aae"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "\"Unlocking the Power of Linked Open Data: Exploring Opportunities and Challenges in an Interactive Quiz\""
-      }
-    ]
-  },
-  {
-    "@id": "_:N5717e187d0814555a1c10d9f7b0c6aae",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.5281/zenodo.8130849"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd5068a47d9db4d8dbae7050c925f8bfa",
+    "@id": "_:N8b5c0165719b4faa8506bd964354d77a",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -946,7 +551,253 @@
     ]
   },
   {
-    "@id": "_:N68ce814e268842858bf69cd54f113689",
+    "@id": "https://doi.org/10.5281/zenodo.5513882",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2b0a5676841342fa923f66a1ebdfdcc3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "EOSC-Pillar D5.9 - FAIR-oriented research data management: Support, Training and Assessment Activity Report update"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2b0a5676841342fa923f66a1ebdfdcc3",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.5513882"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.14284/383",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Ne037d8bd1d6a4db887f884f76c4e0f64"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maritime Boundaries Geodatabase: Archipelagic Waters"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne037d8bd1d6a4db887f884f76c4e0f64",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/383"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/978-3-031-16802-4_22",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4baa87e48df34ca493d2f95e5fc5b658"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Developing the EOSC-Pillar RDM Training and Support Catalogue"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4baa87e48df34ca493d2f95e5fc5b658",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/978-3-031-16802-4_22"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.14284/319",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N600d48f2b62345889ada1bd4bb82b67d"
+      },
+      {
+        "@id": "_:N1b7bcb843c3f4b5db99643956b09d43b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 10. Available online at http://www.marineregions.org/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://doi.org/10.14284/382"
+      }
+    ]
+  },
+  {
+    "@id": "_:N600d48f2b62345889ada1bd4bb82b67d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/319"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1b7bcb843c3f4b5db99643956b09d43b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/382"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.5281/zenodo.7520144",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N17f50e2e3ab44f68a4c2dec6b9fe778d"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Quality assurance criteria for learning resources"
+      }
+    ]
+  },
+  {
+    "@id": "_:N17f50e2e3ab44f68a4c2dec6b9fe778d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.5281/zenodo.7520144"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.14284/385",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Neb70b6c6d5e94875b1d79e9b1b6a40d1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maritime Boundaries Geodatabase: Internal Waters"
+      }
+    ]
+  },
+  {
+    "@id": "_:Neb70b6c6d5e94875b1d79e9b1b6a40d1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.14284/385"
+      }
+    ]
+  },
+  {
+    "@id": "_:N80ec589fd0944f38bb70676a97db5071",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -958,6 +809,155 @@
     "http://schema.org/name": [
       {
         "@value": "EMODnet Central Portal data services"
+      }
+    ]
+  },
+  {
+    "@id": "_:N21ce1ff0446b4ab38301f887b11dcc51",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The European Ocean Biogeographic Information System (EurOBIS) and its relation with international data systems"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0001-9506-766X",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:N84e18bef3c194372827a5bc76f4a60aa"
+      }
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.5342.0"
+      },
+      {
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.426539.f"
+      },
+      {
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.498444.1"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.6312.6"
+      },
+      {
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.7759.c"
+      },
+      {
+        "@id": "_:N75beb0cfcdc24deaa9838afca782a13e"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Oset García"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Paula"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N118f2ef4203d46e79659b711e0194b24"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0001-9506-766X"
+      }
+    ]
+  },
+  {
+    "@id": "_:N84e18bef3c194372827a5bc76f4a60aa",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "BE"
+      }
+    ]
+  },
+  {
+    "@id": "_:N75beb0cfcdc24deaa9838afca782a13e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Geography"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nce486cfa656748e38bf1a5d083ae6e6b"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "University of Manchester"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nce486cfa656748e38bf1a5d083ae6e6b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "RINGGOLD"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "5292"
+      }
+    ]
+  },
+  {
+    "@id": "_:N118f2ef4203d46e79659b711e0194b24",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "Loop profile"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "750742"
+      }
+    ]
+  },
+  {
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.426539.f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Data Centre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Flanders Marine Institute"
       }
     ]
   }

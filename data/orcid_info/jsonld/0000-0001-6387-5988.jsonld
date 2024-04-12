@@ -1,5 +1,42 @@
 [
   {
+    "@id": "https://doi.org/10.3897/biss.6.94603",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-6387-5988"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N4704a2021ef243a78de7d503edb69ee6"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "An Algorithmic Approach to Reducing Taxonomic Detail from Actual Datasets to their Metadata Representation to Increase Findabilty"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4704a2021ef243a78de7d503edb69ee6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94603"
+      }
+    ]
+  },
+  {
     "@id": "https://doi.org/10.3897/biss.6.94630",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -11,7 +48,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nff1c26bc541b4b2b95623edab15f277b"
+        "@id": "_:Nd686df0c7c4349248d849ec60ed79c2c"
       }
     ],
     "http://schema.org/name": [
@@ -21,7 +58,7 @@
     ]
   },
   {
-    "@id": "_:Nff1c26bc541b4b2b95623edab15f277b",
+    "@id": "_:Nd686df0c7c4349248d849ec60ed79c2c",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -43,12 +80,12 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:Nfd24078845d641b58935a4c2f3350693"
+        "@id": "_:Nb9cb3a8d0cea43239f2a397e240e4af2"
       }
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:N6f518f5dd64c4714a9b29f7618b4e53f"
+        "@id": "_:N1fb49b6d9df645fd8b1f290fa98f2614"
       }
     ],
     "http://schema.org/familyName": [
@@ -68,7 +105,7 @@
     ]
   },
   {
-    "@id": "_:Nfd24078845d641b58935a4c2f3350693",
+    "@id": "_:Nb9cb3a8d0cea43239f2a397e240e4af2",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -79,7 +116,7 @@
     ]
   },
   {
-    "@id": "_:N6f518f5dd64c4714a9b29f7618b4e53f",
+    "@id": "_:N1fb49b6d9df645fd8b1f290fa98f2614",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -90,7 +127,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N1a1c2a11dc644806898acc7f9bd6fa27"
+        "@id": "_:N9451b39b503f437e9bc530fcd0cc233f"
       }
     ],
     "http://schema.org/name": [
@@ -100,7 +137,7 @@
     ]
   },
   {
-    "@id": "_:N1a1c2a11dc644806898acc7f9bd6fa27",
+    "@id": "_:N9451b39b503f437e9bc530fcd0cc233f",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -112,43 +149,6 @@
     "http://schema.org/value": [
       {
         "@value": "71343"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.3897/biss.6.94603",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-6387-5988"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N4e8bb07ad33f4b49ba8f3698b5753e57"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "An Algorithmic Approach to Reducing Taxonomic Detail from Actual Datasets to their Metadata Representation to Increase Findabilty"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4e8bb07ad33f4b49ba8f3698b5753e57",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3897/biss.6.94603"
       }
     ]
   }

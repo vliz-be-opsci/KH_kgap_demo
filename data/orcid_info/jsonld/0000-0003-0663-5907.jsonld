@@ -1,91 +1,17 @@
 [
   {
-    "@id": "https://doi.org/10.3897/biss.6.94903",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0003-0663-5907"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N48b834494e934f78b18f4dc08d4dc36e"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Linked Data Publishing of the World Register of Marine Species (WoRMS) as a Basis for Uniformly Linking-up Resources to Accepted Taxon Names"
-      }
-    ]
-  },
-  {
-    "@id": "_:N48b834494e934f78b18f4dc08d4dc36e",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3897/biss.6.94903"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.3897/biss.6.94630",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0003-0663-5907"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N7d733a1ddd0b47c1a6e0a126c00a0dfb"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Contemporary Data Management for Biodiversity Observation Networks leading to Linked Open Data Publishing through Distributed Techniques applying RO-Crate and GitHub Actions"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7d733a1ddd0b47c1a6e0a126c00a0dfb",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3897/biss.6.94630"
-      }
-    ]
-  },
-  {
     "@id": "https://orcid.org/0000-0003-0663-5907",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "_:Ndf627783427e419b8068bb22d0466eb0"
+        "@id": "_:N55b0d3aaa08f462e8ee53657c3270fdf"
       }
     ],
     "http://schema.org/alumniOf": [
       {
-        "@id": "_:N9320e597ab7c4bacb68ec7010869ac66"
+        "@id": "_:N117c24188c9a46d59d5485d4c421ddca"
       }
     ],
     "http://schema.org/familyName": [
@@ -105,13 +31,13 @@
     ]
   },
   {
-    "@id": "_:N9320e597ab7c4bacb68ec7010869ac66",
+    "@id": "_:N117c24188c9a46d59d5485d4c421ddca",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nd4b95a85c8834334945dbb4f57b7fb6c"
+        "@id": "_:Nc2e8d75c424241e3a993e8428ce8fecd"
       }
     ],
     "http://schema.org/name": [
@@ -121,7 +47,7 @@
     ]
   },
   {
-    "@id": "_:Nd4b95a85c8834334945dbb4f57b7fb6c",
+    "@id": "_:Nc2e8d75c424241e3a993e8428ce8fecd",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -137,13 +63,13 @@
     ]
   },
   {
-    "@id": "_:Ndf627783427e419b8068bb22d0466eb0",
+    "@id": "_:N55b0d3aaa08f462e8ee53657c3270fdf",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nc921bc22df6e4571a02e306135c60b8b"
+        "@id": "_:N599dc4ecdaf14902b49793ac1ccde7d1"
       }
     ],
     "http://schema.org/name": [
@@ -153,7 +79,7 @@
     ]
   },
   {
-    "@id": "_:Nc921bc22df6e4571a02e306135c60b8b",
+    "@id": "_:N599dc4ecdaf14902b49793ac1ccde7d1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -165,6 +91,80 @@
     "http://schema.org/value": [
       {
         "@value": "71343"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94630",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-0663-5907"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7377735fa22348f689082db7bcac2fa5"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Contemporary Data Management for Biodiversity Observation Networks leading to Linked Open Data Publishing through Distributed Techniques applying RO-Crate and GitHub Actions"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7377735fa22348f689082db7bcac2fa5",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94630"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3897/biss.6.94903",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-0663-5907"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nea2b9ce0065a4cc1a7bb7645e9035614"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Linked Data Publishing of the World Register of Marine Species (WoRMS) as a Basis for Uniformly Linking-up Resources to Accepted Taxon Names"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nea2b9ce0065a4cc1a7bb7645e9035614",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3897/biss.6.94903"
       }
     ]
   }

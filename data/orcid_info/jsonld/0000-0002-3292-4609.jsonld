@@ -1,288 +1,15 @@
 [
   {
-    "@id": "https://doi.org/10.1038/nsmb.3297",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3292-4609"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N686ba56258734bb79cc455900194d18f"
-      },
-      {
-        "@id": "_:Ned115982bd46418ab288a167272ecad9"
-      },
-      {
-        "@id": "_:N293e9c495fec44948b91dbfe1b58e14f"
-      },
-      {
-        "@id": "_:N25b656402234496e867a20c049e6d204"
-      },
-      {
-        "@id": "_:N9bddde23fd3544c58007647065a263b0"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Skywalker-TBC1D24 has a lipid-binding pocket mutated in epilepsy and required for synaptic function"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/27669036"
-      }
-    ]
-  },
-  {
-    "@id": "_:N686ba56258734bb79cc455900194d18f",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "b980d96d-6265-4a49-83de-6922717cf1bb"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ned115982bd46418ab288a167272ecad9",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "27669036"
-      }
-    ]
-  },
-  {
-    "@id": "_:N293e9c495fec44948b91dbfe1b58e14f",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000386992700006"
-      }
-    ]
-  },
-  {
-    "@id": "_:N25b656402234496e867a20c049e6d204",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-84988689939"
-      }
-    ]
-  },
-  {
-    "@id": "_:N9bddde23fd3544c58007647065a263b0",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1038/nsmb.3297"
-      }
-    ]
-  },
-  {
-    "@id": "_:N6cf57f26d22343aab7c60e201e955825",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3292-4609"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Ndf9fb8a1ae964456a0422f4345c44f8b"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ontrafeling van de structuur en functie van de synaptische eiwitten TBC1D24 en Synaptojanin1 en hun rol in neurologische aandoeningen"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ndf9fb8a1ae964456a0422f4345c44f8b",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "74341289-a5da-4934-a6c8-96a8c1259d64"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1093/brain/awz175",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-3292-4609"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N8cd2910c63a84ade8908f4d05c5eb499"
-      },
-      {
-        "@id": "_:Nbf8d743edf6e4fd49c604cb48b176745"
-      },
-      {
-        "@id": "_:N450092378ad945ef80b87474f10d8d91"
-      },
-      {
-        "@id": "_:N83f45e25fbf5488cb1d8c8aa325273ed"
-      },
-      {
-        "@id": "_:Ndb86faca627f40ecb09ea2faab7b8d75"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "TBC1D24-TLDc-related epilepsy exercise-induced dystonia"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/31257402"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8cd2910c63a84ade8908f4d05c5eb499",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000493084400024"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbf8d743edf6e4fd49c604cb48b176745",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "03d83c08-3c24-4226-a2e8-19e04f7ff7c5"
-      }
-    ]
-  },
-  {
-    "@id": "_:N450092378ad945ef80b87474f10d8d91",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1093/brain/awz175"
-      }
-    ]
-  },
-  {
-    "@id": "_:N83f45e25fbf5488cb1d8c8aa325273ed",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "31257402"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ndb86faca627f40ecb09ea2faab7b8d75",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85070661110"
-      }
-    ]
-  },
-  {
     "@id": "https://orcid.org/0000-0002-3292-4609",
     "@type": [
       "http://schema.org/Person"
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.8767.e"
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.8767.e"
       },
       {
-        "@id": "_:N3e5e01b43d894614b6d75f8a017b554e"
+        "@id": "_:N9ff8273f5aee44ffa0d58ae81ab48292"
       }
     ],
     "http://schema.org/familyName": [
@@ -307,7 +34,7 @@
     ]
   },
   {
-    "@id": "_:N3e5e01b43d894614b6d75f8a017b554e",
+    "@id": "_:N9ff8273f5aee44ffa0d58ae81ab48292",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -318,7 +45,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N72540196ff1f4abc9fa4a684df8c5b64"
+        "@id": "_:Nd9513a8e6dfd4b5098e15782fc4fbb39"
       }
     ],
     "http://schema.org/name": [
@@ -328,7 +55,7 @@
     ]
   },
   {
-    "@id": "_:N72540196ff1f4abc9fa4a684df8c5b64",
+    "@id": "_:Nd9513a8e6dfd4b5098e15782fc4fbb39",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -355,19 +82,19 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N0fa708d2905c4513a9a7453725cf6608"
+        "@id": "_:N678faa54060d4275b31c49fb92ea3a2c"
       },
       {
-        "@id": "_:N53357b077f12482ab7962157431d497e"
+        "@id": "_:N53191b0c7606471a8c5fee39f7a2f01d"
       },
       {
-        "@id": "_:N1fa38741d5a248b78df320adca8e6487"
+        "@id": "_:N4033aa8dd674415a9316f417ad96efa8"
       },
       {
-        "@id": "_:N2fccaa265b5243db99aa0268c47b5742"
+        "@id": "_:Na456e04e892246e18ae45efb2eed2b3e"
       },
       {
-        "@id": "_:Ne9112ea2bf80439396bb498dd6b38915"
+        "@id": "_:N427a19cae17a4578af5b5689fbc15431"
       }
     ],
     "http://schema.org/name": [
@@ -382,7 +109,7 @@
     ]
   },
   {
-    "@id": "_:N0fa708d2905c4513a9a7453725cf6608",
+    "@id": "_:N678faa54060d4275b31c49fb92ea3a2c",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -398,7 +125,7 @@
     ]
   },
   {
-    "@id": "_:N53357b077f12482ab7962157431d497e",
+    "@id": "_:N53191b0c7606471a8c5fee39f7a2f01d",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -414,7 +141,7 @@
     ]
   },
   {
-    "@id": "_:N1fa38741d5a248b78df320adca8e6487",
+    "@id": "_:N4033aa8dd674415a9316f417ad96efa8",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -430,7 +157,7 @@
     ]
   },
   {
-    "@id": "_:N2fccaa265b5243db99aa0268c47b5742",
+    "@id": "_:Na456e04e892246e18ae45efb2eed2b3e",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -446,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:Ne9112ea2bf80439396bb498dd6b38915",
+    "@id": "_:N427a19cae17a4578af5b5689fbc15431",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -462,21 +189,312 @@
     ]
   },
   {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.8767.e",
+    "@id": "_:Nf093db7f9aaf47d3bb60e3ba23a1f6a8",
     "@type": [
-      "http://schema.org/Organization"
+      "http://schema.org/CreativeWork"
     ],
-    "http://schema.org/alternateName": [
+    "http://schema.org/creator": [
       {
-        "@value": "RiDM"
-      },
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
       {
-        "@value": "Structural Biology Brussels"
+        "@id": "_:Ne13c59e3621f416ba552b25d1d77643a"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Vrije Universiteit Brussel"
+        "@value": "TBC1D24-skywalker has a lipid-binding pocket mutated in epilepsy and required for synaptic function."
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne13c59e3621f416ba552b25d1d77643a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "3deceab7-08f3-45e4-92a1-7df5d42e35a1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1093/brain/awz175",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N906ce157def14a84933cc27815420cc7"
+      },
+      {
+        "@id": "_:N78a264f081f141578bab64fd16102293"
+      },
+      {
+        "@id": "_:N4754e27be959471a96bfa4d199ebe26e"
+      },
+      {
+        "@id": "_:N462ae60fdd0e40ae91c2eb99005be731"
+      },
+      {
+        "@id": "_:Ne9ed2cc83fab429a9ac96834eb1c3486"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TBC1D24-TLDc-related epilepsy exercise-induced dystonia"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/31257402"
+      }
+    ]
+  },
+  {
+    "@id": "_:N906ce157def14a84933cc27815420cc7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000493084400024"
+      }
+    ]
+  },
+  {
+    "@id": "_:N78a264f081f141578bab64fd16102293",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "03d83c08-3c24-4226-a2e8-19e04f7ff7c5"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4754e27be959471a96bfa4d199ebe26e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1093/brain/awz175"
+      }
+    ]
+  },
+  {
+    "@id": "_:N462ae60fdd0e40ae91c2eb99005be731",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "31257402"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne9ed2cc83fab429a9ac96834eb1c3486",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85070661110"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7fef82eb62314bae862021cea8e13c2f",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N31ae8be259554c52ad9357d6a9ce2cc1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ontrafeling van de structuur en functie van de synaptische eiwitten TBC1D24 en Synaptojanin1 en hun rol in neurologische aandoeningen"
+      }
+    ]
+  },
+  {
+    "@id": "_:N31ae8be259554c52ad9357d6a9ce2cc1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "74341289-a5da-4934-a6c8-96a8c1259d64"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1038/nsmb.3297",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-3292-4609"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N751bdd8dc3f64454a40f7672e040602c"
+      },
+      {
+        "@id": "_:N02c51f216de940758078d0f3134a3006"
+      },
+      {
+        "@id": "_:N4ea9395c700c461e8a06da808e8c6c7e"
+      },
+      {
+        "@id": "_:N7b544c37a39f46bd957b7babe83e0b49"
+      },
+      {
+        "@id": "_:Nc472f7ea83df4b60b9012562f824f8fa"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Skywalker-TBC1D24 has a lipid-binding pocket mutated in epilepsy and required for synaptic function"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/27669036"
+      }
+    ]
+  },
+  {
+    "@id": "_:N751bdd8dc3f64454a40f7672e040602c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "b980d96d-6265-4a49-83de-6922717cf1bb"
+      }
+    ]
+  },
+  {
+    "@id": "_:N02c51f216de940758078d0f3134a3006",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "27669036"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4ea9395c700c461e8a06da808e8c6c7e",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000386992700006"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7b544c37a39f46bd957b7babe83e0b49",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-84988689939"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc472f7ea83df4b60b9012562f824f8fa",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1038/nsmb.3297"
       }
     ]
   },
@@ -492,19 +510,19 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N116e2b11c1f64f1f9c4cf2f6309e0783"
+        "@id": "_:Nf8a90381ea9e42938398b00b69bcb3be"
       },
       {
-        "@id": "_:N255814b59b754d31ae0bf4bdd05affb2"
+        "@id": "_:Nace9d6f0530e443f9a8adfccde550e0c"
       },
       {
-        "@id": "_:Nc5aeef06d1b44abcadbab46bd8021dd2"
+        "@id": "_:N5bb8df17226e4f2f9170238e6cd6c5e2"
       },
       {
-        "@id": "_:N753faa51116a44729e3dc74eac37cbde"
+        "@id": "_:N57a5ae8a23f54f2fba2a558b768872f2"
       },
       {
-        "@id": "_:N5a7800b2128b4f5fbb7c3d26b8f0ef7b"
+        "@id": "_:N7927d317402a4538a9a105e972ecc64f"
       }
     ],
     "http://schema.org/name": [
@@ -519,7 +537,7 @@
     ]
   },
   {
-    "@id": "_:N116e2b11c1f64f1f9c4cf2f6309e0783",
+    "@id": "_:Nf8a90381ea9e42938398b00b69bcb3be",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -535,7 +553,7 @@
     ]
   },
   {
-    "@id": "_:N255814b59b754d31ae0bf4bdd05affb2",
+    "@id": "_:Nace9d6f0530e443f9a8adfccde550e0c",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -551,7 +569,7 @@
     ]
   },
   {
-    "@id": "_:Nc5aeef06d1b44abcadbab46bd8021dd2",
+    "@id": "_:N5bb8df17226e4f2f9170238e6cd6c5e2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -567,7 +585,7 @@
     ]
   },
   {
-    "@id": "_:N753faa51116a44729e3dc74eac37cbde",
+    "@id": "_:N57a5ae8a23f54f2fba2a558b768872f2",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -583,7 +601,7 @@
     ]
   },
   {
-    "@id": "_:N5a7800b2128b4f5fbb7c3d26b8f0ef7b",
+    "@id": "_:N7927d317402a4538a9a105e972ecc64f",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -599,39 +617,21 @@
     ]
   },
   {
-    "@id": "_:Nf77f4d99caeb404bae59068cbea9fab8",
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.8767.e",
     "@type": [
-      "http://schema.org/CreativeWork"
+      "http://schema.org/Organization"
     ],
-    "http://schema.org/creator": [
+    "http://schema.org/alternateName": [
       {
-        "@id": "https://orcid.org/0000-0002-3292-4609"
-      }
-    ],
-    "http://schema.org/identifier": [
+        "@value": "RiDM"
+      },
       {
-        "@id": "_:N5af72f3a18d7433f910da2e0fa565dcb"
+        "@value": "Structural Biology Brussels"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "TBC1D24-skywalker has a lipid-binding pocket mutated in epilepsy and required for synaptic function."
-      }
-    ]
-  },
-  {
-    "@id": "_:N5af72f3a18d7433f910da2e0fa565dcb",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "3deceab7-08f3-45e4-92a1-7df5d42e35a1"
+        "@value": "Vrije Universiteit Brussel"
       }
     ]
   }

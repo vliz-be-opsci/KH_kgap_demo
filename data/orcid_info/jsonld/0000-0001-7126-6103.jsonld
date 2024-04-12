@@ -1,571 +1,5 @@
 [
   {
-    "@id": "https://doi.org/10.1007/s12104-019-09915-9",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7126-6103"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N394501e91f7b401a92b946938b221135"
-      },
-      {
-        "@id": "_:N0188782366d943b08412664bbd6b1cd8"
-      },
-      {
-        "@id": "_:N6ac16d76052546fa9607bfc895c8d56c"
-      },
-      {
-        "@id": "_:N878405ecbdbd42368b584e1bd9edd372"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "1H, 13C, and 15N backbone and side chain chemical shift assignment of YdaS, a monomeric member of the HigA family"
-      }
-    ]
-  },
-  {
-    "@id": "_:N394501e91f7b401a92b946938b221135",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1007/s12104-019-09915-9"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0188782366d943b08412664bbd6b1cd8",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000490835400001"
-      }
-    ]
-  },
-  {
-    "@id": "_:N6ac16d76052546fa9607bfc895c8d56c",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "4d21eadc-011e-41a5-8490-006282b10280"
-      }
-    ]
-  },
-  {
-    "@id": "_:N878405ecbdbd42368b584e1bd9edd372",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85073925915"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.3390/toxins15080508",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7126-6103"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Nd62f2780a7394847831de9f2ad3870e8"
-      },
-      {
-        "@id": "_:N02a9bcf803244292a90528fd1df87445"
-      },
-      {
-        "@id": "_:Nff8c8947cc95422bb98dbfff58ea6aac"
-      },
-      {
-        "@id": "_:N69f516661efc4d42b2835ea8494707e7"
-      },
-      {
-        "@id": "_:N95ba679631de4e6e9cf1ffe1563fd0a6"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "A multi-layer-controlled strategy for cloning and expression of toxin genes in Escherichia coli"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/37624265"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd62f2780a7394847831de9f2ad3870e8",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85168739327"
-      }
-    ]
-  },
-  {
-    "@id": "_:N02a9bcf803244292a90528fd1df87445",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "001056779600001"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nff8c8947cc95422bb98dbfff58ea6aac",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "37624265"
-      }
-    ]
-  },
-  {
-    "@id": "_:N69f516661efc4d42b2835ea8494707e7",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "bd0415ef-4c2e-44a2-b5a5-9dddb5c96656"
-      }
-    ]
-  },
-  {
-    "@id": "_:N95ba679631de4e6e9cf1ffe1563fd0a6",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.3390/toxins15080508"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1126/sciadv.abe7999",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7126-6103"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N8698276157c842e7b1f60212cd2cc192"
-      },
-      {
-        "@id": "_:N8bd89e89923e48b19804b4c108c98c35"
-      },
-      {
-        "@id": "_:N2290046a80e54bdba3bd8054f97a1221"
-      },
-      {
-        "@id": "_:N321c07a0057c44db91d49396ed1994a8"
-      },
-      {
-        "@id": "_:N0ac8d841329242f08834623634da37d5"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Molecular architecture of the endocytic TPLATE complex"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/33637534"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8698276157c842e7b1f60212cd2cc192",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1126/sciadv.abe7999"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8bd89e89923e48b19804b4c108c98c35",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "33637534"
-      }
-    ]
-  },
-  {
-    "@id": "_:N2290046a80e54bdba3bd8054f97a1221",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85102035889"
-      }
-    ]
-  },
-  {
-    "@id": "_:N321c07a0057c44db91d49396ed1994a8",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "3ea82fc7-c02e-486e-8f22-076a573b5ddc"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0ac8d841329242f08834623634da37d5",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000622481300035"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1128/mbio.02947-21",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7126-6103"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N2c88a6d7097747279e8f2791dce6a3df"
-      },
-      {
-        "@id": "_:N8f5752be97274e75ac4b8b421dccb964"
-      },
-      {
-        "@id": "_:N5fe33116528347429b888189f5775fe9"
-      },
-      {
-        "@id": "_:N75ad446dd02f44f7a98ce94d8a2c72c7"
-      },
-      {
-        "@id": "_:N3297729baff149738959570121d91bf4"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Bistable expression of a toxin-antitoxin system located in a cryptic prophage of Escherichia coliO157:H7"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/34844426"
-      }
-    ]
-  },
-  {
-    "@id": "_:N2c88a6d7097747279e8f2791dce6a3df",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000736937900007"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8f5752be97274e75ac4b8b421dccb964",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85121990088"
-      }
-    ]
-  },
-  {
-    "@id": "_:N5fe33116528347429b888189f5775fe9",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1128/mbio.02947-21"
-      }
-    ]
-  },
-  {
-    "@id": "_:N75ad446dd02f44f7a98ce94d8a2c72c7",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "8dad1528-f689-4a00-90bd-7142d2452fba"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3297729baff149738959570121d91bf4",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "34844426"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.1016/j.bpj.2019.03.015",
-    "@type": [
-      "http://schema.org/CreativeWork"
-    ],
-    "http://schema.org/creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-7126-6103"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Ndae47aa5e6214296afd8000372fb8602"
-      },
-      {
-        "@id": "_:Nfdfe24a22237465c8c65e45aaa854633"
-      },
-      {
-        "@id": "_:Nc52eb241fe93497783d3dc71a17eff6b"
-      },
-      {
-        "@id": "_:N7982908229294957bd6672ddac10116d"
-      },
-      {
-        "@id": "_:Nf7c8abf29d464a7eb3db9fecf85dba24"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Thermodynamic stability of the transcription regulator PaaR2 from Escherichia coli O157:H7"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/30979547"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ndae47aa5e6214296afd8000372fb8602",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "source-work-id"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "8aa49bee-89a9-4e2e-b306-8336c7bf1f0b"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nfdfe24a22237465c8c65e45aaa854633",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000465230800006"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc52eb241fe93497783d3dc71a17eff6b",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1016/j.bpj.2019.03.015"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7982908229294957bd6672ddac10116d",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85063982820"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nf7c8abf29d464a7eb3db9fecf85dba24",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "30979547"
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.1002/pro.4071",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -577,19 +11,19 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:Nbb1f6cf07b394f3e89e938ffa92001b2"
+        "@id": "_:Nd3b5a9c2205347d390c5f3e189d4ea30"
       },
       {
-        "@id": "_:N6b53011a0c7f4f91bf6b05d36244b1f9"
+        "@id": "_:N7214eb8a874b4db39265172140333fb1"
       },
       {
-        "@id": "_:N998a54607ccb437a9f1899976211be7e"
+        "@id": "_:N2d0a390c08664b15864b7ad3c7410819"
       },
       {
-        "@id": "_:N6496b720bcea4e24bb12623c0e69b1cd"
+        "@id": "_:Nde41d050961a47158a3e89e6dba7ab89"
       },
       {
-        "@id": "_:Ne3e6ba01c83f4f52b9f6e0539efd7a21"
+        "@id": "_:N99e199be3ed84dbca9cb721ba8006c73"
       }
     ],
     "http://schema.org/name": [
@@ -604,7 +38,7 @@
     ]
   },
   {
-    "@id": "_:Nbb1f6cf07b394f3e89e938ffa92001b2",
+    "@id": "_:Nd3b5a9c2205347d390c5f3e189d4ea30",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -620,7 +54,7 @@
     ]
   },
   {
-    "@id": "_:N6b53011a0c7f4f91bf6b05d36244b1f9",
+    "@id": "_:N7214eb8a874b4db39265172140333fb1",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -636,7 +70,7 @@
     ]
   },
   {
-    "@id": "_:N998a54607ccb437a9f1899976211be7e",
+    "@id": "_:N2d0a390c08664b15864b7ad3c7410819",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -652,7 +86,7 @@
     ]
   },
   {
-    "@id": "_:N6496b720bcea4e24bb12623c0e69b1cd",
+    "@id": "_:Nde41d050961a47158a3e89e6dba7ab89",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -668,7 +102,7 @@
     ]
   },
   {
-    "@id": "_:Ne3e6ba01c83f4f52b9f6e0539efd7a21",
+    "@id": "_:N99e199be3ed84dbca9cb721ba8006c73",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -684,7 +118,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.1107/s2053230x21009006",
+    "@id": "_:N5bb24c4078474828a8c98ccc2fad3594",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -695,82 +129,17 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N6e5cc65b567041c5a50922bf07d9444d"
-      },
-      {
-        "@id": "_:N31d4115c61b343c79999f9c0c4f76cf3"
-      },
-      {
-        "@id": "_:N15a7f3472cf2465b82b99c5c4749bfff"
-      },
-      {
-        "@id": "_:N0560e7780f9b4ee49b7d1701a5e26cf6"
-      },
-      {
-        "@id": "_:N90710826dc9a4b14b441a4e7cfafa519"
+        "@id": "_:Ncbf422c7bb874033ae54cd4cc0a6d878"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Nanobody-aided crystallization of the transcription regulator PaaR2 from Escherichia coli O157:H7"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://pubmed.ncbi.nlm.nih.gov/34605442"
+        "@value": "Toxin-antitoxin modules: functional characterization of transcription regulation and potential use against pathogenic bacteria"
       }
     ]
   },
   {
-    "@id": "_:N6e5cc65b567041c5a50922bf07d9444d",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "doi"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "10.1107/s2053230x21009006"
-      }
-    ]
-  },
-  {
-    "@id": "_:N31d4115c61b343c79999f9c0c4f76cf3",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "pmid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "34605442"
-      }
-    ]
-  },
-  {
-    "@id": "_:N15a7f3472cf2465b82b99c5c4749bfff",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "eid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "2-s2.0-85116611532"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0560e7780f9b4ee49b7d1701a5e26cf6",
+    "@id": "_:Ncbf422c7bb874033ae54cd4cc0a6d878",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -781,23 +150,7 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "f57fbeb7-ea0c-4e9f-9e7f-15753e9a1050"
-      }
-    ]
-  },
-  {
-    "@id": "_:N90710826dc9a4b14b441a4e7cfafa519",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "wosuid"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "000711166300007"
+        "@value": "c934f0cf-f211-49cc-ba53-3c5c9f4a1f4d"
       }
     ]
   },
@@ -828,7 +181,7 @@
     ]
   },
   {
-    "@id": "_:Na1a47f14eda74f0c83c4a9fabc081a96",
+    "@id": "https://doi.org/10.1016/j.bpj.2019.03.015",
     "@type": [
       "http://schema.org/CreativeWork"
     ],
@@ -839,17 +192,34 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N602065cf9ac746f1a86789718456bd59"
+        "@id": "_:N9fd56384eae6427caea77d1a6a027b58"
+      },
+      {
+        "@id": "_:N276e9a1cd74647098334614df146fa31"
+      },
+      {
+        "@id": "_:N31c67c4195774e2d8793d7a776fa3ff6"
+      },
+      {
+        "@id": "_:N700577b24f5a48da82bd40a83fdadc07"
+      },
+      {
+        "@id": "_:Na947703af6684d5bb4eb6258c8c2eeb2"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Toxin-antitoxin modules: functional characterization of transcription regulation and potential use against pathogenic bacteria"
+        "@value": "Thermodynamic stability of the transcription regulator PaaR2 from Escherichia coli O157:H7"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/30979547"
       }
     ]
   },
   {
-    "@id": "_:N602065cf9ac746f1a86789718456bd59",
+    "@id": "_:N9fd56384eae6427caea77d1a6a027b58",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -860,7 +230,637 @@
     ],
     "http://schema.org/value": [
       {
-        "@value": "c934f0cf-f211-49cc-ba53-3c5c9f4a1f4d"
+        "@value": "8aa49bee-89a9-4e2e-b306-8336c7bf1f0b"
+      }
+    ]
+  },
+  {
+    "@id": "_:N276e9a1cd74647098334614df146fa31",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000465230800006"
+      }
+    ]
+  },
+  {
+    "@id": "_:N31c67c4195774e2d8793d7a776fa3ff6",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1016/j.bpj.2019.03.015"
+      }
+    ]
+  },
+  {
+    "@id": "_:N700577b24f5a48da82bd40a83fdadc07",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85063982820"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na947703af6684d5bb4eb6258c8c2eeb2",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "30979547"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1126/sciadv.abe7999",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7126-6103"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N167752c8939f411c80266ddce8e07e26"
+      },
+      {
+        "@id": "_:N03cd70f6bd2c4497a228a06f7eeb1e0f"
+      },
+      {
+        "@id": "_:N65dd6fc68c0f4236a61dc2a628377060"
+      },
+      {
+        "@id": "_:N83b42ebe046642129136bf764dc23697"
+      },
+      {
+        "@id": "_:Nd25fca182bf7459a9a9ad4dd0b5abe14"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Molecular architecture of the endocytic TPLATE complex"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/33637534"
+      }
+    ]
+  },
+  {
+    "@id": "_:N167752c8939f411c80266ddce8e07e26",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1126/sciadv.abe7999"
+      }
+    ]
+  },
+  {
+    "@id": "_:N03cd70f6bd2c4497a228a06f7eeb1e0f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "33637534"
+      }
+    ]
+  },
+  {
+    "@id": "_:N65dd6fc68c0f4236a61dc2a628377060",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85102035889"
+      }
+    ]
+  },
+  {
+    "@id": "_:N83b42ebe046642129136bf764dc23697",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "3ea82fc7-c02e-486e-8f22-076a573b5ddc"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd25fca182bf7459a9a9ad4dd0b5abe14",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000622481300035"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1128/mbio.02947-21",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7126-6103"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:Nb177251dc6de4eadb8d16ed86bd84712"
+      },
+      {
+        "@id": "_:Nbc10e65c32064987aea31d3a35d6bd25"
+      },
+      {
+        "@id": "_:N5f3161b4608846f084a6173c84254835"
+      },
+      {
+        "@id": "_:N9d447efebba24d4ca7edbe10f3d1e5ac"
+      },
+      {
+        "@id": "_:N6c12dc2302aa42ee924df986079c4978"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Bistable expression of a toxin-antitoxin system located in a cryptic prophage of Escherichia coliO157:H7"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/34844426"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb177251dc6de4eadb8d16ed86bd84712",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000736937900007"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbc10e65c32064987aea31d3a35d6bd25",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85121990088"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5f3161b4608846f084a6173c84254835",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1128/mbio.02947-21"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9d447efebba24d4ca7edbe10f3d1e5ac",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "8dad1528-f689-4a00-90bd-7142d2452fba"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6c12dc2302aa42ee924df986079c4978",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "34844426"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.3390/toxins15080508",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7126-6103"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N1e247c7b0a2c45a1816857e9a9bbf8b0"
+      },
+      {
+        "@id": "_:N9077e24de6e24318b67836540f1eda6b"
+      },
+      {
+        "@id": "_:Nb4049336dae2441089ae0fd15e4dfe9d"
+      },
+      {
+        "@id": "_:N514cbc66d95f43cb94723939b8675125"
+      },
+      {
+        "@id": "_:Nd6287e115dd649c8a2082985a850e33c"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A multi-layer-controlled strategy for cloning and expression of toxin genes in Escherichia coli"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/37624265"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1e247c7b0a2c45a1816857e9a9bbf8b0",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85168739327"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9077e24de6e24318b67836540f1eda6b",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "001056779600001"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb4049336dae2441089ae0fd15e4dfe9d",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "37624265"
+      }
+    ]
+  },
+  {
+    "@id": "_:N514cbc66d95f43cb94723939b8675125",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "bd0415ef-4c2e-44a2-b5a5-9dddb5c96656"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd6287e115dd649c8a2082985a850e33c",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.3390/toxins15080508"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1107/s2053230x21009006",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7126-6103"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N2fb0739172584f5ba75f6c2274167385"
+      },
+      {
+        "@id": "_:Nda7fc201b02d483bba7cab7fa1fd3fa7"
+      },
+      {
+        "@id": "_:N40203d25d63f4e3db16760043899b59a"
+      },
+      {
+        "@id": "_:Na641f51704864fa3b6f033e57c3ce819"
+      },
+      {
+        "@id": "_:N2a2d54efb6f64089bbf28a30b5ab3a07"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Nanobody-aided crystallization of the transcription regulator PaaR2 from Escherichia coli O157:H7"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://pubmed.ncbi.nlm.nih.gov/34605442"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2fb0739172584f5ba75f6c2274167385",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1107/s2053230x21009006"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nda7fc201b02d483bba7cab7fa1fd3fa7",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "pmid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "34605442"
+      }
+    ]
+  },
+  {
+    "@id": "_:N40203d25d63f4e3db16760043899b59a",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85116611532"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na641f51704864fa3b6f033e57c3ce819",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "f57fbeb7-ea0c-4e9f-9e7f-15753e9a1050"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2a2d54efb6f64089bbf28a30b5ab3a07",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000711166300007"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.1007/s12104-019-09915-9",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-7126-6103"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N824d5e76660e48bcab61c4152e09aeab"
+      },
+      {
+        "@id": "_:Ncba73e62853e4f36afdea421bd4d7070"
+      },
+      {
+        "@id": "_:N65bdc7446d0540279a925c3d91ebc2b1"
+      },
+      {
+        "@id": "_:N1faa139296f74a50b007a8fe7923690f"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "1H, 13C, and 15N backbone and side chain chemical shift assignment of YdaS, a monomeric member of the HigA family"
+      }
+    ]
+  },
+  {
+    "@id": "_:N824d5e76660e48bcab61c4152e09aeab",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "doi"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "10.1007/s12104-019-09915-9"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncba73e62853e4f36afdea421bd4d7070",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "wosuid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "000490835400001"
+      }
+    ]
+  },
+  {
+    "@id": "_:N65bdc7446d0540279a925c3d91ebc2b1",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "source-work-id"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "4d21eadc-011e-41a5-8490-006282b10280"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1faa139296f74a50b007a8fe7923690f",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "eid"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "2-s2.0-85073925915"
       }
     ]
   }

@@ -6,7 +6,7 @@
     ],
     "http://schema.org/affiliation": [
       {
-        "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f"
+        "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.426539.f"
       }
     ],
     "http://schema.org/familyName": [
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "@id": "file:///home/localadmin/Documents/KH_demo/grid.426539.f",
+    "@id": "file:///home/localadmin/Documents/KH_kgap_demo/grid.426539.f",
     "@type": [
       "http://schema.org/Organization"
     ],

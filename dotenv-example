@@ -1,3 +1,6 @@
+REG_NS="ghcr.io/vliz-be-opsci/kgap"
+PROJECT="khdemo"
+
 #graphdb env variables
 GDB_REPO=kgap
 REPOLABEL=label_repo_here
@@ -11,5 +14,5 @@ SRC_FOLDER=/kgap/notebooks
 INPUT_DATA_LOCATION=/data
 OUTPUT_DATA_LOCATION=/data
 SEMBENCH_DATA_LOCATION=/data
-SEMBENCH_CONFIG_PATH=/data/sembench.json
+SEMBENCH_CONFIG_PATH="/data/sembench/sembench.yaml"
 SCHEDULER_INTERVAL_SECONDS=86400

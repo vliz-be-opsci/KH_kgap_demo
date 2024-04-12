@@ -1,140 +1,5 @@
 [
   {
-    "@id": "https://orcid.org/0000-0002-4242-8553",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/affiliation": [
-      {
-        "@id": "_:N82a326a317034af4888c83c4b7cb69c7"
-      }
-    ],
-    "http://schema.org/alumniOf": [
-      {
-        "@id": "_:N0d716a299f504c41b324752a3f493ecf"
-      },
-      {
-        "@id": "_:Nc96466d88b6a4c43bd76113d5976ac84"
-      }
-    ],
-    "http://schema.org/familyName": [
-      {
-        "@value": "Goley"
-      }
-    ],
-    "http://schema.org/givenName": [
-      {
-        "@value": "Joanna"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://orcid.org/0000-0002-4242-8553"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0d716a299f504c41b324752a3f493ecf",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N58a7f89827584437aa44f0efdfb9468f"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Coastal Carolina University"
-      }
-    ]
-  },
-  {
-    "@id": "_:N58a7f89827584437aa44f0efdfb9468f",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "ROR"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "https://ror.org/01621q256"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc96466d88b6a4c43bd76113d5976ac84",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:N487c2c92e2954c358b70f0f47073bdb6"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ghent University"
-      }
-    ]
-  },
-  {
-    "@id": "_:N487c2c92e2954c358b70f0f47073bdb6",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "ROR"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "https://ror.org/00cv9y106"
-      }
-    ]
-  },
-  {
-    "@id": "_:N82a326a317034af4888c83c4b7cb69c7",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@value": "Open Science"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@id": "_:Ncbfaa7d2d1294d02994ed17eb0cfd0ff"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Flanders Marine Institute"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ncbfaa7d2d1294d02994ed17eb0cfd0ff",
-    "@type": [
-      "http://schema.org/PropertyValue"
-    ],
-    "http://schema.org/propertyID": [
-      {
-        "@value": "ROR"
-      }
-    ],
-    "http://schema.org/value": [
-      {
-        "@value": "https://ror.org/0496vr396"
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.1016/j.fishres.2023.106616",
     "@type": [
       "http://schema.org/CreativeWork"
@@ -146,7 +11,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N59ea61fac6c0478bbce9e3e8135ef6bc"
+        "@id": "_:Nb9188db146794523a14f0d019faca5bc"
       }
     ],
     "http://schema.org/name": [
@@ -156,7 +21,7 @@
     ]
   },
   {
-    "@id": "_:N59ea61fac6c0478bbce9e3e8135ef6bc",
+    "@id": "_:Nb9188db146794523a14f0d019faca5bc",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -183,7 +48,7 @@
     ],
     "http://schema.org/identifier": [
       {
-        "@id": "_:N34369c690cf144f1b33a9d7a95d87652"
+        "@id": "_:N8cfd52bbf54f43139b62f0be8255ca53"
       }
     ],
     "http://schema.org/name": [
@@ -193,7 +58,7 @@
     ]
   },
   {
-    "@id": "_:N34369c690cf144f1b33a9d7a95d87652",
+    "@id": "_:N8cfd52bbf54f43139b62f0be8255ca53",
     "@type": [
       "http://schema.org/PropertyValue"
     ],
@@ -205,6 +70,141 @@
     "http://schema.org/value": [
       {
         "@value": "10.5281/zenodo.7965398"
+      }
+    ]
+  },
+  {
+    "@id": "https://orcid.org/0000-0002-4242-8553",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/affiliation": [
+      {
+        "@id": "_:N829158e1f2b3487aaf6d480cf9603d6a"
+      }
+    ],
+    "http://schema.org/alumniOf": [
+      {
+        "@id": "_:Nc221901820974422ab5f591320e97e9c"
+      },
+      {
+        "@id": "_:N150b8734bc4a42fabff41e2af13eced7"
+      }
+    ],
+    "http://schema.org/familyName": [
+      {
+        "@value": "Goley"
+      }
+    ],
+    "http://schema.org/givenName": [
+      {
+        "@value": "Joanna"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://orcid.org/0000-0002-4242-8553"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc221901820974422ab5f591320e97e9c",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N568cb938f09e410d9ac8b85117f22726"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Coastal Carolina University"
+      }
+    ]
+  },
+  {
+    "@id": "_:N568cb938f09e410d9ac8b85117f22726",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "ROR"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "https://ror.org/01621q256"
+      }
+    ]
+  },
+  {
+    "@id": "_:N150b8734bc4a42fabff41e2af13eced7",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N7cd0847a93094bbc9c6ebd73ca8c1570"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ghent University"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7cd0847a93094bbc9c6ebd73ca8c1570",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "ROR"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "https://ror.org/00cv9y106"
+      }
+    ]
+  },
+  {
+    "@id": "_:N829158e1f2b3487aaf6d480cf9603d6a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@value": "Open Science"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@id": "_:N85b9dfc36a1540f88abe6e8d72f7d6c4"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Flanders Marine Institute"
+      }
+    ]
+  },
+  {
+    "@id": "_:N85b9dfc36a1540f88abe6e8d72f7d6c4",
+    "@type": [
+      "http://schema.org/PropertyValue"
+    ],
+    "http://schema.org/propertyID": [
+      {
+        "@value": "ROR"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@value": "https://ror.org/0496vr396"
       }
     ]
   }
