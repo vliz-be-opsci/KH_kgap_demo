@@ -13,7 +13,7 @@ SELECT DISTINCT
     ?affiliation_name
 
 WHERE {
-    ?person a schema:Person .
+    ?person a schema:Person .                   #explain what it does for hands on session
     ?person schema:givenName ?first_name .
     ?person schema:familyName ?last_name .
     ?person schema:affiliation ?affiliation .
