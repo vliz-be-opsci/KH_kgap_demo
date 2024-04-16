@@ -1,0 +1,11 @@
+# sparql query to get datasets linked to special collections in the knowledge graph:
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX schema: <https://schema.org/>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?s ?dataset
+WHERE {
+    ?s a dcat:Catalog .
+    ?s dcat:dataset ?dataset .
+}

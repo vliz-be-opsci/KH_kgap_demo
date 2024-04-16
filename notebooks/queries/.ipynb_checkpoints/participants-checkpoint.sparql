@@ -1,0 +1,23 @@
+# sparql query to get general information of special collections in the knowledge graph:
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <http://schema.org/> #(note: linked data from orcid.org still uses http instead of https!)
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT 
+    ?person
+    ?first_name
+    ?last_name 
+    ?affiliation_name
+
+WHERE {
+    ?person a schema:Person .
+    ?person schema:givenName ?first_name .
+    ?person schema:familyName ?last_name .
+    ?person schema:affiliation ?affiliation .
+    ?affiliation schema:name ?affiliation_name .
+
+    FILTER(REGEX(STR(?person), "https://orcid.org/"))  
+}

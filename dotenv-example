@@ -2,17 +2,17 @@ REG_NS="ghcr.io/vliz-be-opsci/kgap"
 PROJECT="khdemo"
 
 #graphdb env variables
-GDB_REPO=kgap
-REPOLABEL=label_repo_here
-GDB_HOME_FOLDER=/opt/graphdb/home
+GDB_REPO="KH_kgap_demo"
+REPOLABEL="KH_kgap_demo"
+GDB_HOME_FOLDER="/opt/graphdb/home"
 GDB_MAX_HEADER=65536
 
 #jupyter env variables
-SRC_FOLDER=/kgap/notebooks
+SRC_FOLDER="/kgap/notebooks"
 
 # sembench env variables
-INPUT_DATA_LOCATION=/data
-OUTPUT_DATA_LOCATION=/data
-SEMBENCH_DATA_LOCATION=/data
+INPUT_DATA_LOCATION="/data"
+OUTPUT_DATA_LOCATION="/data"
+SEMBENCH_DATA_LOCATION="/data"
 SEMBENCH_CONFIG_PATH="/data/sembench/sembench.yaml"
 SCHEDULER_INTERVAL_SECONDS=86400

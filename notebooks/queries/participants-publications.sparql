@@ -1,0 +1,28 @@
+# sparql query to get general information of special collections in the knowledge graph:
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <http://schema.org/> #(note: linked data from orcid.org still uses http instead of https!)
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT 
+    ?person
+    ?first_name
+    ?last_name
+    ?pub
+    ?affiliation
+    ?affiliation_name
+
+WHERE {
+    
+    ?pub a schema:CreativeWork .  #select anything that is a CreativeWork
+    ?pub schema:creator ?person . #for those CreativeWorks, we want the person that created it
+    
+    ?person schema:givenName ?first_name . #the first and last name of those creators make it more readible
+    ?person schema:familyName ?last_name .
+    
+    ?person schema:affiliation ?affiliation . #we also want the affiliation that person is associated with
+    ?affiliation schema:name ?affiliation_name .
+    FILTER(REGEX(STR(?person), "https://orcid.org/"))  
+}
