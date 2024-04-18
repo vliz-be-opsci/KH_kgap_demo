@@ -4,8 +4,10 @@ from pandas import DataFrame
 import os
 
 # SPARQL EndPoint to use - wrapped as Knowledge-Graph 'source'
-GDB_ENDPOINT: str = str(Path.cwd() / 
-GDB: KGSource = KGSource.build(FILE_SOURCE)
+GDB_BASE: str = os.getenv("GDB_BASE", "http://localhost:7200/")
+GDB_REPO: str = os.getenv("GDB_REPO", "kgap")
+GDB_ENDPOINT: str = f"{GDB_BASE}repositories/{GDB_REPO}" 
+GDB: KGSource = KGSource.build(GDB_ENDPOINT)
 
 
 TEMPLATES_FOLDER = str(Path().absolute() / "queries")
