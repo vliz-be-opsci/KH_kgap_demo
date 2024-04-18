@@ -1,0 +1,20 @@
+# sparql query to retrieve all information maintained in the metadata record of a person, 
+# in this case specificaly for Katrina who has identifier <https://marineinfo.org/id/person/35548>
+
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+SELECT DISTINCT 
+    ?name ?orcid ?pub
+WHERE {
+    bind(<https://marineinfo.org/id/person/{{id}}> as ?person)
+    
+    ?person a schema:Person;                #get all people in the graph
+            schema:identifier ?orcid.       #get the identifiers of people
+
+    ?orcid rdfs:label ?name .
+    
+    ?pub a schema:CreativeWork;             #get all CreativeWorks 
+         schema:creator ?orcid .       #that have the the OrcID as its creator 
+}
