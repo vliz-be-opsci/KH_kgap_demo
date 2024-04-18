@@ -1,0 +1,9 @@
+# sparql query to retrieve all information maintained in the metadata record of a person, 
+# in this case specificaly for Katrina who has identifier <https://marineinfo.org/id/person/35548>
+
+SELECT DISTINCT 
+    ?katrina ?p ?o
+WHERE {
+    ?katrina ?p ?o .
+    FILTER(REGEX(STR(?katrina), "marineinfo.org/id/person/35548")) 
+}

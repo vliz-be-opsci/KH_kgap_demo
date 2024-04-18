@@ -10,6 +10,7 @@ SELECT DISTINCT
     ?type
     ?website
     ?founding_date
+    ?external_identifiers
 
 WHERE {
     ?inst a schema:Organization .
@@ -21,6 +22,9 @@ WHERE {
     }
     OPTIONAL {
     ?inst schema:foundingDate ?founding_date .
+    }
+    OPTIONAL {
+        ?inst schema:identifier ?external_identifiers . 
     }
     FILTER(REGEX(STR(?inst), "https://ror.org/"))
 }

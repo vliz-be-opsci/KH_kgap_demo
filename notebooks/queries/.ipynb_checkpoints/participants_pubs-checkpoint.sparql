@@ -10,9 +10,8 @@ SELECT DISTINCT
     ?person
     ?first_name
     ?last_name
-    (?affiliation_name as ?current_affiliation ) 
-    (?ins_name as ?alumni_institute )
-    (?ins_id as ?alumni_institute_id )
+    (?affiliation_name as ?current_affiliation)
+    ?pub
 
 WHERE {
     ?person a schema:Person .
@@ -23,10 +22,8 @@ WHERE {
     ?affiliation schema:name ?affiliation_name .
     }
     OPTIONAL {
-    ?person schema:alumniOf ?ins .
-    ?ins schema:name ?ins_name .
-    ?ins schema:identifier / schema:propertyID "ROR" .
-    ?ins schema:identifier / schema:value ?ins_id .
+    ?pub a schema:CreativeWork . 
+    ?pub schema:creator ?person . 
     }
     FILTER(REGEX(STR(?person), "https://orcid.org/"))  
 }

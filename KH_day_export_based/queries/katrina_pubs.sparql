@@ -1,0 +1,16 @@
+# sparql query to retrieve all information maintained in the metadata record of a person, 
+# in this case specificaly for Katrina who has identifier <https://marineinfo.org/id/person/35548>
+
+PREFIX schema: <https://schema.org/>
+
+SELECT DISTINCT 
+    ?katrina ?identifier ?pub
+WHERE {
+    ?person a schema:Person .                #get all people in the graph
+    ?person schema:identifier ?identifier .  #get the identifiers of people
+
+    ?pub a schema:CreativeWork .             #get all CreativeWorks that have the the OrcID as its creator 
+    ?pub schema:creator ?identifier .
+    
+    FILTER(REGEX(STR(?person), "marineinfo.org/id/person/35548")) #filter to the person with this ID
+}

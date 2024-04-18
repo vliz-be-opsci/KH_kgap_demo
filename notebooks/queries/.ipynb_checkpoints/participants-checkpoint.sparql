@@ -1,23 +1,32 @@
-# sparql query to get general information of special collections in the knowledge graph:
+# sparql query to retrieve information from the knowledge graph about registered participants:
 
 PREFIX dcat: <http://www.w3.org/ns/dcat#> 
 PREFIX dct: <http://purl.org/dc/terms/>
-PREFIX schema: <http://schema.org/> #(note: linked data from orcid.org still uses http instead of https!)
+PREFIX schema: <https://schema.org/>
 PREFIX prov: <http://www.w3.org/ns/prov#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 SELECT DISTINCT 
     ?person
     ?first_name
-    ?last_name 
-    ?affiliation_name
+    ?last_name
+    (?affiliation_name as ?current_affiliation ) 
+    (?ins_name as ?alumni_institute )
+    (?ins_id as ?alumni_institute_id )
 
 WHERE {
     ?person a schema:Person .
     ?person schema:givenName ?first_name .
     ?person schema:familyName ?last_name .
+    OPTIONAL {
     ?person schema:affiliation ?affiliation .
     ?affiliation schema:name ?affiliation_name .
-
+    }
+    OPTIONAL {
+    ?person schema:alumniOf ?ins .
+    ?ins schema:name ?ins_name .
+    ?ins schema:identifier / schema:propertyID "ROR" .
+    ?ins schema:identifier / schema:value ?ins_id .
+    }
     FILTER(REGEX(STR(?person), "https://orcid.org/"))  
 }

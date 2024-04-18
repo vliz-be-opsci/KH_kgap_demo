@@ -22,3 +22,5 @@ assert:
     paths:
       - "<https://schema.org/givenName>"
       - "<https://schema.org/familyName>"
+      - "<http://www.w3.org/ns/org#hasMembership> / <http://www.w3.org/ns/org#member> / <https://schema.org/givenName>"
+      - "<http://www.w3.org/ns/org#hasMembership> / <http://www.w3.org/ns/org#organization> / <https://schema.org/name>"

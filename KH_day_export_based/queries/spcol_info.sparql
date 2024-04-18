@@ -1,0 +1,26 @@
+# sparql query to get general information of special collections in the knowledge graph:
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <https://schema.org/>
+
+SELECT DISTINCT 
+    ?spcol 
+    ?type 
+    ?title
+    ?internal_id
+    ?keywords
+    ?urls 
+
+WHERE {
+    ?spcol a dcat:Catalog .
+    ?spcol dct:type ?type .
+    ?spcol dct:title ?title .
+    ?spcol dct:identifier ?internal_id .
+    OPTIONAL {
+        ?spcol schema:keywords ?keywords .
+    }
+    OPTIONAL {
+        ?spcol schema:url ?urls .
+    }
+}

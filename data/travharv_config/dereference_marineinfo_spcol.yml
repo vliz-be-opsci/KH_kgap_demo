@@ -14,9 +14,9 @@ assert:
       - "<http://www.w3.org/ns/dcat#resource> "
   - subjects:
       SPARQL: >
-        SELECT DISTINCT ?s
+        SELECT DISTINCT ?o
         WHERE {
-              [] <http://www.w3.org/ns/dcat#resource> ?s .
+              ?s <http://www.w3.org/ns/dcat#resource> ?o .
               }
     paths:
       - "<https://schema.org/author>/<https://schema.org/givenName>"

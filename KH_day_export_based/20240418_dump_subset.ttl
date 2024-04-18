@@ -1,0 +1,1037 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-5185-8232>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-5185-8232> ;
+        pav:createdOn         "2022-02-09T09:28:06.292Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-03-25T09:19:54.195Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-25T09:19:54.195Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-5185-8232> ;
+        foaf:maker            <https://orcid.org/0000-0001-5185-8232> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-5185-8232> .
+
+<https://orcid.org/0000-0001-5185-8232#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-5185-8232" ;
+        foaf:accountName             "0000-0001-5185-8232" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-5185-8232#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0001-5185-8232>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Evelien de Ferrerre" ;
+        foaf:account       <https://orcid.org/0000-0001-5185-8232#orcid-id> ;
+        foaf:familyName    "de Ferrerre" ;
+        foaf:givenName     "Evelien" ;
+        foaf:mbox          <mailto:evelien.deferrerre@vlerick.com> ;
+        foaf:publications  <https://orcid.org/0000-0001-5185-8232#workspace-works> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-5611-4443>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-5611-4443> ;
+        pav:createdOn         "2021-06-25T08:30:14.660Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2023-07-13T12:01:11.921Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-07-13T12:01:11.921Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-5611-4443> ;
+        foaf:maker            <https://orcid.org/0000-0001-5611-4443> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-5611-4443> .
+
+<https://orcid.org/0000-0001-5611-4443#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-5611-4443" ;
+        foaf:accountName             "0000-0001-5611-4443" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-5611-4443>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Nele Schouteden" ;
+        foaf:account       <https://orcid.org/0000-0001-5611-4443#orcid-id> ;
+        foaf:familyName    "Schouteden" ;
+        foaf:givenName     "Nele" ;
+        foaf:publications  <https://orcid.org/0000-0001-5611-4443#workspace-works> .
+
+<https://orcid.org/0000-0001-5611-4443#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0001-5874-553X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-5874-553X" ;
+        foaf:accountName             "0000-0001-5874-553X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-5874-553X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-5874-553X> ;
+        pav:createdOn         "2019-06-24T07:11:02.600Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-28T07:16:47.670Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-28T07:16:47.670Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-5874-553X> ;
+        foaf:maker            <https://orcid.org/0000-0001-5874-553X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-5874-553X> .
+
+<https://orcid.org/0000-0001-5874-553X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0001-5874-553X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Siham Benramdane" ;
+        foaf:account       <https://orcid.org/0000-0001-5874-553X#orcid-id> ;
+        foaf:familyName    "Benramdane" ;
+        foaf:givenName     "Siham" ;
+        foaf:mbox          <mailto:Siham.Benramdane@uantwerpen.be> ;
+        foaf:publications  <https://orcid.org/0000-0001-5874-553X#workspace-works> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0001-6302-2897#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-6302-2897" ;
+        foaf:accountName             "0000-0001-6302-2897" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-6302-2897>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-6302-2897> ;
+        pav:createdOn         "2019-06-18T19:16:41.107Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-02-16T12:24:55.395Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-02-16T12:24:55.395Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-6302-2897> ;
+        foaf:maker            <https://orcid.org/0000-0001-6302-2897> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-6302-2897> .
+
+<https://orcid.org/0000-0001-6302-2897>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Evelien Dhollander" ;
+        foaf:account       <https://orcid.org/0000-0001-6302-2897#orcid-id> ;
+        foaf:familyName    "Dhollander" ;
+        foaf:givenName     "Evelien" ;
+        foaf:publications  <https://orcid.org/0000-0001-6302-2897#workspace-works> .
+
+<https://orcid.org/0000-0001-6302-2897#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-6387-5988>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-6387-5988> ;
+        pav:createdOn         "2021-07-09T18:37:14.384Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-06-22T06:41:51.593Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-06-22T06:41:51.593Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-6387-5988> ;
+        foaf:maker            <https://orcid.org/0000-0001-6387-5988> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-6387-5988> .
+
+<https://orcid.org/0000-0001-6387-5988#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0001-6387-5988#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-6387-5988" ;
+        foaf:accountName             "0000-0001-6387-5988" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-6387-5988>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Cedric Decruw" ;
+        foaf:account       <https://orcid.org/0000-0001-6387-5988#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Decruw" ;
+        foaf:givenName     "Cedric" ;
+        foaf:publications  <https://orcid.org/0000-0001-6387-5988#workspace-works> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-7126-6103>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-7126-6103> ;
+        pav:createdOn         "2018-01-23T08:48:57.717Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-01-30T05:46:03.857Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-01-30T05:46:03.857Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-7126-6103> ;
+        foaf:maker            <https://orcid.org/0000-0001-7126-6103> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-7126-6103> .
+
+<https://orcid.org/0000-0001-7126-6103#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-7126-6103" ;
+        foaf:accountName             "0000-0001-7126-6103" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-7126-6103>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Pieter De Bruyn" ;
+        foaf:account       <https://orcid.org/0000-0001-7126-6103#orcid-id> ;
+        foaf:familyName    "De Bruyn" ;
+        foaf:givenName     "Pieter" ;
+        foaf:page          <https://cris.vub.be/en/persons/pieter-de-bruyn(045679de-cff0-4683-af52-1f4a441c6ddb).html> ;
+        foaf:publications  <https://orcid.org/0000-0001-7126-6103#workspace-works> .
+
+<https://orcid.org/0000-0001-7126-6103#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-7415-9178>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-7415-9178> ;
+        pav:createdOn         "2019-06-28T08:12:25.025Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-22T10:49:20.017Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-22T10:49:20.017Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-7415-9178> ;
+        foaf:maker            <https://orcid.org/0000-0001-7415-9178> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-7415-9178> .
+
+<https://orcid.org/0000-0001-7415-9178#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-7415-9178" ;
+        foaf:accountName             "0000-0001-7415-9178" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-7415-9178>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Elien Dewitte" ;
+        foaf:account       <https://orcid.org/0000-0001-7415-9178#orcid-id> ;
+        foaf:familyName    "Dewitte" ;
+        foaf:givenName     "Elien" ;
+        foaf:page          <https://pureportal.ilvo.be/en/persons/9707e2b9-a0b4-441e-a89d-7a95d6d0039c> , <https://marineinfo.org/imis?module=person&persid=19141> ;
+        foaf:publications  <https://orcid.org/0000-0001-7415-9178#workspace-works> .
+
+<https://orcid.org/0000-0001-7415-9178#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-8456-3609>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-8456-3609> ;
+        pav:createdOn         "2021-06-03T06:53:43.390Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-03-29T11:54:05.227Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-03-29T11:54:05.227Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-8456-3609> ;
+        foaf:maker            <https://orcid.org/0000-0001-8456-3609> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-8456-3609> .
+
+<https://orcid.org/0000-0001-8456-3609#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-8456-3609" ;
+        foaf:accountName             "0000-0001-8456-3609" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-8456-3609>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Charlotte A. L. Dhondt" ;
+        foaf:account       <https://orcid.org/0000-0001-8456-3609#orcid-id> ;
+        foaf:familyName    "Dhondt" ;
+        foaf:givenName     "Charlotte A. L." ;
+        foaf:publications  <https://orcid.org/0000-0001-8456-3609#workspace-works> .
+
+<https://orcid.org/0000-0001-8456-3609#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0001-9506-766X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0001-9506-766X" ;
+        foaf:accountName             "0000-0001-9506-766X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0001-9506-766X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0001-9506-766X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Paula Oset García" ;
+        foaf:account       <https://orcid.org/0000-0001-9506-766X#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Oset García" ;
+        foaf:givenName     "Paula" ;
+        foaf:publications  <https://orcid.org/0000-0001-9506-766X#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0001-9506-766X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0001-9506-766X> ;
+        pav:createdOn         "2019-07-04T10:10:33.420Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-04-09T10:39:42.195Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T10:39:42.195Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0001-9506-766X> ;
+        foaf:maker            <https://orcid.org/0000-0001-9506-766X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0001-9506-766X> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-0585-4203#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-0585-4203" ;
+        foaf:accountName             "0000-0002-0585-4203" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0002-0585-4203>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Lyne Van de Vyvere" ;
+        foaf:account       <https://orcid.org/0000-0002-0585-4203#orcid-id> ;
+        foaf:familyName    "Van de Vyvere" ;
+        foaf:givenName     "Lyne" ;
+        foaf:publications  <https://orcid.org/0000-0002-0585-4203#workspace-works> .
+
+<https://orcid.org/0000-0002-0585-4203#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-0585-4203>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-0585-4203> ;
+        pav:createdOn         "2020-10-28T14:38:11.395Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-04T09:48:56.680Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-04T09:48:56.680Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-0585-4203> ;
+        foaf:maker            <https://orcid.org/0000-0002-0585-4203> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-0585-4203> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-3170-3345#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-3170-3345" ;
+        foaf:accountName             "0000-0002-3170-3345" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0002-3170-3345#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-3170-3345>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Emily Veltjen" ;
+        foaf:account       <https://orcid.org/0000-0002-3170-3345#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Veltjen" ;
+        foaf:givenName     "Emily" ;
+        foaf:page          <https://pureportal.inbo.be/portal/en/persons/emily-veltjen(7237bf36-9d48-443a-b72e-16c70964ab89).html> , <https://biblio.ugent.be/person/2553D83C-F0EE-11E1-A9DE-61C894A0A6B4> , <https://www.linkedin.com/in/emily-veltjen-25356a82/> ;
+        foaf:publications  <https://orcid.org/0000-0002-3170-3345#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-3170-3345>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-3170-3345> ;
+        pav:createdOn         "2017-01-20T10:18:37.936Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-04-09T03:20:12.758Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T03:20:12.758Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-3170-3345> ;
+        foaf:maker            <https://orcid.org/0000-0002-3170-3345> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-3170-3345> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-3292-4609>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-3292-4609> ;
+        pav:createdOn         "2020-02-25T12:29:35.342Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-05-24T10:46:27.160Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-05-24T10:46:27.160Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-3292-4609> ;
+        foaf:maker            <https://orcid.org/0000-0002-3292-4609> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-3292-4609> .
+
+<https://orcid.org/0000-0002-3292-4609#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-3292-4609>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Jone Paesmans" ;
+        foaf:account       <https://orcid.org/0000-0002-3292-4609#orcid-id> ;
+        foaf:familyName    "Paesmans" ;
+        foaf:givenName     "Jone" ;
+        foaf:page          <https://cris.vub.be/en/persons/jone-paesmans(b0bc43ca-2a12-437c-889d-9b064051b9fe).html> ;
+        foaf:publications  <https://orcid.org/0000-0002-3292-4609#workspace-works> .
+
+<https://orcid.org/0000-0002-3292-4609#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-3292-4609" ;
+        foaf:accountName             "0000-0002-3292-4609" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-4242-8553>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-4242-8553> ;
+        pav:createdOn         "2022-11-25T14:51:34.196Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-03-21T14:33:48.038Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-21T14:33:48.038Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-4242-8553> ;
+        foaf:maker            <https://orcid.org/0000-0002-4242-8553> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-4242-8553> .
+
+<https://orcid.org/0000-0002-4242-8553#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-4242-8553" ;
+        foaf:accountName             "0000-0002-4242-8553" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0002-4242-8553>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Joanna Goley" ;
+        foaf:account       <https://orcid.org/0000-0002-4242-8553#orcid-id> ;
+        foaf:familyName    "Goley" ;
+        foaf:givenName     "Joanna" ;
+        foaf:publications  <https://orcid.org/0000-0002-4242-8553#workspace-works> .
+
+<https://orcid.org/0000-0002-4242-8553#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-5911-1536#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-5911-1536>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-5911-1536> ;
+        pav:createdOn         "2019-05-14T13:36:18.350Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-04-10T16:07:36.876Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-10T16:07:36.876Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-5911-1536> ;
+        foaf:maker            <https://orcid.org/0000-0002-5911-1536> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-5911-1536> .
+
+<https://orcid.org/0000-0002-5911-1536>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Katrina Exter" ;
+        foaf:account       <https://orcid.org/0000-0002-5911-1536#orcid-id> ;
+        foaf:familyName    "Exter" ;
+        foaf:givenName     "Katrina" ;
+        foaf:mbox          <mailto:katrina.exter@vliz.be> ;
+        foaf:page          <http://purl.org/np/RABO9OcjZiwck-K2wil-dbWpH7uNADR3S-bL-k8oQa_ls> ;
+        foaf:publications  <https://orcid.org/0000-0002-5911-1536#workspace-works> .
+
+<https://orcid.org/0000-0002-5911-1536#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-5911-1536" ;
+        foaf:accountName             "0000-0002-5911-1536" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0002-7509-510X#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-7509-510X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Marie Robberecht" ;
+        foaf:account       <https://orcid.org/0000-0002-7509-510X#orcid-id> ;
+        foaf:familyName    "Robberecht" ;
+        foaf:givenName     "Marie" ;
+        foaf:mbox          <mailto:marie.robberecht@vliz.be> ;
+        foaf:publications  <https://orcid.org/0000-0002-7509-510X#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-7509-510X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-7509-510X> ;
+        pav:createdOn         "2021-06-09T07:23:17.763Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2022-04-11T13:20:42.524Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2022-04-11T13:20:42.524Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-7509-510X> ;
+        foaf:maker            <https://orcid.org/0000-0002-7509-510X> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-7509-510X> .
+
+<https://orcid.org/0000-0002-7509-510X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-7509-510X" ;
+        foaf:accountName             "0000-0002-7509-510X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-9313-4985>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-9313-4985> ;
+        pav:createdOn         "2020-03-31T12:56:50.259Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-03-08T10:30:10.010Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-08T10:30:10.010Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-9313-4985> ;
+        foaf:maker            <https://orcid.org/0000-0002-9313-4985> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-9313-4985> .
+
+<https://orcid.org/0000-0002-9313-4985#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-9313-4985" ;
+        foaf:accountName             "0000-0002-9313-4985" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0002-9313-4985>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Ziad Choueiki" ;
+        foaf:account       <https://orcid.org/0000-0002-9313-4985#orcid-id> ;
+        foaf:familyName    "Choueiki" ;
+        foaf:givenName     "Ziad" ;
+        foaf:publications  <https://orcid.org/0000-0002-9313-4985#workspace-works> .
+
+<https://orcid.org/0000-0002-9313-4985#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0002-9648-6484>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0002-9648-6484> ;
+        pav:createdOn         "2019-10-13T09:26:03.221Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-01-25T12:52:21.677Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-01-25T12:52:21.677Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0002-9648-6484> ;
+        foaf:maker            <https://orcid.org/0000-0002-9648-6484> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0002-9648-6484> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0002-9648-6484>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Marc Portier" ;
+        foaf:account       <https://orcid.org/0000-0002-9648-6484#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Portier" ;
+        foaf:givenName     "Marc" ;
+        foaf:mbox          <mailto:marc.portier@vliz.be> ;
+        foaf:page          <https://github.com/marc-portier> , <https://twitter.com/mportier> , <https://www.linkedin.com/in/marcportier/> , <https://oceanexpert.org/expert/43716> , <http://purl.org/np/RAUPyY2DISDVAcR2SVZBUz6_RFUqaCphxWmy1REVFeoWo> ;
+        foaf:publications  <https://orcid.org/0000-0002-9648-6484#workspace-works> .
+
+<https://orcid.org/0000-0002-9648-6484#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0002-9648-6484#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0002-9648-6484" ;
+        foaf:accountName             "0000-0002-9648-6484" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-0663-5907>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-0663-5907> ;
+        pav:createdOn         "2020-01-30T13:33:04.982Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2022-09-15T14:58:00.009Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2022-09-15T14:58:00.009Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-0663-5907> ;
+        foaf:maker            <https://orcid.org/0000-0003-0663-5907> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-0663-5907> .
+
+<https://orcid.org/0000-0003-0663-5907>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Laurian Van Maldeghem" ;
+        foaf:account       <https://orcid.org/0000-0003-0663-5907#orcid-id> ;
+        foaf:familyName    "Van Maldeghem" ;
+        foaf:givenName     "Laurian" ;
+        foaf:publications  <https://orcid.org/0000-0003-0663-5907#workspace-works> .
+
+<https://orcid.org/0000-0003-0663-5907#workspace-works>
+        rdf:type  foaf:Document .
+
+<https://orcid.org/0000-0003-0663-5907#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-0663-5907" ;
+        foaf:accountName             "0000-0003-0663-5907" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0003-3616-2936>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Linde Tuybens" ;
+        foaf:account       <https://orcid.org/0000-0003-3616-2936#orcid-id> ;
+        foaf:familyName    "Tuybens" ;
+        foaf:givenName     "Linde" ;
+        foaf:publications  <https://orcid.org/0000-0003-3616-2936#workspace-works> .
+
+<https://orcid.org/0000-0003-3616-2936#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-3616-2936>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-3616-2936> ;
+        pav:createdOn         "2021-12-01T16:28:36.220Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-03-25T10:53:31.852Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-03-25T10:53:31.852Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-3616-2936> ;
+        foaf:maker            <https://orcid.org/0000-0003-3616-2936> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-3616-2936> .
+
+<https://orcid.org/0000-0003-3616-2936#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-3616-2936" ;
+        foaf:accountName             "0000-0003-3616-2936" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0000-0003-4379-7382>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Jolien Berckmans" ;
+        foaf:account       <https://orcid.org/0000-0003-4379-7382#orcid-id> ;
+        foaf:familyName    "Berckmans" ;
+        foaf:givenName     "Jolien" ;
+        foaf:publications  <https://orcid.org/0000-0003-4379-7382#workspace-works> .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-4379-7382>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-4379-7382> ;
+        pav:createdOn         "2020-01-09T18:19:16.244Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2024-04-09T07:52:52.027Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T07:52:52.027Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-4379-7382> ;
+        foaf:maker            <https://orcid.org/0000-0003-4379-7382> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-4379-7382> .
+
+<https://orcid.org/0000-0003-4379-7382#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-4379-7382" ;
+        foaf:accountName             "0000-0003-4379-7382" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0003-4379-7382#workspace-works>
+        rdf:type  foaf:Document .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://sws.geonames.org/2802361/>
+        rdfs:label      "Kingdom of Belgium" , "Belgium" ;
+        gn:countryCode  "BE" ;
+        gn:name         "Belgium" , "Kingdom of Belgium" .
+
+<https://orcid.org/0000-0003-4847-6289#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0000-0003-4847-6289>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0000-0003-4847-6289> ;
+        pav:createdOn         "2017-03-07T15:27:04.616Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2023-11-13T10:58:32.731Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-11-13T10:58:32.731Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0000-0003-4847-6289> ;
+        foaf:maker            <https://orcid.org/0000-0003-4847-6289> ;
+        foaf:primaryTopic     <https://orcid.org/0000-0003-4847-6289> .
+
+<https://orcid.org/0000-0003-4847-6289#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0000-0003-4847-6289" ;
+        foaf:accountName             "0000-0003-4847-6289" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0000-0003-4847-6289>
+        rdf:type           foaf:Person , prov:Person ;
+        rdfs:label         "Özgün Ünver" ;
+        foaf:account       <https://orcid.org/0000-0003-4847-6289#orcid-id> ;
+        foaf:based_near    [ rdf:type          gn:Feature ;
+                             gn:countryCode    "BE" ;
+                             gn:parentCountry  <http://sws.geonames.org/2802361/>
+                           ] ;
+        foaf:familyName    "Ünver" ;
+        foaf:givenName     "Özgün" ;
+        foaf:page          <https://cris.vub.be/en/persons/oezgun-unver(480ece38-1a25-4ed2-8dea-f00ad39d5da1).html> , <https://www.linkedin.com/in/ozgununver/> ;
+        foaf:publications  <https://orcid.org/0000-0003-4847-6289#workspace-works> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0009-0000-9611-3824#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0009-0000-9611-3824" ;
+        foaf:accountName             "0009-0000-9611-3824" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0009-0000-9611-3824#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0009-0000-9611-3824>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0009-0000-9611-3824> ;
+        pav:createdOn         "2023-11-23T11:04:39.416Z"^^xsd:dateTime ;
+        pav:lastUpdateOn      "2024-04-09T03:47:19.607Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2024-04-09T03:47:19.607Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0009-0000-9611-3824> ;
+        foaf:maker            <https://orcid.org/0009-0000-9611-3824> ;
+        foaf:primaryTopic     <https://orcid.org/0009-0000-9611-3824> .
+
+<https://orcid.org/0009-0000-9611-3824>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Maria-Rose Eves Down" ;
+        foaf:account       <https://orcid.org/0009-0000-9611-3824#orcid-id> ;
+        foaf:familyName    "Eves Down" ;
+        foaf:givenName     "Maria-Rose" ;
+        foaf:mbox          <mailto:mariarose.evesdown@inbo.be> ;
+        foaf:publications  <https://orcid.org/0009-0000-9611-3824#workspace-works> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn:   <http://www.geonames.org/ontology#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix pav:  <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://orcid.org/0009-0008-2092-491X#orcid-id>
+        rdf:type                     foaf:OnlineAccount ;
+        rdfs:label                   "0009-0008-2092-491X" ;
+        foaf:accountName             "0009-0008-2092-491X" ;
+        foaf:accountServiceHomepage  <https://orcid.org> .
+
+<https://orcid.org/0009-0008-2092-491X>
+        rdf:type           prov:Person , foaf:Person ;
+        rdfs:label         "Dunya Nasser" ;
+        foaf:account       <https://orcid.org/0009-0008-2092-491X#orcid-id> ;
+        foaf:familyName    "Nasser" ;
+        foaf:givenName     "Dunya" ;
+        foaf:publications  <https://orcid.org/0009-0008-2092-491X#workspace-works> .
+
+<https://orcid.org/0009-0008-2092-491X#workspace-works>
+        rdf:type  foaf:Document .
+
+<http://pub.orcid.org/orcid-pub-web/experimental_rdf_v1/0009-0008-2092-491X>
+        rdf:type              foaf:PersonalProfileDocument ;
+        pav:createdBy         <https://orcid.org/0009-0008-2092-491X> ;
+        pav:createdOn         "2023-11-29T14:55:22.882Z"^^xsd:dateTime ;
+        pav:createdWith       <https://orcid.org> ;
+        pav:lastUpdateOn      "2023-12-04T08:39:05.723Z"^^xsd:dateTime ;
+        prov:generatedAtTime  "2023-12-04T08:39:05.723Z"^^xsd:dateTime ;
+        prov:wasAttributedTo  <https://orcid.org/0009-0008-2092-491X> ;
+        foaf:maker            <https://orcid.org/0009-0008-2092-491X> ;
+        foaf:primaryTopic     <https://orcid.org/0009-0008-2092-491X> .
+@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/006e5kg04>
+    a schema:Organization ;
+    schema:name 'Vrije Universiteit Brussel'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1834'^^xsd:string ;
+        dct:relation <https://ror.org/002kn6n54> ;
+        dct:relation <https://ror.org/05cmp5q80> ;
+        dct:relation <https://ror.org/01t5yh786> ;
+        dct:relation <https://ror.org/038f7y939> ;
+        schema:subOrganization <https://ror.org/040w2dm02> ;
+        schema:subOrganization <https://ror.org/03e84cm85> ;
+        schema:subOrganization <https://ror.org/05y4fay10> ;
+        dct:relation <https://ror.org/016782g02> ;
+    schema:url 'http://www.vub.ac.be/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q612665> ;
+    schema:identifier <http://isni.org/isni/0000000122908069> ;
+    schema:identifier <https://api.crossref.org/funders/501100004418> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/008x57b05>
+    a schema:Organization ;
+    schema:name 'University of Antwerp'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'UAntwerp'^^xsd:string;
+    schema:foundingDate '2003'^^xsd:string ;
+        dct:relation <https://ror.org/01hwamj44> ;
+        schema:subOrganization <https://ror.org/00hm4a331> ;
+        schema:subOrganization <https://ror.org/041x7eh14> ;
+    schema:url 'https://www.uantwerpen.be/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q175241> ;
+    schema:identifier <http://isni.org/isni/0000000107903681> ;
+    schema:identifier <https://api.crossref.org/funders/501100007660> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/00afp2z80>
+    a schema:Organization ;
+    schema:name 'University of Liège'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'ULiège'^^xsd:string;
+    schema:foundingDate '1817'^^xsd:string ;
+        dct:relation <https://ror.org/044s61914> ;
+        schema:subOrganization <https://ror.org/00bmzhb16> ;
+        schema:subOrganization <https://ror.org/032v67m28> ;
+    schema:url 'https://www.uliege.be/cms/c_8699436/fr/portail-uliege'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q1334582> ;
+    schema:identifier <http://isni.org/isni/0000000108057253> ;
+    schema:identifier <https://api.crossref.org/funders/501100005627> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/00cv9y106>
+    a schema:Organization ;
+    schema:name 'Ghent University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'UGent'^^xsd:string;
+    schema:foundingDate '1817'^^xsd:string ;
+        dct:relation <https://ror.org/00xmkp704> ;
+        dct:relation <https://ror.org/056t38c37> ;
+        schema:subOrganization <https://ror.org/041bygf77> ;
+        schema:subOrganization <https://ror.org/05bm1gr16> ;
+        schema:subOrganization <https://ror.org/04q4ydz28> ;
+        schema:subOrganization <https://ror.org/04hbttm44> ;
+        schema:subOrganization <https://ror.org/01qnqmc89> ;
+        schema:subOrganization <https://ror.org/05y4fay10> ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'https://www.ugent.be/en'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q1137665> ;
+    schema:identifier <http://isni.org/isni/0000000120697798> ;
+    schema:identifier <https://api.crossref.org/funders/501100004385> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/01621q256>
+    a schema:Organization ;
+    schema:name 'Coastal Carolina University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'Coastal'^^xsd:string;
+    schema:foundingDate '1954'^^xsd:string ;
+    schema:url 'http://www.coastal.edu/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q1104405> ;
+    schema:identifier <http://isni.org/isni/0000000087389661> ;
+    schema:identifier <https://api.crossref.org/funders/100008515> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/03prydq77>
+    a schema:Organization ;
+    schema:name 'University of Vienna'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1365'^^xsd:string ;
+        dct:relation <https://ror.org/05f0zr486> ;
+        schema:subOrganization <https://ror.org/01cbw5x35> ;
+        schema:subOrganization <https://ror.org/014cpn338> ;
+        schema:subOrganization <https://ror.org/01w64ht88> ;
+    schema:url 'https://www.univie.ac.at/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q165980> ;
+    schema:identifier <http://isni.org/isni/0000000122861424> ;
+    schema:identifier <https://api.crossref.org/funders/501100003065> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/0496vr396>
+    a schema:Organization ;
+    schema:name 'Flanders Marine Institute'^^xsd:string ;
+    schema:additionalType 'Nonprofit'^^xsd:string;
+    schema:foundingDate '1999'^^xsd:string ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'https://www.vliz.be'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q2297636> ;
+    schema:identifier <http://isni.org/isni/0000000122309672> ;
+    schema:identifier <https://api.crossref.org/funders/100018447> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/04pm4x478>
+    a schema:Organization ;
+    schema:name 'Istanbul Bilgi University'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:foundingDate '1996'^^xsd:string ;
+    schema:url 'http://www.bilgi.edu.tr/en/'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q344262> ;
+    schema:identifier <http://isni.org/isni/0000000106717131> ;
+.@prefix dct: <http://purl.org/dc/terms/#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<https://ror.org/05f950310>
+    a schema:Organization ;
+    schema:name 'KU Leuven'^^xsd:string ;
+    schema:additionalType 'Education'^^xsd:string;
+    schema:alternateName 'Catholic University of Leuven'^^xsd:string, 'University of Leuven'^^xsd:string;
+    schema:foundingDate '1425'^^xsd:string ;
+        dct:relation <https://ror.org/01cz3wf89> ;
+        dct:relation <https://ror.org/03w5j8p12> ;
+        dct:relation <https://ror.org/0424bsv16> ;
+        dct:relation <https://ror.org/056t38c37> ;
+        schema:subOrganization <https://ror.org/04sc67422> ;
+        schema:subOrganization <https://ror.org/045c7t348> ;
+        schema:subOrganization <https://ror.org/00eyng893> ;
+        schema:subOrganization <https://ror.org/02bpp8r91> ;
+        dct:relation <https://ror.org/0038zss60> ;
+    schema:url 'http://www.kuleuven.be/english'^^xsd:anyURI;
+    schema:identifier <https://www.wikidata.org/wiki/Q833670> ;
+    schema:identifier <http://isni.org/isni/0000000106687884> ;
+    schema:identifier <https://api.crossref.org/funders/501100004040> ;
+.

@@ -4,11 +4,12 @@ from pandas import DataFrame
 import os
 
 # SPARQL EndPoint to use - wrapped as Knowledge-Graph 'source'
-GDB_ENDPOINT: str = str(Path.cwd() / 
-GDB: KGSource = KGSource.build(FILE_SOURCE)
+WORKFLDR: Path =  Path(__file__).parent
+EXPORTFILE=str( WORKFLDR / "20240418_dump-full.ttl")
+KGS: KGSource = KGSource.build(EXPORTFILE)
 
 
-TEMPLATES_FOLDER = str(Path().absolute() / "queries")
+TEMPLATES_FOLDER = str(WORKFLDR / "queries")
 GENERATOR = DefaultSparqlBuilder(templates_folder=TEMPLATES_FOLDER)
 
 
@@ -25,8 +26,7 @@ def _execute_to_df(src: KGSource, name: str, **vars) -> DataFrame:
 
 
 def execute_to_df(name: str, **vars) -> DataFrame:
-    """Builds the sparql and executes, returning the result as a dataframe."""
-    return _execute_to_df(GDB, name, **vars)
+    return _execute_to_df(KGS, name, **vars)
 
 
 class ExternalEndPoint:

@@ -1,0 +1,25 @@
+# sparql query to get publications of a person interal CRIS identifiers
+
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <https://schema.org/> 
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT 
+    ?person
+    ?first_name
+    ?last_name
+    ?identifier
+    ?pub
+
+WHERE {   
+    ?person schema:givenName ?first_name . 
+    ?person schema:familyName ?last_name .
+    ?person schema:identifier ?identifier .
+
+    ?pub a schema:CreativeWork . 
+    ?pub schema:creator ?identifier . 
+    
+    FILTER(REGEX(STR(?person), "https://marineinfo.org/"))  
+}
