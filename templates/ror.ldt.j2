@@ -4,18 +4,18 @@
 
 <{{_.id}}>
     a schema:Organization ;
-    schema:name {{_.name | ttl("xsd:string") |safe }} ;
+    schema:name {{_.name | xsd("string") |safe }} ;
     {%- if _.types %}
-    schema:additionalType {%for type in _.types%}{{type | ttl("xsd:string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
+    schema:additionalType {%for type in _.types%}{{type | xsd("string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
     {%- endif %}
     {%- if _.aliases %}
-    schema:alternateName {%for alias in _.aliases%}{{alias | ttl("xsd:string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
+    schema:alternateName {%for alias in _.aliases%}{{alias | xsd("string") |safe}}{% if not loop.last %}, {% endif %}{%endfor%}; 
     {%- endif %}
     {%- if _.email_address %}
-    schema:email {{_.email_address | ttl("xsd:string") |safe}} ;
+    schema:email {{_.email_address | xsd("string") |safe}} ;
     {%- endif %}
     {%- if _.established %}
-    schema:foundingDate {{_.established | ttl("xsd:string") |safe}} ;
+    schema:foundingDate {{_.established | xsd("string") |safe}} ;
     {%- endif %}
     {#- relationships #}
     {%- if _.relationships %}
@@ -28,7 +28,7 @@
     {%- endfor %}
     {%- endif %}
     {%- if _.links %}
-    schema:url {% for link in _.links %}{{link | ttl("xsd:anyURI") |safe}}{% if not loop.last %}, {% endif %}{%- endfor %}; 
+    schema:url {% for link in _.links %}{{link | xsd("anyURI") |safe}}{% if not loop.last %}, {% endif %}{%- endfor %}; 
     {%- endif %}
     {#- external ids #}
     {%- if _.external_ids.Wikidata %}
